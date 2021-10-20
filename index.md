@@ -24,3 +24,16 @@ The class will meet three times a week during the 15-week semester. Classroom ti
 When possible, the majority of time outside of class will be dedicated to tasks and deliverables that relate directly to the capstone teams’ projects.  
 
 Additional information will be added to this website as we get closer to the start of class in the spring...
+
+
+## Links
+
+
+- [Course Syllabus (Draft)](Syllabus)
+- [Desire2Learn](http://d2l.msu.edu) (aka D2L) - MSU Course management system
+
+
+
+
+Written by Dr. Dirk Colbry, Michigan State University
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

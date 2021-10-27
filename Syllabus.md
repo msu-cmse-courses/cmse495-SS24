@@ -188,8 +188,8 @@ The best way to contact instructors is through email or by visiting their office
 
 Many of the project sponsors will require students to sign an Non-Disclosure Agreement (NDA) and in some rare cases will be asked to sign an intellectual Property agreement.  Your instructor will work with you so that you understand your rights and you will not be required to sign either document.    If students are unwilling or unable to sign these document they will be assigned to an alternative project.
 
-- [NDA Template]()
-- [IP Template (special cases only)]()
+- [NDA Template](./Files/MSE495_MSU_NDA_2020_template.docx)
+- [IP Template (special cases only)](./Files/CMSE495_MSU_Intellectual_Property_Agreement_2020_template.docx)
 
 ## Class attendance 
 

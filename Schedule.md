@@ -1,0 +1,39 @@
+| Date |  number | assignment |
+|------|------|--------|----------|
+|  Monday January 10, 2021  | 0110 |  [Welcome](./cmse495-SS22/0110-Welcome.md) |
+|  Wednesday January 12, 2021  | 0112 |  [First_Contact](./cmse495-SS22/0112-First_Contact.md) |
+|  Friday January 14, 2021  | 0114 |  [Project_Review](./cmse495-SS22/0114-Project_Review.md) |
+|  Sunday January 16, 2021  | 0116 |  [ASSIGNMENT_Project_Preferences](./cmse495-SS22/0116-ASSIGNMENT_Project_Preferences.md) |
+| Monday January 17, 2021   | 0117 | MLK_No_Class |
+| Wednesday January 19, 2021   | 0119 | Teaming_Up |
+| Friday January 21, 2021   | 0121 | Git_Grader |
+| Sunday January 23, 2021   | 0123 | ASSIGNMENT_git_Team_Charter |
+| Monday January 24, 2021   | 0124 | Team_Charter |
+| Wednesday January 26, 2021   | 0126 | Community_Engaged_Learning_Part_I |
+| Friday January 28, 2021   | 0128 | Git_Grader_Presentations |
+|  Sunday January 30, 2021  | 0130 |  [ASSIGNMENT_Proposal_Template](./cmse495-SS22/0130-ASSIGNMENT_Proposal_Template.md) |
+| Monday January 31, 2021   | 0131 | Project_Plan |
+| Wednesday February 2, 2021   | 0202 | Community_Engaged_Learning_Part_II |
+| Friday February 4, 2021   | 0204 | Web_Scraping |
+|  Sunday February 6, 2021  | 0206 |  [ASSIGNMENT_Presentation_Slides](./cmse495-SS22/0206-ASSIGNMENT_Presentation_Slides.md) |
+| Monday February 7, 2021   | 0207 | Presentation_Slide_Review |
+| Wednesday February 9, 2021   | 0209 | Speaking_Up |
+| Friday February 11, 2021   | 0211 | Uniscraper_Web_Scraping |
+| Sunday February 13, 2021   | 0213 | Nothing_Due_Presentations_Tomorrow |
+| Monday February 14, 2021   | 0214 | Proposal_Presentations |
+| Wednesday February 16, 2021   | 0216 | Leveling_Up |
+| Friday February 18, 2021   | 0218 | Census_Tutorial |
+|  Sunday February 20, 2021  | 0220 |  [ASSIGNMENT_Auto_Documentation](./cmse495-SS22/0220-ASSIGNMENT_Auto_Documentation.md) |
+| Monday February 21, 2021   | 0221 | Stub_Code_Review |
+| Wednesday February 23, 2021   | 0223 | Lets_talk |
+| Friday February 25, 2021   | 0225 | Census_Tutorial |
+| Sunday February 27, 2021   | 0227 | ASSIGNMENT_Unit_Testing |
+| Monday February 28, 2021   | 0228 | Unit_Test_Code_Review |
+| Wednesday March 2, 2021   | 0302 | Its_Complicated |
+| Monday March 7, 2021   | 0307 | Spring_Break |
+| Wednesday March 9, 2021   | 0309 | Spring_Break |
+| Friday March 11, 2021   | 0311 | Spring_Break |
+| Wednesday March 16, 2021   | 0316 | Leading_the_Team |
+| Wednesday March 30, 2021   | 0330 | Leading_the_Change |
+| Wednesday April 6, 2021   | 0406 | Leading_with_Principles |
+

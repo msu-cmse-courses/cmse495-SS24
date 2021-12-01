@@ -1,9 +1,9 @@
 | Date |  number | assignment |
 |------|------|--------|----------|
-|  Monday January 10, 2021  | 0110 |  [Welcome](./cmse495-SS22/0110-Welcome) |
-|  Wednesday January 12, 2021  | 0112 |  [First_Contact](./cmse495-SS22/0112-First_Contact) |
-|  Friday January 14, 2021  | 0114 |  [Project_Review](./cmse495-SS22/0114-Project_Review) |
-|  Sunday January 16, 2021  | 0116 |  [ASSIGNMENT_Project_Preferences](./cmse495-SS22/0116-ASSIGNMENT_Project_Preferences) |
+|  Monday January 10, 2021  | 0110 |  [Welcome](0110-Welcome) |
+|  Wednesday January 12, 2021  | 0112 |  [First_Contact](0112-First_Contact) |
+|  Friday January 14, 2021  | 0114 |  [Project_Review](0114-Project_Review) |
+|  Sunday January 16, 2021  | 0116 |  [ASSIGNMENT_Project_Preferences](0116-ASSIGNMENT_Project_Preferences) |
 | Monday January 17, 2021   | 0117 | MLK_No_Class |
 | Wednesday January 19, 2021   | 0119 | Teaming_Up |
 | Friday January 21, 2021   | 0121 | Git_Grader |
@@ -11,11 +11,11 @@
 | Monday January 24, 2021   | 0124 | Team_Charter |
 | Wednesday January 26, 2021   | 0126 | Community_Engaged_Learning_Part_I |
 | Friday January 28, 2021   | 0128 | Git_Grader_Presentations |
-|  Sunday January 30, 2021  | 0130 |  [ASSIGNMENT_Proposal_Template](./cmse495-SS22/0130-ASSIGNMENT_Proposal_Template) |
+|  Sunday January 30, 2021  | 0130 |  [ASSIGNMENT_Proposal_Template](0130-ASSIGNMENT_Proposal_Template) |
 | Monday January 31, 2021   | 0131 | Project_Plan |
 | Wednesday February 2, 2021   | 0202 | Community_Engaged_Learning_Part_II |
 | Friday February 4, 2021   | 0204 | Web_Scraping |
-|  Sunday February 6, 2021  | 0206 |  [ASSIGNMENT_Presentation_Slides](./cmse495-SS22/0206-ASSIGNMENT_Presentation_Slides) |
+|  Sunday February 6, 2021  | 0206 |  [ASSIGNMENT_Presentation_Slides](0206-ASSIGNMENT_Presentation_Slides) |
 | Monday February 7, 2021   | 0207 | Presentation_Slide_Review |
 | Wednesday February 9, 2021   | 0209 | Speaking_Up |
 | Friday February 11, 2021   | 0211 | Uniscraper_Web_Scraping |
@@ -23,7 +23,7 @@
 | Monday February 14, 2021   | 0214 | Proposal_Presentations |
 | Wednesday February 16, 2021   | 0216 | Leveling_Up |
 | Friday February 18, 2021   | 0218 | Census_Tutorial |
-|  Sunday February 20, 2021  | 0220 |  [ASSIGNMENT_Auto_Documentation](./cmse495-SS22/0220-ASSIGNMENT_Auto_Documentation) |
+|  Sunday February 20, 2021  | 0220 |  [ASSIGNMENT_Auto_Documentation](0220-ASSIGNMENT_Auto_Documentation) |
 | Monday February 21, 2021   | 0221 | Stub_Code_Review |
 | Wednesday February 23, 2021   | 0223 | Lets_talk |
 | Friday February 25, 2021   | 0225 | Census_Tutorial |

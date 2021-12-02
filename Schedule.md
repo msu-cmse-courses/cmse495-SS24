@@ -1,3 +1,5 @@
+# Preliminary Course Schedule (some dates are missing)
+
 | Date |  number | assignment |
 |------|---------|------------|
 |  Monday January 10, 2021  | 0110 |  [Welcome](0110-Welcome) |

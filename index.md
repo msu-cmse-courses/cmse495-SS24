@@ -8,7 +8,7 @@ The capstone course has three major goals:
 3. Provide opportunities for students and faculty in the department to build relationships and network with industry partners, community organizations, and campus colleagues. 
 
 ## Team Projects
-The course instructor (Dr. Dirk Colbry) is seeking  out high-impact projects sponsored by an external "project sponsor" who will work with a student team to solve problems that make an economic, social and/or research contribution. We expect to solicit project sponsors from three areas: industry (with a slight focus on Companies in Michigan), government, community organizations, and research. 
+The course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>) is seeking  out high-impact projects sponsored by an external "project sponsor" who will work with a student team to solve problems that make an economic, social and/or research contribution. We expect to solicit project sponsors from three areas: industry (with a slight focus on Companies in Michigan), government, community organizations, and research. 
 
 For more information on becoming a project sponsor please see our [Project Sponsor Flyer](CMSE495_Project_Sponsor_Flyer.pdf)
 
@@ -30,6 +30,7 @@ Additional information will be added to this website as we get closer to the sta
 
 
 - [Course Syllabus (Draft)](Syllabus)
+- [Preliminary Schedule](Schedule)
 - [Desire2Learn](http://d2l.msu.edu) (aka D2L) - MSU Course management system
 
 

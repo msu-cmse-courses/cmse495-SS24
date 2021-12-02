@@ -34,25 +34,7 @@ There is a **_LOT_** of material to cover this semester. To help provide some st
 
 ### Project Milestones (Typically Due Sunday by Midnight)
 
-Although teams are encouraged to complete things early, project milestones will typically be due every **_Sunday at midnight_**.  In-class activities on most Mondays will involve reviewing project milestones, providing peer feedback and in-class time to prepare for next milestones. Project milestones are planned using the following schedule:
-
-| Date | Milestone |
-|------|-----------|
-| Sunday, January 16, 2022| Project Preference Survey | 
-| Sunday, January 23, 2022| Team Charter and git creation| 
-| Sunday, January 30, 2022| Project plan and schedule| 
-| Sunday, February 6, 2022| Project Proposal and draft presentation slides  | 
-| Sunday, February 13, 2022| **_Final proposal presentation slides and video_** | 
-| Sunday, February 20, 2022| Team Project Profile | 
-| Sunday, February 27, 2022| Project progress report | 
-| Sunday, March 6, 2022| Spring Break | 
-| Sunday, March 13, 2022| Draft Closed-loop presentation slides | 
-| Sunday, March 20, 2022| **_Closed-loop presentation slides and video_** | 
-| Sunday, March 27, 2022| Project progress report| 
-| Sunday, April 3, 2022| Robust Software Check | 
-| Sunday, April 10, 2022| Full draft of all final software | 
-| Sunday, April 17, 2022| Draft Final Presentation slides | 
-| Sunday, April 24, 2022| **_Final presentation slides and Video_** | 
+Although teams are encouraged to complete things early, project milestones will typically be due every **_Sunday at midnight_**.  In-class activities on most Mondays will involve reviewing project milestones, providing peer feedback and in-class time to prepare for next milestones. Details about the Milestones can be found on the course [Schedule Page](Schedule).
 
 Starting with the second week, all project milestones will be turned in using the team's "Git repository" stored on the MSU Gitlab page.  All reports should use "git friendly formats" (aka ASCII) such as Jupyter notebooks, html and Markdown.  Instructors will automatically download changes to the repositories after the due date and check for contributions by all of the students.  Feedback will be provided using "git issues" or via a pull/merge request. **_Students are responsible for knowing how to properly use "Git" and everyone on the team is expected to make and commit changes to the repository._**
 

@@ -1,4 +1,4 @@
-# Project Proposal Presentation
+# Closed Loop Presentation
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Movie_-_The_Noun_Project.svg/1024px-Movie_-_The_Noun_Project.svg.png"  width="50%" alt="Logo representing video recording">
 
@@ -21,16 +21,14 @@ Some things to consider for your presentation:
 - All members of the group should talk.
 - Briefly introduce the members of the group.
 - Describe your overall goals of the project.
-- Describe the major open-loops** that will need to be solved (closed).  
-- Describe the expected successful outcomes. 
+- Describe your open loops and how you closed them. 
+- Describe how the work will be broken up and solved.
 - Do not exceed the 10 minute talk length.
-
 
 However, I really want to see creativity.  Think outside of slides and talking. You have the opportunity to show a demonstration of your code, include some animated results.  
 
 Let your instructor know what you are thinking, we may be able to show you some easy to use tools to produce your vision. 
 
-** An open-loop is a part of the project for which you do not know what your solution will include.  
 
 ---
 

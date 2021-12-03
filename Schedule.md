@@ -41,6 +41,9 @@
 | Monday March 14, 2021   | 0314 | Presentation Slide Review |
 | Wednesday March 16, 2021   | 0316 | Leading the Team |
 | Monday March 21, 2021   | 0321 | Closed Loop Presentations |
+| Sunday March 27, 2021   | 0327 | ASSIGNMENT Code Linting |
 | Wednesday March 30, 2021   | 0330 | Leading the Change |
 | Wednesday April 6, 2021   | 0406 | Leading with Principles |
+| Sunday April 17, 2021   | 0417 | ASSIGNMENT Draft Final Presentaiton |
+| Sunday April 24, 2021   | 0424 | ASSIGNMENT Final Project |
 

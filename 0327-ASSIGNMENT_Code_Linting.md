@@ -1,6 +1,7 @@
 # <center>Delinting (linting) your code</center>
 
-<img src="https://lh4.googleusercontent.com/i0hZKXrihnUtlAQM6Hb89zo296lPckUN7FVMGih3D7z9WjueaImCXd98pAHA4GzHMrTFLglWqbGa2OxyDa2Y7ihp18ljIiaLIaHwNZSA4sRre3RRxrDcFj2FIv0c=w224" width=20% alt="pyTest logo">
+![Lint roller image](https://lh4.googleusercontent.com/i0hZKXrihnUtlAQM6Hb89zo296lPckUN7FVMGih3D7z9WjueaImCXd98pAHA4GzHMrTFLglWqbGa2OxyDa2Y7ihp18ljIiaLIaHwNZSA4sRre3RRxrDcFj2FIv0c)
+
 
 The goal of this assignment is to make your project code much easier to read by following a style guild and using lint and delint tools to clean up the code. 
 

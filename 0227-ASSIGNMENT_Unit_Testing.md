@@ -82,7 +82,7 @@ The above video suggests to store testing script next to (in the same directory)
               datafile3.xls
         LICENSE.txt
         makefile
-        Team/
+        Reports/
              Meeting_Minutes.md
              Team_Charter.md
              Project_proposal.ipynb

@@ -9,41 +9,37 @@ The final project and all of it's milestone components are due on the last day o
 
 All projects should follow the same basic structure laid out at the beginning of the semester. File and folder naming is important.  Use meaningful names as described in class. 
 
-    ProjectName/
-        .gitignore
-        docs/
-             ProjectProposal.ipynb
-             package_name/
-                  module1.html
-                  module2.html
-             images/
-                  image1.jpg
-        environments.yml
-        Examples/
-              datafile1.csv
-              datafile2.tiff
-              datafile3.xls
-        LICENSE.txt
-        makefile
-        Models/
-             Otimization_Report.ipynb
-             Statistical_Methods_Report.ipynb
-             Graph_Theory_Report.ipynb
-             ABM_Report.ipynb
-             ML_Report.ipynb
-             ODE_Report.ipynb
-        package_name/
+ProjectName/
+    .gitignore
+    docs/
+         package_name/
+              module1.html
+              module2.html
+         images/
+              image1.jpg
+    environments.yml
+    Examples/
+          datafile1.csv
+          datafile2.tiff
+          datafile3.xls
+    LICENSE.txt
+    makefile
+    Reports/
+         Meeting_Minutes.md
+         Team_Charter.md
+         Project_proposal.ipynb
+         Closed_loop_Report.ipynb
+    package_name/
+          __init__.py
+          module1.py
+          module2.py
+          test/
               __init__.py
-              module1.py
-              module2.py
-              test/
-                  __init__.py
-                  test_module1.py
-                  test_module2.py
-        README.md
-        setup.py
-        Tutorial.ipynb
-        
+              test_module1.py
+              test_module2.py
+    README.md
+    setup.py
+    Final_Report.ipynb
 
 ## [0925-PROJECT_Proposal_Template](0205-PROJECT_Proposal_Template.ipynb)
 

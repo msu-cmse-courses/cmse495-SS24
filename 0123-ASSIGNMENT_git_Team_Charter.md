@@ -24,7 +24,7 @@ In this milestone project you will create a git repository and share it with you
               datafile3.xls
         LICENSE.txt
         makefile
-        Team/
+        Reports/
              Meeting_Minutes.md
              Team_Charter.md
              Project_proposal.ipynb

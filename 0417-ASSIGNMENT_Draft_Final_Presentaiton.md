@@ -1,10 +1,9 @@
 # Project Final Presentation Video
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Movie_-_The_Noun_Project.svg/1024px-Movie_-_The_Noun_Project.svg.png"  width="50%" alt="Logo representing video recording">
+ 
 
-Traditional science is grounded in concepts of peer review and open sharing. What is the point in discovering how the works and not sharing it with others?  As scientists it is important to communicate what you create and discover to a wide audience in a variety of formate. 
-
-Please create and submit a 5-10 minute video (maximum 15 minutes) about your project. Tap into your own creativity.  Make something you are proud of and would want to post on-line or include in a presentation.  More and more conferences are moving to video submissions so this is the time to learn the tools and share your research.  
+For this assignment you and your team will create and submit a 5-10 minute video (maximum 15 minutes) about your project. Tap into your own creativity.  Make something you are proud of and would want to post on-line or include in a presentation. 
 
 
 ## Project Steps
@@ -20,11 +19,9 @@ Please create and submit a 5-10 minute video (maximum 15 minutes) about your pro
 
 # 1. Presentation Planning
 
-Step one is to plan what you want your presentation will include.  Most people use slide shows (PowerPoint, Google slides, etc.) to plan what they are going to say and the order they will say it in.  This is a good first step. Although your final video does not need to use slides I highly recommend doing some sort of "[storyboarding](https://en.wikipedia.org/wiki/Storyboard)" for your video to know what parts you want to include and what you don't want to include. 
+Step one is to plan what you want your presentation will include.  Most groups use slide shows (PowerPoint, Google slides, etc.) to plan what they are going to say and the order they will say it in.  This is a good first step. Although your final video does not need to use slides I highly recommend doing some sort of "[storyboarding](https://en.wikipedia.org/wiki/Storyboard)" for your video to know what parts you want to include and what you don't want to include. 
 
-If you don't know where to start, [consider the following slide template from last semester](https://docs.google.com/presentation/d/1M0cYUufylmtR9KAdF9BIKu03-E_pcMVPNI9GQnL8wJY/edit#slide=id.p).
-
-However, I really want to see creativity.  Think outside of slides and talking. You have the opportunity to show a demonstration of your code, include some animated results.  
+However, we really want to see creativity.  Think outside of slides and talking. You have the opportunity to show a demonstration of your code, include some animated results.  
 
 Let your instructor know what you are thinking, we may be able to show you some easy to use tools to produce your vision. 
 

@@ -48,6 +48,7 @@
 | Monday March 28, 2021   | 0328 | Lint Review |
 | Wednesday March 30, 2021   | 0330 | Leading with Principles |
 |  Sunday April 3, 2021  | 0403 |  [ASSIGNMENT Full Project Draft](0403-ASSIGNMENT_Full_Project_Draft) |
+|  Sunday April 10, 2021  | 0410 |  [ASSIGNMENT Future Work](0410-ASSIGNMENT_Future_Work) |
 |  Sunday April 17, 2021  | 0417 |  [ASSIGNMENT Draft Final Presentaiton](0417-ASSIGNMENT_Draft_Final_Presentaiton) |
 |  Sunday April 24, 2021  | 0424 |  [ASSIGNMENT Final Project](0424-ASSIGNMENT_Final_Project) |
 

@@ -44,11 +44,25 @@
 | Monday March 21, 2021   | 0321 | Closed Loop Presentations |
 | Wednesday March 23, 2021   | 0323 | Leading the Change |
 | Thursday March 24, 2021   | 0324 | Nothing Due (Presentations Tomorrow) |
+| Friday March 25, 2021   | 0325 | TBD |
 |  Sunday March 27, 2021  | 0327 |  [ASSIGNMENT Code Linting](0327-ASSIGNMENT_Code_Linting) |
 | Monday March 28, 2021   | 0328 | Lint Review |
 | Wednesday March 30, 2021   | 0330 | Leading with Principles |
+| Friday April 1, 2021   | 0401 | TBD |
 |  Sunday April 3, 2021  | 0403 |  [ASSIGNMENT Full Project Draft](0403-ASSIGNMENT_Full_Project_Draft) |
+| Monday April 4, 2021   | 0404 | TBD |
+| Wednesday April 6, 2021   | 0406 | TBD |
+| Friday April 8, 2021   | 0408 | TBD |
 |  Sunday April 10, 2021  | 0410 |  [ASSIGNMENT Future Work](0410-ASSIGNMENT_Future_Work) |
+| Monday April 11, 2021   | 0411 | TBD |
+| Wednesday April 13, 2021   | 0413 | TBD |
+| Friday April 15, 2021   | 0415 | TBD |
 |  Sunday April 17, 2021  | 0417 |  [ASSIGNMENT Draft Final Presentaiton](0417-ASSIGNMENT_Draft_Final_Presentaiton) |
+| Monday April 18, 2021   | 0418 | TBD |
+| Wednesday April 20, 2021   | 0420 | TBD |
+| Friday April 22, 2021   | 0422 | TBD |
 |  Sunday April 24, 2021  | 0424 |  [ASSIGNMENT Final Project](0424-ASSIGNMENT_Final_Project) |
+| Monday April 25, 2021   | 0425 | TBD |
+| Wednesday April 27, 2021   | 0427 | TBD |
+| Friday April 29, 2021   | 0429 | Last Day of Class |
 

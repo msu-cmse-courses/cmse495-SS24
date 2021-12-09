@@ -110,3 +110,6 @@ Include a link to the URL in your git repository.  A good place would be to embe
 ### Congratulations, you are done!
 
 Now, you just need to commit and push this report to your project git repository. 
+
+Written by Dr. Dirk Colbry, Michigan State University
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

@@ -322,10 +322,5 @@ If you want to learn more about testing, adding options, parameters or pytest fi
 
 
 
----
-### Getting credit for your assignment
-
-Now, you just need to commit and push this report to your project git repository. Your instructor will download your repository and check your lint using the ```make test``` command so make sure that is working. 
-
------
-### Writen by Janez Krek <krek@egr.msu.edu>
+Written by Dr. Dirk Colbry and Dr. Janez Krek, Michigan State University
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

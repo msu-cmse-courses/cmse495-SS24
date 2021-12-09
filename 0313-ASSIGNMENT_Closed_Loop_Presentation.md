@@ -36,9 +36,9 @@ Let your instructor know what you are thinking, we may be able to show you some 
 
 These slides will be only graded on good effort attempt to complete the project. Instructors will give feedback on the slides so that students can integrate changes before the presentation date.  
 
-To get credit for this assignment, turn in a link to your slides to the instructor on or before ###DATE###.
+To get credit for this assignment, turn in a link to your slides to the instructor on or before Sunday March 13.
 
--- [Link to google document]()
+-- [Link to google document](404)
 
 
 Written by Dr. Dirk Colbry, Michigan State University

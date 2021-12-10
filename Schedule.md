@@ -48,7 +48,7 @@
 |  Sunday March 27, 2021  | 0327 |  [ASSIGNMENT Code Linting](0327-ASSIGNMENT_Code_Linting) |
 | Monday March 28, 2021   | 0328 | Lint Review |
 | Wednesday March 30, 2021   | 0330 | Leading with Principles |
-| Friday April 1, 2021   | 0401 | TBD |
+| Friday April 1, 2021   | 0401 | Annotation GUI |
 |  Sunday April 3, 2021  | 0403 |  [ASSIGNMENT Full Project Draft](0403-ASSIGNMENT_Full_Project_Draft) |
 |  Monday April 4, 2021  | 0404 |  [Project Review](0404-Project_Review) |
 | Wednesday April 6, 2021   | 0406 | TBD |

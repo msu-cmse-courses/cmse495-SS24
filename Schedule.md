@@ -38,7 +38,7 @@
 | Wednesday March 9, 2021   | 0309 | Spring Break |
 | Friday March 11, 2021   | 0311 | Spring Break |
 |  Sunday March 13, 2021  | 0313 |  [ASSIGNMENT Closed Loop Presentation](0313-ASSIGNMENT_Closed_Loop_Presentation) |
-| Monday March 14, 2021   | 0314 | Presentation Slide Review |
+| Monday March 14, 2021   | 0314 | Closed Loop Presentation Slide Review |
 | Wednesday March 16, 2021   | 0316 | Leading the Team |
 | Friday March 18, 2021   | 0318 | Cell Tower Colors |
 | Sunday March 20, 2021   | 0320 | Nothing Due (Presentations Tomorrow) |
@@ -54,10 +54,11 @@
 | Wednesday April 6, 2021   | 0406 | TBD |
 | Friday April 8, 2021   | 0408 | TBD |
 |  Sunday April 10, 2021  | 0410 |  [ASSIGNMENT Future Work](0410-ASSIGNMENT_Future_Work) |
-| Monday April 11, 2021   | 0411 | Project Proposal Reviews |
+| Monday April 11, 2021   | 0411 | Future Project Proposal Reviews |
 | Wednesday April 13, 2021   | 0413 | TBD |
 | Friday April 15, 2021   | 0415 | TBD |
 |  Sunday April 17, 2021  | 0417 |  [ASSIGNMENT Draft Final Presentaiton](0417-ASSIGNMENT_Draft_Final_Presentaiton) |
+| Monday April 18, 2021   | 0418 | Final Presentation Slide Review |
 | Monday April 18, 2021   | 0418 | TBD |
 | Wednesday April 20, 2021   | 0420 | TBD |
 | Friday April 22, 2021   | 0422 | TBD |

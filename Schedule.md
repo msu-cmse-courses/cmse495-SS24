@@ -52,7 +52,7 @@
 |  Sunday April 3, 2021  | 0403 |  [ASSIGNMENT Full Project Draft](0403-ASSIGNMENT_Full_Project_Draft) |
 |  Monday April 4, 2021  | 0404 |  [Project Review](0404-Project_Review) |
 | Wednesday April 6, 2021   | 0406 | TBD |
-| Friday April 8, 2021   | 0408 | TBD |
+| Friday April 8, 2021   | 0408 | Annotation GUI Presentations |
 |  Sunday April 10, 2021  | 0410 |  [ASSIGNMENT Future Work](0410-ASSIGNMENT_Future_Work) |
 | Monday April 11, 2021   | 0411 | Future Project Proposal Reviews |
 | Wednesday April 13, 2021   | 0413 | TBD |

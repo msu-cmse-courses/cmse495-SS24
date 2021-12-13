@@ -89,12 +89,12 @@ There are a variety of course activities, with percentages of total grade listed
 |----------|------------------|
 | Individual Pre-class Surveys | 10 |
 | In-Class Participation | 10 |
+| Mini-Projects | 10 | 
 | Project Proposal |  10 |
 | Closed Loop presentation | 10 |
 | Final Presentation | 10 |
 | Other Milestone Projects | 10 |
 | Individual teamwork score | 10 |
-| Peer Evaluations | 10 | 
 | Final Project Deliverables | 20 |
 | Total | 100% |
 
@@ -147,22 +147,31 @@ The “in-class” programming assignments are a critical part of the learning p
 
 All required readings will be provided as Open Educational Resource (OER) via link on the course website. 
 
-## Instructor Contact Information
+## Instructor Contact Information and Office Hours
 
-- Dr. Dirk Colbry (he/him/his)
-    - Office: 1515 EngineeriComputational Mathematics, Science and Engineering
-    - Email: [colbrydi@msu.edu](mailto:colbrydi@msu.edu) 
-    - Web:  [http://www.dirk.colbry.com](http://www.dirk.colbry.com)
+**_Instructor_**:
 
-## Instructor office hours and locations
+Dr. Dirk Colbry (he/him/his) <br>
+Department of Computational Mathematics, Science and Engineering <br>
+**_Email_**: colbrydi@msu.edu <br>
+**_Web_**:  http://www.dirk.colbry.com <br>
+**_Office Hours_**: 
 
-The best way to contact instructors is through email or by visiting their office hours. Please give your instructor 1 workday to reply to all emails. Office hours will be held just after class or via appointment.
+| When | Online Locaiton | In-person Location
+|------|-------|-----| 
+| M W F  1:40-3:00 or by appointment | [Dirk's Zoom Office](https://msu.zoom.us/my/colbrydi) | [EB 1516](https://cmse.msu.edu/about/directions/) |
 
-| When | Where |
-|------|-------|
-| M W F| 1:40-3:00 | 
+---
 
+**_Graduate Teaching Assistant_**: 
 
+Nathan Brugnone (he/him/his) <br>
+**_Email_**: brugnone@msu.edu
+
+| When | Online Locaiton | In-person Location
+|------|-------|-----| 
+| TBD | TBD | TBD |
+    
 
 # Course Policies and Expectations
 
@@ -170,8 +179,8 @@ The best way to contact instructors is through email or by visiting their office
 
 Many of the project sponsors will require students to sign an Non-Disclosure Agreement (NDA) and in some rare cases will be asked to sign an Intellectual Property (IP) agreement.  Your instructor will work with you so that you understand your rights and you will not be required to sign either document.    If students are unwilling or unable to sign these document they will be assigned to an alternative project.
 
-- [Standard NDA Template](./Files/CMSE495_MSU_Neogen_NDA_2022.docx)
-- [Standard IP Template](./Files/CMSE495_MSU_Neogen_IP_2022.docx)
+- [Standard NDA Template](./Files/CMSE495_MSU_NDA_2022_template.docx)
+- [Standard IP Template](./Files/CMSE495_MSU_IP_Agreement_2022.docx)
 
 Note: The above are examples of the standard agreements. Slight variations may be made depending on the project sponsor's needs. 
 

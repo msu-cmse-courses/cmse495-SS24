@@ -59,7 +59,6 @@
 | Friday April 15, 2021   | 0415 | TBD |
 |  Sunday April 17, 2021  | 0417 |  [ASSIGNMENT Draft Final Presentaiton](0417-ASSIGNMENT_Draft_Final_Presentaiton) |
 | Monday April 18, 2021   | 0418 | Final Presentation Slide Review |
-| Monday April 18, 2021   | 0418 | TBD |
 | Wednesday April 20, 2021   | 0420 | TBD |
 | Friday April 22, 2021   | 0422 | TBD |
 |  Sunday April 24, 2021  | 0424 |  [ASSIGNMENT Final Project](0424-ASSIGNMENT_Final_Project) |

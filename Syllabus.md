@@ -14,13 +14,22 @@ The capstone course has three major goals:
 
 ## Course Format and Activities
 
-The class will meet three times a week during the 15-week semester. This course will be delivered **_synchronous in-person_** with no planned online classroom interaction.  This means that students are expected to attend class during the designated class period. Classroom time will be divided across three broad activity categories:
+The class will meet three times a week during the 15-week semester. This course will be delivered **_synchronous in-person_** with no planned online classroom interaction.  This means that students are expected to attend class during the designated class period (MWF 2:40-4:00pm). Classroom time will be divided across three broad activity categories:
 
 - Project planning, team meetings, milestones and reports (Mondays)
 - Professional skills training and practice (Wednesdays)
 - Software development and technical skills practice (Fridays)
 
 Early in the semester, students will be divided into capstone teams of 4-5 people and assigned a semester long project with multiple milestones.  The majority of a students grade will come from working constructively as a team to accomplish the project goals (as defined by the instructor and the project sponsors). When possible, the majority of out-of-class time will be dedicated to tasks and deliverables that relate directly to the capstone teams’ projects.  Students should expect to spend an average of 10-15 hours a week outside of class working on their capstone projects.  
+
+### Course time/location
+
+class will be Monday, Wednesday and Friday 2:40-4:00pm in Communication Arts building room 233.
+
+If, during the semester there is a need, we have set aside the following zoom room for this course:
+
+- [https://msu.zoom.us/j/96333643100](https://msu.zoom.us/j/96333643100)
+
 
 ### Class participation
 

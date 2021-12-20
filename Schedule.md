@@ -1,4 +1,5 @@
 # Preliminary Course Schedule
+Classes meet Monday, Wednesdays and Fridays from 2:40-4:00pm in Communication Arts building room 233.
 
 | Date |  number | assignment |
 |------|---------|------------|

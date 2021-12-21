@@ -22,13 +22,6 @@ The class will meet three times a week during the 15-week semester. This course 
 
 Early in the semester, students will be divided into capstone teams of 4-5 people and assigned a semester long project with multiple milestones.  The majority of a students grade will come from working constructively as a team to accomplish the project goals (as defined by the instructor and the project sponsors). When possible, the majority of out-of-class time will be dedicated to tasks and deliverables that relate directly to the capstone teams’ projects.  Students should expect to spend an average of 10-15 hours a week outside of class working on their capstone projects.  
 
-### Course time/location
-
-class will be Monday, Wednesday and Friday 2:40-4:00pm in Communication Arts building room 233.
-
-If, during the semester there is a need, we have set aside the following zoom room for this course:
-
-- [https://msu.zoom.us/j/96333643100](https://msu.zoom.us/j/96333643100)
 
 
 ### Class participation
@@ -86,9 +79,6 @@ On Fridays teams will work together to solve "mini" data science projects.  Thes
 Most "mini" projects will be given two Fridays of in-class time to complete.  It is expected that students will be able to complete these projects during class. However, motivated teams are welcome to work on the projects outside of class as long as any students include everyone in their team in the problem solving process. 
 
 
-## Course Schedule
-The course schedule will be maintained on the course website. 
-
 # Assessment Information
 
 There are a variety of course activities, with percentages of total grade listed.  More detailed descriptions of each activity can be found elsewhere in the syllabus.  
@@ -135,10 +125,12 @@ Accompanying course information, including the official course calendar, can be 
 
 ## Course Meeting Time and Location
 
-Classes will meet weekly at the following times:
 
-* Section 001: 	M W F 	12:30 PM - 1:40 PM  [https://msu.zoom.us/j/98207034052](https://msu.zoom.us/j/98207034052) 
+Classes will meet weekly on Monday, Wednesday and Friday 2:40-4:00pm in Communication Arts building room 233.
 
+If, during the semester there is a need, we have set aside the following zoom room for this course:
+
+- [https://msu.zoom.us/j/96333643100](https://msu.zoom.us/j/96333643100)
 
 
 ## Course Schedule
@@ -156,7 +148,7 @@ The “in-class” programming assignments are a critical part of the learning p
 
 All required readings will be provided as Open Educational Resource (OER) via link on the course website. 
 
-## Instructor Contact Information and Office Hours
+## Instructors Contact Information and Office Hours
 
 **_Instructor_**:
 
@@ -164,22 +156,19 @@ Dr. Dirk Colbry (he/him/his) <br>
 Department of Computational Mathematics, Science and Engineering <br>
 **_Email_**: colbrydi@msu.edu <br>
 **_Web_**:  http://www.dirk.colbry.com <br>
-**_Office Hours_**: 
+**_Office_**: [EB 1516](https://cmse.msu.edu/about/directions/) <br>
+**_Virtual Office_**:  [Dirk's Zoom Office](https://msu.zoom.us/my/colbrydi) <br>
+**_Office Hours_**:  M W F  1:00-2:00 or by appointment  at  Classroom (Comm Arts 233) 
 
-| When | Online Locaiton | In-person Location
-|------|-------|-----| 
-| M W F  1:40-3:00 or by appointment | [Dirk's Zoom Office](https://msu.zoom.us/my/colbrydi) | [EB 1516](https://cmse.msu.edu/about/directions/) |
+* Please visit [http://bookdirk.colbry.com/](http://bookdirk.colbry.com/) to schedule an appointment.
 
 ---
 
 **_Graduate Teaching Assistant_**: 
 
 Nathan Brugnone (he/him/his) <br>
-**_Email_**: brugnone@msu.edu
-
-| When | Online Locaiton | In-person Location
-|------|-------|-----| 
-| TBD | TBD | TBD |
+**_Email_**: brugnone@msu.edu <br>
+**_Office Hours_**:  Mondays 1:30-2:20pm at Classroom (Comm Arts 233) 
     
 
 # Course Policies and Expectations

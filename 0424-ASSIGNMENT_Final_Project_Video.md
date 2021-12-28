@@ -1,4 +1,4 @@
-# Final Project
+# Final Project and Video
 
 ![Finish Line](https://cdn.pixabay.com/photo/2016/03/31/21/07/checkered-1296203__340.png)
 
@@ -40,6 +40,35 @@ All projects should follow the same basic structure laid out at the beginning of
         Final_Report.ipynb
     
 Include a prominent link to your final video in the project ```README.md``` file. 
+
+----
+<a name="Video"></a>
+
+# 1. Create video
+
+Use the storyboard and the feedback from your previous assignment as a guild to making the video. Do not be afraid to deviate from the plan if you have a new and exciting idea.  
+
+Prepare the presentation for a general audience.  Make something that you could show to in-coming data science student (or a family member) to get them excited about the project. Also remember that your sponsor will be watching this presentation so think of this as an opportunity to "Wow" them. 
+
+Some things to consider for your storyboard:
+
+- Include who will be speaking for each slide. (All members of the team should talk).
+- Use the notes field in the slide show program to outline what you want to say for each section of the video. 
+- Include introductions for group members.  
+- Describe the overall goals of the project.
+- Describe your open-loops** and how you closed them. 
+- Describe how the work will be broken up and solved.
+- Plan not exceed the 10 minute talk length.
+
+We really want to see creativity.  Think outside of slides and talking. Demonstrate to us why your project is awesome!
+
+Let your instructor know what you are thinking, we may be able to show you some easy to use tools to produce your vision. 
+
+** An open-loop is a part of the project for which you do not know what your solution will include.  
+
+# 2. Submission
+
+Have one on your team email a link to the video to the instructors. Carbon Copy (CC) all members of your team (including yourself) and CC your sponsors (if they have asked to be included). The title of the email should be "**_GROUP NAME - CMSE495 Final Presentation Video_**".
 
 -----
 

@@ -1,5 +1,7 @@
 # Preliminary Course Schedule
-Classes meet Monday, Wednesdays and Fridays from 2:40-4:00pm in Communication Arts building room 233.
+For the first three weeks of class (January 10 - January 28) we will meet vertually during our scheduled class times (Monday, Wednesdays and Fridays from 2:40-4:00pmi) in the class [zoom room](https://msu.zoom.us/j/96333643100).
+
+Starting Monday January 31st classes will meet in-person on Monday, Wednesdays and Fridays from 2:40-4:00pm in Communication Arts building room 233.
 
 | Date |  number | assignment |
 |------|---------|------------|

@@ -9,11 +9,12 @@
 
 # Project Review
 
-Before we leave we will split everyone into temporary groups of 4-5 people.  Each group will be assigned a project.  Identify a scribe for the group (someone to make and share the report). Have someone else read the project out loud while the group follows along.  Each person take notes on the following:
+Today we will split everyone into temporary groups of 4-5 people.  Each group will be assigned a project.  Identify a scribe for the group (someone to make and share the report). Have someone else read the project out loud while the group follows along.  Each person take notes on the following:
 
+- Which project description is being reviewed?
 - Who is on this project review team (names and email addresses). 
 - Provide a short 2-line summary of the project. 
-- Initial Project breakdown
+- Initial Project breakdown (what seem to be the key components?)
 - What are the biggest problems that need to be understood and solved for this project to move forward (open loops)?
 - What will be the most time consuming task for this project (given what you know).
 - What would be this groups first task if they were assigned the project?
@@ -21,6 +22,9 @@ Before we leave we will split everyone into temporary groups of 4-5 people.  Eac
 - What questions do you have?
 - List any Anticipated Challenges your team identified while discussing the project:
 
+[Link to Project Description Folder](https://d2l.msu.edu/d2l/le/lessons/1384604/units/11918960)
+
+ **_NOTE_** the above link may not work until the first day of class.
 
 ### Project Review Terms
 

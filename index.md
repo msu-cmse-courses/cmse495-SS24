@@ -7,7 +7,9 @@ The capstone course has three major goals:
 2. Provide students with opportunities to learn and practice professional skills (communication, teamwork and leadership) in the context of team-based projects.
 3. Provide opportunities for students and faculty in the department to build relationships and network with industry partners, community organizations, and campus colleagues. 
 
-**_<font color="red">NOTE:  This course will be pivoting to a fully on-line modality during the first 3 weeks of spring semester 2022 in response to the rapidly rising COVID infection rates.  The current plan is hold class via zoom over the first three weeks and to be back in-person starting Monday January 31st. However, this plan will be updated as we get closer to the date and more information is available. Over the week before classes start on January 10th the course instructors will update this website with details on how class will be administered.</font>_**
+**_<font color="red">NOTE:  This course will be pivoting to a fully on-line modality during the first 3 weeks of spring semester 2022 in response to the rapidly rising COVID infection rates.  The current plan is hold class via zoom over the first three weeks and to be back in-person starting Monday January 31st. However, this plan will be updated as we get closer to the date and more information is available. 
+    
+Over the week before classes start on January 10th the course instructors will update this website with details on how class will be administered.</font>_**
 
 ## Team Projects
 The course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>) is seeking  out high-impact projects sponsored by an external "project sponsor" who will work with a student team to solve problems that make an economic, social and/or research contribution. We expect to solicit project sponsors from three areas: industry (with a slight focus on Companies in Michigan), government, community organizations, and research. 

@@ -14,15 +14,17 @@ The capstone course has three major goals:
 
 ## Course Format and Activities
 
-The class will meet three times a week during the 15-week semester. This course will be delivered **_synchronous in-person_** with no planned online classroom interaction.  This means that students are expected to attend class during the designated class period (MWF 2:40-4:00pm). Classroom time will be divided across three broad activity categories:
+**_<font color="red">NOTE:  This course will be pivoting to a fully on-line modality during the first 3 weeks of spring semester 2022 in response to the rapidly rising COVID infection rates.  The current plan is hold class via zoom over the first three weeks and to be back in-person starting Monday January 31st. However, this plan will be updated as we get closer to the date and more information is available.</font>_**
+
+* [Link to zoom classroom](https://msu.zoom.us/j/96333643100)
+
+The class will meet three times a week during the 15-week semester and will be delivered **_synchronously_**.  Students are expected to attend class during the designated class period (MWF 2:40-4:00pm). Classroom time will be divided across three broad activity categories:
 
 - Project planning, team meetings, milestones and reports (Mondays)
 - Professional skills training and practice (Wednesdays)
 - Software development and technical skills practice (Fridays)
 
 Early in the semester, students will be divided into capstone teams of 4-5 people and assigned a semester long project with multiple milestones.  The majority of a students grade will come from working constructively as a team to accomplish the project goals (as defined by the instructor and the project sponsors). When possible, the majority of out-of-class time will be dedicated to tasks and deliverables that relate directly to the capstone teams’ projects.  Students should expect to spend an average of 10-15 hours a week outside of class working on their capstone projects.  
-
-
 
 ### Class participation
 
@@ -40,7 +42,7 @@ Although teams are encouraged to complete things early, project milestones will 
 
 Starting with the second week, all project milestones will be turned in using the team's "Git repository" stored on the MSU Gitlab page.  All reports should use "git friendly formats" (aka ASCII) such as Jupyter notebooks, html and Markdown.  Instructors will automatically download changes to the repositories after the due date and check for contributions by all of the students.  Feedback will be provided using "git issues" or via a pull/merge request. **_Students are responsible for knowing how to properly use "Git" and everyone on the team is expected to make and commit changes to the repository._**
 
-**_DO NOT WAIT_** until the weekend before something is due.  Teams are encouraged to turn things in early.  You should make a plan with your team and stick to it.  The instructor will give you plenty of information and notice so you can work ahead. NO extensions will be given and you will still need to make up all of the work. 
+**_DO NOT WAIT_** until the weekend before something is due.  Instructors have posted all team deadlines on the webset specifically so teams can get a head start and turn things in early.  You should make a plan with your team and stick to it.  The instructor will give you plenty of information and notice so you can work ahead. NO extensions will be given and you will still need to make up all of the work. 
 
 ### Team Meetings (Typically on Mondays)
 
@@ -53,12 +55,12 @@ Teams are expected to conduct multiple formal team meetings each week to work on
 - List of decisions made and tasks accomplished during the meeting.
 - List of action items including; what needs to be done, who is responsible for the item and when this task will be complete. 
 
-Meeting notes should be kept up to date, clearly organized and easily accessible by the instructors (and possible project sponsors) so that they may check in at any time to evaluate progress and provide feedback for the team.  
+Meeting notes are to be stored in the team git repository, should be kept up to date, clearly organized and easily accessible by the instructors (and possible project sponsors) so that they may check in at any time to evaluate progress and provide feedback for the team.  
 
 ### Peer Evaluations (Also Typically due on Mondays)
 Student grades will be partially determine by how well you work as a team.  Teamwork can sometimes be difficult but it is required when joining our modern workforce.  Peer evaluations will be used to help the instructor evaluate team dynamics and provide support to the groups if there are some team dynamic issues that need to be resolved. 
 
-**_NOTE_**: Team peer evaluation surveys will be conducted using [CATME](https://www.catme.org/help) online tool though the course [Desire2Learn](http://d2l.msu.edu) website.  
+**_NOTE_**: Team peer evaluation surveys will be conducted using [CATME](https://www.catme.org/help), an on-line tool though the course [Desire2Learn](http://d2l.msu.edu) website.  
 
 ### Group Professional Development Activities (Typically on Wednesdays)
 
@@ -66,11 +68,6 @@ Students will learn professional skills training in communication, teamwork and 
 
 Completion of the entire CyberAmbassador curriculum will result in the students earning a Professional Skills Certificate.
 
-### Pre-class assignments (Typically due Thursday by Midnight)
-
-Each week students may be asked to complete some independent learning before class on Friday. Typically this will include reading, watching videos and short programming assignments most of which will prepare students for the in-class "mini" projects (see below) and also provide background materials needed for some of the class milestones.  Students must complete all of the pre-class requirements and fill out the pre-class survey in order to get credit for the pre-class assignment.
-
-Students are expected to make a good faith effort to fill out the pre-class survey. The instructor needs this feedback to gage the progress of the course and make adjustments as needed.  
 
 ### In-class programming assignments (Typically on Fridays)
 
@@ -180,7 +177,7 @@ Many of the project sponsors will require students to sign an Non-Disclosure Agr
 - [Standard NDA Template](./Files/CMSE495_MSU_NDA_2022_template.docx)
 - [Standard IP Template](./Files/CMSE495_MSU_IP_Agreement_2022.docx)
 
-Note: The above are examples of the standard agreements. Slight variations may be made depending on the project sponsor's needs. 
+Note: The above are examples of the standard agreements. Slight variations may be made depending on the project sponsor's needs and will be given to students to review before project selection.
 
 ## Class attendance 
 
@@ -220,7 +217,7 @@ Personal assiignments and peer review information materials submitted for this c
 
 However, for many assignments this course is partnering with partners outside of MSU and students should be aware that instructors will not be able to maintain confidentiality with respect to project deliverables and anything that may come up which conflicts with their responsibility to report certain issues to protect the health and safety of MSU community members and others. 
 
-As the instructor, I must report the following information to other University offices (including the Department of Police and Public Safety) if you share it with me: suspected child abuse/neglect, even if this maltreatment happened when you were a child, allegations of sexual assault or sexual harassment when they involve MSU students, faculty, or staff, and credible threats of harm to oneself or to others. These reports may trigger contact from a campus official who will want to talk with you about the incident that you have shared.  In almost all cases, it will be your decision whether you wish to speak with that individual.  If you would like to talk about these events in a more confidential setting you are encouraged to make an appointment with the MSU Counseling Center.
+As the instructors, we must report the following information to other University offices (including the Department of Police and Public Safety) if you share it with us: suspected child abuse/neglect, even if this maltreatment happened when you were a child, allegations of sexual assault or sexual harassment when they involve MSU students, faculty, or staff, and credible threats of harm to oneself or to others. These reports may trigger contact from a campus official who will want to talk with you about the incident that you have shared.  In almost all cases, it will be your decision whether you wish to speak with that individual.  If you would like to talk about these events in a more confidential setting you are encouraged to make an appointment with the MSU Counseling Center.
 
 
 ## Changes to Syllabus

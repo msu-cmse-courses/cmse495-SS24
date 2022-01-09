@@ -14,7 +14,10 @@ Today we will break up into groups and review the project proposals and try to u
 
 # NDA/IP Discussion
 
-We will try to find time to answer questions you may have about the NDA and IP agreements associated with the projects. 
+We will try to find time to answer questions you may have about the NDA and IP agreements associated with the projects.
+
+- [Standard NDA Template](./Files/CMSE495_MSU_NDA_2022_template.docx)
+- [Standard IP Template](./Files/CMSE495_MSU_IP_Agreement_2022.docx)
 
 # Sharing Review results
 

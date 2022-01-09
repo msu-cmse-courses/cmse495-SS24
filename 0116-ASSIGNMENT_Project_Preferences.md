@@ -5,13 +5,13 @@ During the first week of class you are expected to review project proposals and 
 
 1. **_Review Project Descriptions_** 
     - [Link to Project Description Folder](https://d2l.msu.edu/d2l/le/lessons/1384604/units/11918960)
-    - **_NOTE_** the above link may not work until the first day of class.
+    - **_NOTE_** the above link will not work until the first day of class.
 
 <br>
 
 2. **_Fill out the CATME survey_** Create an account and log into CATME (we will be using this tool all semester). Fill out the project survey. 
-    - [CATME survey Link]()
-    - **_NOTE_** the above link may not work until the course has started.
+    - [CATME survey Link](https://www.catme.org)
+    - **_NOTE_** the survey will not work until the course has started.
 
 <br>
 

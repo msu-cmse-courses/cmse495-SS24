@@ -14,11 +14,11 @@ Starting Monday January 31st classes will meet in-person on Monday, Wednesdays a
 | Friday January 21, 2022   | 0121 | Git Grader |
 |  Sunday January 23, 2022  | 0123 |  [ASSIGNMENT git Team Charter](0123-ASSIGNMENT_git_Team_Charter) |
 | Monday January 24, 2022   | 0124 | Team Charter |
-| Wednesday January 26, 2022   | 0126 | Community Engaged Learning Part I |
+| Wednesday January 26, 2022   | 0126 | Community Engaged Learning I |
 | Friday January 28, 2022   | 0128 | Git Grader Presentations |
 |  Sunday January 30, 2022  | 0130 |  [ASSIGNMENT Proposal Template](0130-ASSIGNMENT_Proposal_Template) |
 | Monday January 31, 2022   | 0131 | Project Plan |
-| Wednesday February 2, 2022   | 0202 | Community Engaged Learning Part II |
+| Wednesday February 2, 2022   | 0202 | Community Engaged Learning II |
 | Friday February 4, 2022   | 0204 | Web Scraping |
 |  Sunday February 6, 2022  | 0206 |  [ASSIGNMENT Proposal Presentation Slides](0206-ASSIGNMENT_Proposal_Presentation_Slides) |
 | Monday February 7, 2022   | 0207 | Proposal Presentation Slide Review |
@@ -44,7 +44,7 @@ Starting Monday January 31st classes will meet in-person on Monday, Wednesdays a
 | Monday March 14, 2022   | 0314 | Closed Loop Presentation Slide Review |
 | Wednesday March 16, 2022   | 0316 | Leading the Team |
 | Friday March 18, 2022   | 0318 | Cell Tower Colors |
-| Sunday March 20, 2022   | 0320 | ASSIGNMENT Closed loop Video |
+|  Sunday March 20, 2022  | 0320 |  [ASSIGNMENT Closed loop Video](0320-ASSIGNMENT_Closed_loop_Video) |
 | Monday March 21, 2022   | 0321 | Closed Loop Presentations |
 | Wednesday March 23, 2022   | 0323 | Leading the Change |
 | Friday March 25, 2022   | 0325 | Finish Tower Exersize |

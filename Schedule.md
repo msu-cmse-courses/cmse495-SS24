@@ -10,7 +10,7 @@ Starting Monday January 31st classes will meet in-person on Monday, Wednesdays a
 |  Friday January 14, 2022  | 0114 |  [Project Review](0114-Project_Review) |
 |  Sunday January 16, 2022  | 0116 |  [ASSIGNMENT Project Preferences](0116-ASSIGNMENT_Project_Preferences) |
 | Monday January 17, 2022   | 0117 | MLK No Class |
-|  Wednesday January 19, 2022  | 0119 |  [Teaming Up](0119-Teaming_Up) |
+| Wednesday January 19, 2022   | 0119 | Teaming Up |
 | Friday January 21, 2022   | 0121 | Git Grader |
 |  Sunday January 23, 2022  | 0123 |  [ASSIGNMENT git Team Charter](0123-ASSIGNMENT_git_Team_Charter) |
 | Monday January 24, 2022   | 0124 | Team Charter |

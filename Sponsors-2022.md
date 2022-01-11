@@ -10,7 +10,7 @@ All of the sponsor logos presented here and elsewhere in this website are the pr
 | [![Boeing Logo](./assets/img/boeing-logo.png)](https://www.boeing.com/innovation/) |
 | [![Ford Logo](./assets/img/Ford.png)](https://www.ford.com/)  |
 | [![Kellogg's Logo](./assets/img/Kelloggs.png)](https://www.kelloggcompany.com/)  | 
-| [![Neogen Logo](./assets/img/Neogen.png)](https://www.neogen.com/)  |
+| [![Neogen Logo](./assets/img/Neogen.jpg)](https://www.neogen.com/)  |
 | [![Argon National Lab Logo](./assets/img/Argonne.png)](https://www.anl.gov/)  | 
 | [![Delta Dental Logo](./assets/img/Delta_Dental.png)](https://www.deltadentalmi.com/)  |
 | [![Hope Village Logo](./assets/img/HopeVillage.png)](https://hopevillagecdc.org/)  | 

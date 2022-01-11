@@ -10,11 +10,11 @@ The capstone course has three major goals:
 **_<font color="red">NOTE:  This course will be pivoting to a fully on-line modality during the first 3 weeks of spring semester 2022 in response to the rapidly rising COVID infection rates.  The current plan is hold class via zoom over the first three weeks and to be back in-person starting Monday January 31st. However, this plan will be updated as we get closer to the date and more information is available.</font>_**
 
 ## Team Projects
-The course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>) is seeking  out high-impact projects sponsored by an external "project sponsor" who will work with a student team to solve problems that make an economic, social and/or research contribution. We expect to solicit project sponsors from three areas: industry (with a slight focus on Companies in Michigan), government, community organizations, and research. 
+Michigan State University and the Department of Computational Mathematics Science and Engineering would like to thank these generous sponsors for supporting our students.  A list of the the Spring 2022 project sponsors can be found by clicking on the following link:
 
-For more information on becoming a project sponsor please see our [Project Sponsor Flyer](CMSE495_Project_Sponsor_Flyer.pdf)
+- [Spring 2022 Project Sponsor List](./Sponsors_Sponsors-2022)
 
-Projects will focus on the broad goal of "stories told by data" and fall somewhere in the standard data analysis pipeline:
+If you are interested in being a project sponsor for future CMSE495 classes please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project sponsor please see our [Project Sponsor Flyer](CMSE495_Project_Sponsor_Flyer.pdf)
 
 ## Course Structure
 The class will meet three times a week during the 15-week semester. Classroom time will be divided across three broad activity categories:

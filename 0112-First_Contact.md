@@ -36,7 +36,7 @@ Today we will split everyone into temporary groups of 4-5 people.  Each group wi
 
 **_Anticipated Challenges_** Often related to an Open Loop an Anticipated Challenge is something about the project that could cause it to fail.  Each anticipated challenge should include suggestions for what to do avoid or get around the problem.  For example, "What if there is not enough data to train the Neural Network, if so, maybe research pre-trained models and transfer learning?"  Another example would be "It could take a long time to determine the best visualization for this project, make sure preliminary results of the model are obtained early in the project (within the first four weeks) so there is enough time to iterate over different visualizations."
 
-_**<font color='red'>DO THIS</font>**_: Type up the answers to the above questions by copying the [Google template](https://docs.google.com/document/d/17FvA30OuxzbA_1nmYcamg4mxw1X5c4_Ea5ozwRmWGS8/edit?usp=sharing) and sharing it with your teammates and the instructor(s) (###INSTRUCTOR_EMAIL###).
+_**<font color='red'>DO THIS</font>**_: Type up the answers to the above questions by copying the [Google template](https://docs.google.com/document/d/17FvA30OuxzbA_1nmYcamg4mxw1X5c4_Ea5ozwRmWGS8/edit?usp=sharing) and sharing it with your teammates and the instructor(s) (colbrydi@msu.edu, brugnone@msu.edu).
 
 You are encouraged to work on this document outside of class. Your team will be given 3-5 minutes on Friday to give an overview of the project to the entire class. 
 

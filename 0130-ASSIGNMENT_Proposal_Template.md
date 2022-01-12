@@ -38,7 +38,7 @@ Note: it is expected that these goals will adjust change as things move forward.
 
 As a reminder, here are a set of dates (Approx. every other Friday) that include deliverables related to your projects. These sub-projects are designed to introduce you to useful software development tools
 
-###TODO###
+
 
 - 1/23/2022 - Create git repository 
 - 1/30/2022 - Proposal Due

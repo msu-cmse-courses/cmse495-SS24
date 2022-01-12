@@ -12,7 +12,7 @@ The capstone course has three major goals:
 ## Team Projects
 Michigan State University and the Department of Computational Mathematics Science and Engineering would like to thank these generous sponsors for supporting our students.  A list of the the Spring 2022 project sponsors can be found by clicking on the following link:
 
-- [Spring 2022 Project Sponsor List](./Sponsors_Sponsors-2022)
+- [Spring 2022 Project Sponsor List](./Sponsors-2022)
 
 If you are interested in being a project sponsor for future CMSE495 classes please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project sponsor please see our [Project Sponsor Flyer](CMSE495_Project_Sponsor_Flyer.pdf)
 

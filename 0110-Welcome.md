@@ -20,8 +20,8 @@
 
 
 <iframe
-    width="640"
-    height="360"
+    width="100%"
+    height="300"
     src="https://www.youtube.com/embed/JVDpxLXcOm4?cc_load_policy=True"
     frameborder="0"
     allowfullscreen

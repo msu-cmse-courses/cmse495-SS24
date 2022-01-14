@@ -10,7 +10,24 @@
 - (10 minutes) Common Ground 
 
 
-[Link to today's slides](https://docs.google.com/presentation/d/1en5eUI1NNST8wVCIN3HnxNdBiqOZ9qxdxdqoU9PR1Fk/edit#slide=id.g7d6358de3d_0_68)
+- [Link to today's slides](https://docs.google.com/presentation/d/1en5eUI1NNST8wVCIN3HnxNdBiqOZ9qxdxdqoU9PR1Fk/edit#slide=id.g7d6358de3d_0_68)
+
+
+- [Link to welcome slide video](https://youtu.be/JVDpxLXcOm4)
+
+
+
+
+
+<iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/JVDpxLXcOm4?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
 
 
 Written by Dr. Dirk Colbry, Michigan State University

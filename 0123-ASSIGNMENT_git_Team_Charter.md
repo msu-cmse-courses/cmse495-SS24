@@ -179,7 +179,7 @@ In addition to the above files it is good to avoid any type of "Binary" file (wi
 
 **_Note:_** one exception to the above rules are image files (ex jpg or png) that are used to help markdown or in the documentation.  It is typically okay to include these since they tend to get included only once and do not change much as the project evolves. 
 
-The ```.gitignore``` (typically read "dot git ignore") is aa text file that contains a list of regular expressions (we will learn more about these later) that specify names of files we do not want to include in a git repository. 
+The ```.gitignore``` (typically read "dot git ignore") is a text file that contains a list of regular expressions (we will learn more about these later) that specify names of files we do not want to include in a git repository. 
 
 
 ### .gitignore file
@@ -233,7 +233,7 @@ The following articles are a great resource for learning the types of terminolog
 * [https://choosealicense.com/](https://choosealicense.com/)
 * https://creativecommons.org/licenses/
 
-**_Make sure you talk to your faculty advisor to know what type of license is approriate for your project given.  What license you use may also depend on the NDA and IP agreement made with you and the sponsor._**
+**_Make sure you talk to your instructors to know what type of license is appropriate for your project given.  What license you use may also depend on the NDA and IP agreement made with you and the sponsor._**
 
 Include a ```./LICENSE.txt``` test file in your top directory. Select which license to use using the following website.
 
@@ -307,7 +307,7 @@ Copy the ```makefile``` file in the class directory into your project directory,
 
 # Avoid Spaces in file names
 
-When you name all of the files and folders inside of a repository, it is important that your names **_DO NOT include spaces_**.  Although all modern computer's have ways to accept names with spaces do not use them.  Instead use underscores (_) or ```CamleCase``` (No spaces and capital letters at the beginning of each word in the name).  Avoiding spaces in your names will **_ALWAYS_** save time in the long run.  
+When you name all of the files and folders inside of a repository, it is important that your names **_DO NOT include spaces_**.  Although all modern computer's have ways to accept names with spaces do not use them.  Instead use underscores (\_) or ```CamleCase``` (No spaces and capital letters at the beginning of each word in the name).  Avoiding spaces in your names will **_Alaways_** save time in the long run.  
 
 ----
 

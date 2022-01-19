@@ -26,7 +26,7 @@ We will try to find time to answer questions you may have about the NDA and IP a
 - [Delta Dental IP Agreement](./Files/CMSE495_MSU_Delta_Dental_IP_Agreement_(Final_draft_1-20-21).docx)
 - [Delta Dental NDA Agreement](./Files/CMSE495_MSU_Delta_Dental_NDA_(Final_draft_1-20-21).docx)
 - [Neogen IP Agreement](./Files/CMSE495_MSU_Neogen_IP_2022.docx)
-- [Neogen NDA Agreement](./FilesCMSE495_MSU_Neogen_NDA_2022.docx)
+- [Neogen NDA Agreement](./Files/CMSE495_MSU_Neogen_NDA_2022.docx)
 - [Boeing NDA Agreement](./Files/MSU_Boeing_Student_Agreement_Capstone_Project.pdf)
 
 # 3. Finalize Project Reports

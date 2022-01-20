@@ -1,4 +1,6 @@
-In order to successfully complete this project milestone assignment you need to commit your proposal in markdown or ipynb format to your ```docs``` directory in your project git repository on or before **11:59pm on Sunday January 30**.
+[Link to this document as a Jupyter notebook](./Files/0130-ASSIGNMENT_Proposal_Template.ipynb)
+
+# ASSIGNMENT - Project Plan
 
 # <center>  Project Title </center>
 
@@ -15,7 +17,9 @@ Image from: URL REFERENCE
 ---
 # Instructions
 
-Please write your proposals either in full markdown files (md) or as Jupyter notebooks (ipynb).  This notebook not only acts as instructions/outline for your proposal but should be used as a template for writing. Rename the file to something like ```proposal.md``` or ```proposal.ipynb``` and commit it to your ```docs``` folder.  **_DO NOT leave the instructions in your submitted document**. Erase all instructions and only leave the basic structure and format. Try to write the proposal to a general audience that may be interested (for example your classmates, your advisor or your lab mates).  
+Please write your proposals either in full markdown files (md) or as Jupyter notebooks (ipynb).  This notebook not only acts as instructions/outline for your proposal but should be used as a template for writing. Rename the file to something like ```proposal.md``` or ```proposal.ipynb``` and commit it to your ```docs``` folder.  **_DO NOT leave the instructions in your submitted document_**. Erase all instructions and only leave the basic structure and format. Try to write the proposal to a general audience that may be interested (for example your classmates, your advisor or your lab mates).  
+
+Make this look as professional as possible. You will be sending this to your project sponsors.
 
 
 ---
@@ -26,7 +30,9 @@ Provide a couple of paragraphs about the research domain you are going to cover 
 ---
 # Program Description
 
-Provide a more detailed paragraph about the software be modifying or developing as part of your project.  What components already exists and what components do you hope to add and/or improve as part of your project?
+Provide a more detailed paragraph about the software be modifying or developing as part of your project.  What components already exists and what components do you hope to add and/or improve as part of your project?  
+
+This should be written mostly in your own words. Do not just copy and paste words from the project description.
 
 
 ---
@@ -39,11 +45,15 @@ Note: it is expected that these goals will adjust change as things move forward.
 As a reminder, here are a set of dates (Approx. every other Friday) that include deliverables related to your projects. These sub-projects are designed to introduce you to useful software development tools
 
 
-
 - 1/23/2022 - Create git repository 
-- 1/30/2022 - Proposal Due
-- 3/24/2022 - Closed Loop Presentation
-- 4/24/2022 - Final Report and Code due.
+- 1/30/2022 - Proposal due
+- 2/6/2022 - Proposal Presentation Slides due
+- 2/13/2022 - Proposal video due
+- 3/13/2022 - Closed Loop Presentation Slides due
+- 3/20/2022 - Closed Loop Video due
+- 4/3/2022 - Full project Draft due
+- 4/17/2022 - Final Presentaion slides due
+- 4/24/2022 - Final Video and Report due
 
 
 
@@ -55,12 +65,11 @@ List any key pieces of information/skills do you need to learn and/or mater to s
 
 Also list challenges that you are worried about or that may come up in the course of completing your project.  Include changes you will make to your plan if these challenges do arise. 
 
-It is expected that everyone's projects will be written in Python.  We can discuss ways to incorporate non-python projects into python. Please indicate how your individual project may deviate from any of the above expectations.
 
 ----
 
 # Proposal Grading Rubric
-The following basic grading rubric was used last semester.  It may change slightly but should give an idea of what is considered important. 
+The following basic grading rubric instructors will try to use to evaluate your proposal
 
     Grading Overall
     10 points - Project title
@@ -73,6 +82,13 @@ The following basic grading rubric was used last semester.  It may change slight
     Grading Rubric
     -5 Leaving in instructions in report.
     -5 Sloppy formatting
+
+# Submitting Assignment
+
+To submit your proposal add a copy to the git repository. Your instructors will download the updated repository after the due date. 
+
+Once your instructor's have graded your reports, teams will be asked to respond to the feedback and then email the final reports to their sponsors (while cc'ing the instructors). 
+
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

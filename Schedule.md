@@ -13,9 +13,9 @@ Starting Monday January 31st classes will meet in-person on Monday, Wednesdays a
 |  Wednesday January 19, 2022  | 0119 |  [Teaming Up](0119-Teaming_Up) |
 |  Friday January 21, 2022  | 0121 |  [Git Grader](0121-Git_Grader) |
 |  Sunday January 23, 2022  | 0123 |  [ASSIGNMENT git Team Charter](0123-ASSIGNMENT_git_Team_Charter) |
-| Monday January 24, 2022   | 0124 | Team Charter |
-| Wednesday January 26, 2022   | 0126 | Community Engaged Learning I |
-| Friday January 28, 2022   | 0128 | Git Grader Presentations |
+|  Monday January 24, 2022  | 0124 |  [Team Charter](0124-Team_Charter) |
+|  Wednesday January 26, 2022  | 0126 |  [Community Engaged Learning I](0126-Community_Engaged_Learning_I) |
+|  Friday January 28, 2022  | 0128 |  [Git Grader Presentations](0128-Git_Grader_Presentations) |
 |  Sunday January 30, 2022  | 0130 |  [ASSIGNMENT Proposal Template](0130-ASSIGNMENT_Proposal_Template) |
 | Monday January 31, 2022   | 0131 | Project Plan |
 | Wednesday February 2, 2022   | 0202 | Community Engaged Learning II |

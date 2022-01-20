@@ -6,7 +6,7 @@
 
 - (60 minutes) Team Charter Round Robin
 - (5 minutes) Break (Brain Teaser)
-- (30 minutes) Project Schedule
+- (25 minutes) Project Schedule
 
 # Team charter presentations.
 

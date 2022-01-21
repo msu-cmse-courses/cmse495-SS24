@@ -8,7 +8,6 @@ All of the sponsor logos presented here and elsewhere in this website are the pr
 |:---|
 | [![Air Force Research Lab](./assets/img/ARFL.png)](https://www.afrl.af.mil/) |
 | [![Boeing Logo](./assets/img/boeing-logo.png)](https://www.boeing.com/innovation/) |
-| [![Ford Logo](./assets/img/Ford.png)](https://www.ford.com/)  |
 | [![Kellogg's Logo](./assets/img/Kelloggs.png)](https://www.kelloggcompany.com/)  | 
 | [![Neogen Logo](./assets/img/Neogen.jpg)](https://www.neogen.com/)  |
 | [![Argon National Lab Logo](./assets/img/Argonne.png)](https://www.anl.gov/)  | 

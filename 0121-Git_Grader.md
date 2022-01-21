@@ -13,6 +13,8 @@ Everyone will be given 2 class periods (today and next Friday) to finish this pr
 - (20 minutes) Team Charter
 - (60 minutes) Group Programming Project
 
+[Link to todays slides](https://docs.google.com/presentation/d/1a7KlMlSoRzAebDsdvXv7F550fDFKXyvrPYGYpDpR1mM/edit#slide=id.g10b1ad8571a_0_273)
+
 # 0. Signing Instructions
 
 The instructions were not clear so there was a LOT of confusion regarding Signing your student agreements and turning them in. Please review the following video and double check your submission. 

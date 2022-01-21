@@ -117,6 +117,25 @@ The following video are instructions specifically for how to use the MSU Gitlab.
 
 
 
+Some of you may get some sort of "Authentication" error when trying to use git on a windows machine (esspecially if you have your computer already set up to use github). If that is the case, the following video may help you set up an SSH key on your windows machine.  
+
+- [Direct Link to Windows SSH key generation video](https://youtu.be/rhDL4igJkxc)
+
+
+
+
+
+<iframe
+    width="640"
+    height="360"
+    src="https://www.youtube.com/embed/rhDL4igJkxc?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
 As you update and change the files in your repository you will need to push those changes to gitlab.  The following instructions walk you though this process:
 
 

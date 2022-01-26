@@ -1,8 +1,6 @@
-https://medium.com/@stephenjanaway/creating-a-team-charter-4a94971ab7e1
-
 # <center>Creating a project GIT repository</center>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" width=50% alt="Git logo">
+![Git Logo](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
 
 ---
 # BACKGROUND
@@ -271,9 +269,11 @@ target : prerequisite_file1 prerequisite_file2 prequiste_file3 ...
 
 Makefiles can be thought of as Directed Acyclic Graphs (DAGs).  For example the makefile found in this [file](https://colbrydi.github.io/images//Makefile) can be visualized as the following dependency graph. 
 
-<img src="https://colbrydi.github.io/images/make.png" width=50%>
+![example makefile Directed Acyclic graph (i.e. no loops in graph)](https://colbrydi.github.io/images/make.png)
 
 The following is a very simple ```makefile``` template you can use in your project. This file has very few dependencies and is just a way to use make to keep track of the utilities we are using in this course:
+
+```bash
 MODULENAME = YOUR_PACKAGE_NAME 
 
 help:
@@ -317,6 +317,7 @@ test:
     
 
 .PHONY: init docs lint UML test 
+```
 
 Copy the ```makefile``` file in the class directory into your project directory, change the **YOUR_PACKAGE_NAME** name and add/commit the file to your repository.  Note some projects will use this makefile extensively while others may not (It will depend on the project). 
 

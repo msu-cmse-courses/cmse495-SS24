@@ -29,6 +29,7 @@ Starting Monday January 31st classes will meet in-person on Monday, Wednesdays a
 | Wednesday February 16, 2022   | 0216 | Leveling Up |
 | Friday February 18, 2022   | 0218 | Census Tutorial |
 |  Sunday February 20, 2022  | 0220 |  [ASSIGNMENT Auto Documentation](0220-ASSIGNMENT_Auto_Documentation) |
+| Sunday February 20, 2022   | 0220 | ASS Outreach |
 | Monday February 21, 2022   | 0221 | Stub Code Review |
 | Wednesday February 23, 2022   | 0223 | Lets talk |
 | Friday February 25, 2022   | 0225 | Census Tutorial |

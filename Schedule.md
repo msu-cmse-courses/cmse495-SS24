@@ -17,7 +17,7 @@ Starting Monday January 31st classes will meet in-person on Monday, Wednesdays a
 |  Wednesday January 26, 2022  | 0126 |  [Community Engaged Learning I](0126-Community_Engaged_Learning_I) |
 |  Friday January 28, 2022  | 0128 |  [Git Grader Presentations](0128-Git_Grader_Presentations) |
 |  Sunday January 30, 2022  | 0130 |  [ASSIGNMENT Proposal Template](0130-ASSIGNMENT_Proposal_Template) |
-| Monday January 31, 2022   | 0131 | Project Plan |
+|  Monday January 31, 2022  | 0131 |  [Project Plan](0131-Project_Plan) |
 | Wednesday February 2, 2022   | 0202 | Community Engaged Learning II |
 | Friday February 4, 2022   | 0204 | Web Scraping |
 |  Sunday February 6, 2022  | 0206 |  [ASSIGNMENT Proposal Presentation Slides](0206-ASSIGNMENT_Proposal_Presentation_Slides) |
@@ -28,8 +28,7 @@ Starting Monday January 31st classes will meet in-person on Monday, Wednesdays a
 | Monday February 14, 2022   | 0214 | Proposal Presentations |
 | Wednesday February 16, 2022   | 0216 | Leveling Up |
 | Friday February 18, 2022   | 0218 | Census Tutorial |
-|  Sunday February 20, 2022  | 0220 |  [ASSIGNMENT Auto Documentation](0220-ASSIGNMENT_Auto_Documentation) |
-| Sunday February 20, 2022   | 0220 | ASS Outreach |
+|  Sunday February 20, 2022  | 0220 |  [ASSIGNMENT outreach](0220-ASSIGNMENT_outreach) |
 | Monday February 21, 2022   | 0221 | Stub Code Review |
 | Wednesday February 23, 2022   | 0223 | Lets talk |
 | Friday February 25, 2022   | 0225 | Census Tutorial |

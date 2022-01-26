@@ -88,8 +88,8 @@ If you continue to need help go see your instructors.
 
 
 <iframe
-    width="640"
-    height="360"
+    width="100%"
+    height="300"
     src="https://www.youtube.com/embed/IAAv4DjYYUA?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
@@ -105,8 +105,8 @@ The following video are instructions specifically for how to use the MSU Gitlab.
 
 
 <iframe
-    width="640"
-    height="360"
+    width="100%"
+    height="300"
     src="https://www.youtube.com/embed/6_cegMFG0Pw?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
@@ -124,8 +124,8 @@ Some of you may get some sort of "Authentication" error when trying to use git o
 
 
 <iframe
-    width="640"
-    height="360"
+    width="100%"
+    height="300"
     src="https://www.youtube.com/embed/b6umB61CV5s?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
@@ -141,8 +141,8 @@ As you update and change the files in your repository you will need to push thos
 
 
 <iframe
-    width="640"
-    height="360"
+    width="100%"
+    height="300"
     src="https://www.youtube.com/embed/GTM-h5xX2Lk?cc_load_policy=True"
     frameborder="0"
     allowfullscreen
@@ -214,7 +214,7 @@ What should go into a .gitignore depends a lot on the type of project.  However,
 
 
 <iframe
-    width="640"
+    width="100%"
     height="360"
     src="https://www.youtube.com/embed/kzI-mPSY8y4?cc_load_policy=True"
     frameborder="0"
@@ -367,8 +367,8 @@ The following video goes though why we have to treat jupyter notebooks this way:
 
 
 <iframe
-    width="640"
-    height="360"
+    width="100%"
+    height="300"
     src="https://www.youtube.com/embed/79hW_TzLos8?cc_load_policy=True"
     frameborder="0"
     allowfullscreen

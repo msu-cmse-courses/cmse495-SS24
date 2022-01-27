@@ -18,12 +18,12 @@ Starting Monday January 31st classes will meet in-person on Monday, Wednesdays a
 |  Friday January 28, 2022  | 0128 |  [Git Grader Presentations](0128-Git_Grader_Presentations) |
 |  Sunday January 30, 2022  | 0130 |  [ASSIGNMENT Proposal Template](0130-ASSIGNMENT_Proposal_Template) |
 |  Monday January 31, 2022  | 0131 |  [Project Plan](0131-Project_Plan) |
-| Wednesday February 2, 2022   | 0202 | Community Engaged Learning II |
-| Friday February 4, 2022   | 0204 | Web Scraping |
+|  Wednesday February 2, 2022  | 0202 |  [Community Engaged Learning II](0202-Community_Engaged_Learning_II) |
+|  Friday February 4, 2022  | 0204 |  [Web Scraping](0204-Web_Scraping) |
 |  Sunday February 6, 2022  | 0206 |  [ASSIGNMENT Proposal Presentation Slides](0206-ASSIGNMENT_Proposal_Presentation_Slides) |
-| Monday February 7, 2022   | 0207 | Proposal Presentation Slide Review |
-| Wednesday February 9, 2022   | 0209 | Speaking Up |
-| Friday February 11, 2022   | 0211 | Uniscraper Web Scraping |
+|  Monday February 7, 2022  | 0207 |  [Proposal Presentation Slide Review](0207-Proposal_Presentation_Slide_Review) |
+|  Wednesday February 9, 2022  | 0209 |  [Speaking Up](0209-Speaking_Up) |
+|  Friday February 11, 2022  | 0211 |  [Uniscraper Web Scraping](0211-Uniscraper_Web_Scraping) |
 |  Sunday February 13, 2022  | 0213 |  [ASSIGNMENT Proposal Video](0213-ASSIGNMENT_Proposal_Video) |
 | Monday February 14, 2022   | 0214 | Proposal Presentations |
 | Wednesday February 16, 2022   | 0216 | Leveling Up |

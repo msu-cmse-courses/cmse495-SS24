@@ -20,6 +20,10 @@ In this milestone project you will create a git repository and share it with you
               datafile1.csv
               datafile2.tiff
               datafile3.xls
+        Figures/
+              Generate_Figure1.ipynb
+              Generate_Figure2.ipynb
+              Generate_Figure3.ipynb
         LICENSE.txt
         makefile
         Reports/

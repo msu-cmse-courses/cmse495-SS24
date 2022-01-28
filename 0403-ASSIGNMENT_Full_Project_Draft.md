@@ -20,7 +20,11 @@ If you remember from the first project, the structure of the repository should b
         Examples/
               datafile1.csv
               datafile2.tiff
-              datafile3.xls
+              datafile3.xls.
+        Figures/
+              Generate_Figure1.ipynb
+              Generate_Figure2.ipynb
+              Generate_Figure3.ipynb
         LICENSE.txt
         makefile
         Reports/

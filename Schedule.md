@@ -48,7 +48,7 @@ Starting Monday January 31st classes will meet in-person on Monday, Wednesdays a
 | Monday March 21, 2022   | 0321 | Closed Loop Presentations |
 | Wednesday March 23, 2022   | 0323 | Leading the Change |
 | Friday March 25, 2022   | 0325 | Finish Tower Exersize |
-|  Sunday March 27, 2022  | 0327 |  [ASSIGNMENT Code Linting](0327-ASSIGNMENT_Code_Linting) |
+|  Sunday March 27, 2022  | 0327 |  [ASSIGNMENT Figure reproducability](0327-ASSIGNMENT_Figure_reproducability) |
 | Monday March 28, 2022   | 0328 | Lint Review |
 | Wednesday March 30, 2022   | 0330 | Leading with Principles |
 | Friday April 1, 2022   | 0401 | Annotation GUI |

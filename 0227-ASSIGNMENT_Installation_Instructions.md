@@ -2,13 +2,14 @@
 
 ![Anaconda Logo](https://optimise2.assets-servd.host/voracious-blesbok/production/anaconda-meta.jpg?w=1200&h=630&q=82&auto=format&fit=clip&dm=1632326952&s=2b336a00fa13405f84ce2f5b74e21fee)
 
-In this project your team will produce a clear set of instructions to easily install the required software for your project.  By following these directions your instructor and sponsors should be able to install everything that is necessary to get your evaluation software running.  
+In this project your team will produce a clear set of instructions to easily install and demo (test) the required software for your project.  By following these directions your instructor and sponsors should be able to install everything that is necessary to get your evaluation software running.  
+
 Most project this will mean including an ```INSTALL.md``` file in your main director and maybe an ```environments.yml``` or ```requirements.txt``` file.  In any case the instructions should be short, clear and have a minimum number of steps.  
 
 
 # Deliverables 
 
-Teams must add a instructions on how to install the software needed to reproduce their results. This should be complete instructions with all required steps and helpful hints if there are problems. Make sure the instructions are also simple without requiring extra libraries that are not used. 
+Teams must add a instructions on how to install and test the software needed for their project. This should be complete instructions with all required steps and helpful hints if there are problems. Make sure the instructions are also simple without requiring extra libraries that are not used. 
 
 Make sure it is clear where your instructions are located.  Adding a line in your ```README.md``` file is probably a good idea.
 

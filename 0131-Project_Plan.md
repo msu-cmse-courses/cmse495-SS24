@@ -59,14 +59,9 @@ When you are done writing up your feedback, share your notes with the other team
 
 In two weeks, teams will be be giving their first presentation.  Your next deadline will be a full draft of the presentation slides (Due Sunday February 6th). 
 
-- [Link to proposal presentation slide assignment]()
+- [Link to proposal presentation slide assignment](0206-ASSIGNMENT_Proposal_Presentation_Slides)
 
-Presentations will be recorded so that they can be shared with the project sponsors.  You have the option of pre-recording the proposal or we will record them as they are presented live.  There will be some time to answer questions. Here are some other notes to remember:
-
-- It is expected that pre-recorded presentations will be of higher quality than in-person.  
-- It is important that the presentation does not go over 5 minutes in order for us to get to get though all of them during class. 
-
-These presentations should explain the main components of the project, the timelines 
+Presentations will be recorded so that they can be shared with the project sponsors.  
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

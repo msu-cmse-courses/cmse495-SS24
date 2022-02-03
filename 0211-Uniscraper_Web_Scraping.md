@@ -1,5 +1,3 @@
-[Link to this jupyter notebook](./Files/0211-Uniscraper_Web_Scraping.ipynb)
-
 # Exploring exteral packages - Web Scraper Activity
 
 You will be working mostly in your groups today.  Please complete all of the following tasks and we will get together at around 3:30pm to discuss what you have learned. 
@@ -26,7 +24,7 @@ Work in your groups and fork the project, download your forked copy, install and
 - Follow the instructions to create a local environment on your computer
 - Run the example.ipynb
 
-https://github.com/caimeng2/UniScraper
+[https://github.com/caimeng2/UniScraper](https://github.com/caimeng2/UniScraper)
 
 
 
@@ -36,8 +34,6 @@ https://github.com/caimeng2/UniScraper
 # 2. Code Review
 
 As a team review the code provided in the Uniscraper project. See if you can get the example code working.  What is it doing?  What questions do you have?
-
-Put your notes and questions here
 
 ----
 # 3. Submit Issues you find to the github issues pages

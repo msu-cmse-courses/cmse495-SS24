@@ -25,9 +25,9 @@ Starting Monday January 31st classes will meet in-person on Monday, Wednesdays a
 |  Wednesday February 9, 2022  | 0209 |  [Speaking Up](0209-Speaking_Up) |
 |  Friday February 11, 2022  | 0211 |  [Uniscraper Web Scraping](0211-Uniscraper_Web_Scraping) |
 |  Sunday February 13, 2022  | 0213 |  [ASSIGNMENT Proposal Video](0213-ASSIGNMENT_Proposal_Video) |
-| Monday February 14, 2022   | 0214 | Proposal Presentations |
-| Wednesday February 16, 2022   | 0216 | Leveling Up |
-| Friday February 18, 2022   | 0218 | Census Tutorial |
+|  Monday February 14, 2022  | 0214 |  [Proposal Presentations](0214-Proposal_Presentations) |
+|  Wednesday February 16, 2022  | 0216 |  [Leveling Up](0216-Leveling_Up) |
+|  Friday February 18, 2022  | 0218 |  [Jupyter Tutorials](0218-Jupyter_Tutorials) |
 |  Sunday February 20, 2022  | 0220 |  [ASSIGNMENT outreach](0220-ASSIGNMENT_outreach) |
 | Monday February 21, 2022   | 0221 | Stub Code Review |
 | Wednesday February 23, 2022   | 0223 | Lets talk |

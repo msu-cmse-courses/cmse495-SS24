@@ -24,7 +24,7 @@ Image From: https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-b
 
 We are going to start today's activity by doing a code review of a **_web spider_** program. 
 
-&#9989; **<font color=red>DO THIS:</font>**  Download the [noaa_scrapper.py](./Files/noaa_scrapper.py) and [this jupyter notebook](./Files/0204-Web_Scraping.ipynb') annd put them in the same directory. Run the file via the following command:
+&#9989; **<font color=red>DO THIS:</font>**  Download the [noaa_scraper.py](./Files/noaa_scraper.py) and [this jupyter notebook](./Files/0204-Web_Scraping.ipynb) annd put them in the same directory. Run the file via the following command:
 
 
 ```python
@@ -75,10 +75,10 @@ sys.path.append('./packages/')
 ----
 <a name="Presidential_data_example"></a>
 # 3. Presidential data example
-This second example is a **_web scraper_** program. Found this idea by reading the following blog post: https://blog.exploratory.io/scraping-us-presidents-list-from-web-and-transforming-it-to-be-useful-fff534470bb6
+This second example is a **_web scraper_** program. Found this idea by reading the following blog post: [Scraping US President list](https://blog.exploratory.io/scraping-us-presidents-list-from-web-and-transforming-it-to-be-useful-fff534470bb6)
 
 &#9989; **<font color=red>DO THIS:</font>** Click on the following link and review the page source with your teams.  Discuss which tags you need to look for to try and isolate the table data only.  Ideally we want to create a ```pandas table``` of this data:
-https://www.loc.gov/rr/print/list/057_chron.html
+[Chronological List of Presidents, First Ladies, and Vice Presidents of the United States](https://www.loc.gov/rr/print/list/057_chron.html)
 
 
 Put notes on what you find here.

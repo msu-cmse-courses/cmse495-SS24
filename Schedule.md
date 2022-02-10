@@ -29,9 +29,9 @@ Starting Monday January 31st classes will meet in-person on Monday, Wednesdays a
 |  Wednesday February 16, 2022  | 0216 |  [Leveling Up](0216-Leveling_Up) |
 |  Friday February 18, 2022  | 0218 |  [Jupyter Tutorials](0218-Jupyter_Tutorials) |
 |  Sunday February 20, 2022  | 0220 |  [ASSIGNMENT outreach](0220-ASSIGNMENT_outreach) |
-| Monday February 21, 2022   | 0221 | Stub Code Review |
-| Wednesday February 23, 2022   | 0223 | Lets talk |
-| Friday February 25, 2022   | 0225 | Tutorial Exchange |
+|  Monday February 21, 2022  | 0221 |  [Outreach Review](0221-Outreach_Review) |
+|  Wednesday February 23, 2022  | 0223 |  [Lets talk](0223-Lets_talk) |
+|  Friday February 25, 2022  | 0225 |  [Tutorial Exchange](0225-Tutorial_Exchange) |
 |  Sunday February 27, 2022  | 0227 |  [ASSIGNMENT Installation Instructions](0227-ASSIGNMENT_Installation_Instructions) |
 | Monday February 28, 2022   | 0228 | Unit Test Code Review |
 | Wednesday March 2, 2022   | 0302 | Its Complicated |

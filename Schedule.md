@@ -63,7 +63,7 @@ Starting Monday January 31st classes will meet in-person on Monday, Wednesdays a
 |  Sunday April 17, 2022  | 0417 |  [ASSIGNMENT Final Presentaiton Slides](0417-ASSIGNMENT_Final_Presentaiton_Slides) |
 | Monday April 18, 2022   | 0418 | Final Presentation Slide Review |
 | Wednesday April 20, 2022   | 0420 | TBD |
-| Friday April 22, 2022   | 0422 | AutoML Presentation |
+| Friday April 22, 2022   | 0422 | Data4Justice Conference |
 |  Sunday April 24, 2022  | 0424 |  [ASSIGNMENT Final Project Video](0424-ASSIGNMENT_Final_Project_Video) |
 | Monday April 25, 2022   | 0425 | TBD |
 | Wednesday April 27, 2022   | 0427 | TBD |

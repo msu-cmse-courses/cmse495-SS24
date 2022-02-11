@@ -11,6 +11,25 @@ You will be working mostly in your groups today.  Please complete all of the fol
 - (30 minutes) Final Reflection 
 
 
+# Submitting git Issues vs Submitting Pull requests
+
+- [Direct Link to video](https://youtu.be/e7zV1dqSXwk)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/e7zV1dqSXwk?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
 ---
 
 # 1. Fork the UniScrapper Project

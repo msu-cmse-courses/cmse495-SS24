@@ -1,6 +1,6 @@
 # Assignment - Project Outreach
 
-The goal of this milestone is to share what you are doing the community outside the classroom (without violating your NDAs).  Teams will put together a blog post (news article) and a Google Slide to highlight their project and their sponsors.  The blog post will go on the course website (and may be highlighted on either the department, college or even university website) and the slides will be used on the hallway TVs outside the main CMSE office and maybe also on the website.  
+The goal of this milestone is to share what you are doing with the community outside the classroom (without violating your NDAs).  Teams will put together a blog post (news article) and a Google Slide to highlight their project and their sponsors.  The blog post will go on the course website (and may be highlighted on either the department, college or even university website) and the slides will be used on the hallway TVs outside the main CMSE office and maybe also on the website.  
 
 Be creative, this is a fairly simple milestone (on purpose so you can be working on your primary project goals), however it is also an opportunity to show off a bit and share what you are doing with friends, family and possibly even future employers. 
 
@@ -8,7 +8,7 @@ Be creative, this is a fairly simple milestone (on purpose so you can be working
 ## Google Slide
 Here are some guild lines for the slide:
 
-- Please use a 16:9 ratio slide so that it will appear nicely on the hallway TVs.
+- Please use a 16:9 ratio (1920 x 1080 pixels) slide so that it will appear nicely on the hallway TVs.
 - Minimize the use of too many words. Use large fonts to make it easy to read.
 - Only use the sponsor logo if approval has been given by the sponsors. 
 - Include the team name and member names (with everyone's consent).

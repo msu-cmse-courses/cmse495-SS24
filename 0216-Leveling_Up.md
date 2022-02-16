@@ -15,10 +15,7 @@
 Extra time to discuss presentations from Monday
 
 
-# Leveling Up
-
-No link to slides yet (There are suprises) I will add the link after class. 
-
+Link to slides https://docs.google.com/presentation/d/16U57jHCzwXBhhrDa5X-lGpZrO_-u7d9Hj91fSMyMisY/edit?usp=sharing
 
 
 ----

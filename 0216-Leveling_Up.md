@@ -15,7 +15,7 @@
 Extra time to discuss presentations from Monday
 
 
-Link to slides https://docs.google.com/presentation/d/16U57jHCzwXBhhrDa5X-lGpZrO_-u7d9Hj91fSMyMisY/edit?usp=sharing
+[Link to slides](https://docs.google.com/presentation/d/16U57jHCzwXBhhrDa5X-lGpZrO_-u7d9Hj91fSMyMisY/edit?usp=sharing)
 
 
 ----

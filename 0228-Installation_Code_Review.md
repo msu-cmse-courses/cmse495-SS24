@@ -41,7 +41,7 @@ As a group, prepare a report for the instructor and the development team. This r
 
 This is a group effort, email the report to the instructors and cc the other members of the code development team. 
 
-# Spring break next week! Nothing Due!!!
+# Spring break next week! Nothing Due this Sunday, next deadline is the Sunday at the end of spring break (Check the schedule)!!!
 
 
 ---

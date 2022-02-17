@@ -13,7 +13,7 @@
 
 Each team will break-up into their groups and fork the following git repository:
 
-https://github.com/colbrydi/CMSE495_2022_Distance_Measures
+[https://github.com/colbrydi/CMSE495_2022_Distance_Measures](https://github.com/colbrydi/CMSE495_2022_Distance_Measures)
 
 In the repository, create a jupyter notebook to analyze the data provided in the csv file.  This notebook should be written as a report explaining how the data is analyzed and showing how the data specifically relates to your teams perception of the project relative to the rest of the class (Feel Free to use the provided template).  Your group needs to do the following:
 

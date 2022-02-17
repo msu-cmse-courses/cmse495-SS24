@@ -20,8 +20,8 @@ An ideal project will have a at most one or two commends needed to install every
 1. Download and install the miniconda software for your OS. Follow default install instructions. (link to miniconda)
 2. Unzip the project repository into a folder on your computer.
 3. Open an anaconda command prompt and navigate to the unzipped folder.  
-4. Create a project specific conda environment by running the following command from the unzipped folder ```conda init```
-5. Activate the conda environment using the following command ```conda env create --prefix ./envs --file environment.yml```
+4. Create a project specific conda environment by running the following command from the unzipped folder ```conda env create --prefix ./envs --file environment.yml```
+5. Activate the conda environment using the following command ```conda activate ./envs```
 6. Start Jupyter using the following command ```jupyter notebook```
 7. From Jupyter open the ```demo.ipynb``` file and continue the instructions from there.
 
@@ -30,6 +30,8 @@ My sure your instructions are tailored to your audience.  Some projects may need
 # Submission
 
 Add your files to your team repository on or before the deadline.  
+
+**_NOTE_**: We will be sharing the installation instructions with your classmates. Make sure there is a way to install and test the instructions without violating your NDA. If there is a problem please notify your instructors. 
 
 Written by Dr. Dirk Colbry and Dr. Janez Krek, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

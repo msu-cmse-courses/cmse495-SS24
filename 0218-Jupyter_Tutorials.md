@@ -41,6 +41,28 @@ Basic pull request instructions (as a reminder):
 5. Push your branch to your fork
 6. Issue a pull request from your branch on the github page. 
 
+This should also work (You don't really need a branch):
+
+1. Fork the above repository
+2. Clone your forked repository
+4. Add your demo/tutorial to the branch
+5. Push your changes to your fork
+6. Issue a pull request from your fork on the github page. 
+
+| Team | Project| 
+|:-----|:-------|
+|Hope Village Revitalization | 1. Census Data|
+|Air Force Research Lab | 2. TPOT AutoML|
+|Boeing | 3. GENE AutoML|
+|Neogen | 4. Auto-SKLearn AutoML|
+|Old Nation Brewry | 5. Zotero Reference Database|
+|Ford Motor Compnay | 6. Video Image Data|
+|Argonne National Labs | 7. Audio Data|
+|Kellogg's Company | 8. Social Media|
+|Delta Dental | 9. Google Sheets|
+|QSIDE Institute | 10. Graphical User Interfaces|
+
+
 ----
 
 # 1. Census Data

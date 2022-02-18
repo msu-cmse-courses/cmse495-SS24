@@ -32,6 +32,7 @@ Additional information will be added to this website as we get closer to the sta
 
 
 - [Course Syllabus (Draft)](Syllabus)
+- [Weekly 3x3 Team Reflections (Due Wednesdays)](Weekly-3x3)
 - [Preliminary Schedule](Schedule)
 - [Desire2Learn](http://d2l.msu.edu) (aka D2L) - MSU Course management system
 

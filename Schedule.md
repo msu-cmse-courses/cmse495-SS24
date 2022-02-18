@@ -4,6 +4,7 @@ For the first three weeks of class (January 10 - January 28) we will meet vertua
 Starting Monday January 31st classes will meet in-person on Monday, Wednesdays and Fridays from 2:40-4:00pm in Communication Arts building room 233.
 
 Starting Wednesday Feburary 23rd, teams will be expected to turn in a weekly [3x3 Reflections](Weekly-3x3)
+
 | Date |  number | assignment |
 |------|---------|------------|
 |  Monday January 10, 2022  | 0110 |  [Welcome](0110-Welcome) |

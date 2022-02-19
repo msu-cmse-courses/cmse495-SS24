@@ -37,7 +37,7 @@ Starting Wednesday Feburary 23rd, teams will be expected to turn in a weekly [3x
 |  Sunday February 27, 2022  | 0227 |  [ASSIGNMENT Installation Instructions](0227-ASSIGNMENT_Installation_Instructions) |
 |  Monday February 28, 2022  | 0228 |  [Installation Code Review](0228-Installation_Code_Review) |
 |  Wednesday March 2, 2022  | 0302 |  [Its Complicated](0302-Its_Complicated) |
-| Friday March 4, 2022   | 0304 | Google Colab |
+|  Friday March 4, 2022  | 0304 |  [Google Colab](0304-Google_Colab) |
 | Sunday March 6, 2022   | 0306 | Nothing Due (Spring Break) |
 | Monday March 7, 2022   | 0307 | Spring Break |
 | Wednesday March 9, 2022   | 0309 | Spring Break |
@@ -45,7 +45,7 @@ Starting Wednesday Feburary 23rd, teams will be expected to turn in a weekly [3x
 |  Sunday March 13, 2022  | 0313 |  [ASSIGNMENT Closed Loop Presentation Slides](0313-ASSIGNMENT_Closed_Loop_Presentation_Slides) |
 | Monday March 14, 2022   | 0314 | Closed Loop Presentation Slide Review |
 | Wednesday March 16, 2022   | 0316 | Leading the Team |
-|  Friday March 18, 2022  | 0318 |  [Distance metrics](0318-Distance_metrics) |
+| Friday March 18, 2022   | 0318 | Distance metrics |
 |  Sunday March 20, 2022  | 0320 |  [ASSIGNMENT Closed loop Video](0320-ASSIGNMENT_Closed_loop_Video) |
 | Monday March 21, 2022   | 0321 | Closed Loop Presentations |
 | Wednesday March 23, 2022   | 0323 | Leading the Change |

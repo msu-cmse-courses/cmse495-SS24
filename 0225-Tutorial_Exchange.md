@@ -10,6 +10,27 @@ In class today your team will finish your tutorials and share them with the clas
 - (20 minutes) Finish Tutorial
 - (60 minutes) Tutorial exchange
 
+# Merge Video
+
+Here is a video of me merging some of your requests. I didn't test anything, I just merged the files and made sure there were no conflicts. 
+
+- [Direct Link to Merge Video](https://youtu.be/3tU9yJNTiKA)
+
+
+
+
+
+<iframe
+    width="100%"
+    height="300"
+    src="https://www.youtube.com/embed/3tU9yJNTiKA?cc_load_policy=True"
+    frameborder="0"
+    allowfullscreen
+></iframe>
+
+
+
+
 ----
 <a name="Group_programming_Project"></a>
 # Finish Tutorial

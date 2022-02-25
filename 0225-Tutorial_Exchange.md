@@ -52,5 +52,12 @@ This will be first come first serve.
 
 Review your partner team's tutorial (you may need to look at their fork) and provide feedback in the form of either an issue on the github issues page and/or a pull request.  When you are done, please review any other tutorials as you have time and are interested. 
 
+1. Boeing -- Ford Motor Company
+2. Old Nation Brewery -- QSIDE Institute
+3. Delta Dental -- Air Force Research Lab
+4. Hope Village Revitalization -- Argonne National Labs
+5. Kellogg's Company -- Neogen
+
+
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

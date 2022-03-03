@@ -47,9 +47,9 @@ Starting Wednesday Feburary 23rd, teams will be expected to turn in a weekly [3x
 |  Wednesday March 16, 2022  | 0316 |  [Leading the Team](0316-Leading_the_Team) |
 |  Friday March 18, 2022  | 0318 |  [Distance metrics](0318-Distance_metrics) |
 |  Sunday March 20, 2022  | 0320 |  [ASSIGNMENT Closed loop Video](0320-ASSIGNMENT_Closed_loop_Video) |
-| Monday March 21, 2022   | 0321 | Closed Loop Presentations |
-| Wednesday March 23, 2022   | 0323 | Leading the Change |
-| Friday March 25, 2022   | 0325 | Finish Distance Metrics |
+|  Monday March 21, 2022  | 0321 |  [Closed Loop Presentations](0321-Closed_Loop_Presentations) |
+|  Wednesday March 23, 2022  | 0323 |  [Leading the Change](0323-Leading_the_Change) |
+|  Friday March 25, 2022  | 0325 |  [Finish Distance Metrics](0325-Finish_Distance_Metrics) |
 |  Sunday March 27, 2022  | 0327 |  [ASSIGNMENT Figure reproducability](0327-ASSIGNMENT_Figure_reproducability) |
 | Monday March 28, 2022   | 0328 | Lint Review |
 | Wednesday March 30, 2022   | 0330 | Leading with Principles |

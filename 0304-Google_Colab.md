@@ -9,6 +9,29 @@ Google Colabratory is a jupyterhub solution provided by Google. Many of the clas
 - (30 minutes) Modify for use with Google Colab
 - (50 minutes) Tutorial exchange
 
+# Capstone Showcase Date Selection
+
+Please fill out the following survey:
+
+- [Link to preference survey](https://docs.google.com/forms/d/e/1FAIpQLSfWN3YoneuU8NPvy0oKRR8fKJVGn0CmYkbGck_0unGME2KZAQ/viewform)
+
+
+
+
+
+<iframe 
+	src="https://docs.google.com/forms/d/e/1FAIpQLSfWN3YoneuU8NPvy0oKRR8fKJVGn0CmYkbGck_0unGME2KZAQ/viewform" 
+	width="100%" 
+	height="1100px" 
+	frameborder="0" 
+	marginheight="0" 
+	marginwidth="0">
+	Loading...
+</iframe>
+
+
+
+
 ----
 <a name="Group_programming_Project"></a>
 # Modify for use with Google Colab

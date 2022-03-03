@@ -3,13 +3,10 @@
 
 ## Agenda (80 Minutes)
 
-- (30 minutes) Distance Matrix
-- (50 minutes) Report Summaries
+- (80 minutes) Distance Metrics
 
 
 # Distance Metrics
-
-**_WARNING_**: You only have 30 minutes to see what you come up with for this project.  Come up with a plan. Split up the work and use your time wisely.  I challenge the teams to come up with creative solutions.
 
 Each team will break-up into their groups and fork the following git repository:
 
@@ -25,9 +22,10 @@ In the repository, create a jupyter notebook to analyze the data provided in the
 **_RECOMMENDED_**: Generate a a square "average distance matrix" where both the rows and columns are the group names.  Each row is the teams average distance to the projects represented in the columns. If done correctly the value across the diagonal will be zero (because each team's project is zero distance from their own project). 
 
 
+
 # Report Summaries
 
-Each team will have 5 minutes to report what they learned in their 30 minutes.  
+Make sure you submit a merge request by the end of class today (even if your notebook is not done). Include a list of what you need to finish up during class next week.  We will give you about 20 minutes to finish up your report and then we will go around the room for demonstrations. You are allowed to learn from each other but make sure you cite the other teams work. 
 
 
 Written by Dr. Dirk Colbry, Michigan State University

@@ -85,7 +85,7 @@ The format for the final reports will vary by project but should probably have t
 - References
 - Appendix
 
-Please write the final report in either jupyter notebooks or Markdown and check them into your repository.  [Here is a template you can use that gives you more information](FINAL-Project-Template-INSTRUCTOR).  
+Please write the final report in either jupyter notebooks or Markdown and check them into your repository.  [Here is a template you can use that gives you more information](FINAL-Project_Template).  
 
 # 3. Submission
 

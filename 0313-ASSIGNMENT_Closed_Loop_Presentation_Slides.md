@@ -37,7 +37,11 @@ Let your instructor know what you are thinking, we may be able to show you some 
 
 ** An open-loop is a part of the project for which you do not know what your solution will include.  
 
-# 2. Submission
+# 3. Final Report Draft (optional but recommended)
+
+Teams also are encouraged to submit a draft of their [Final Report](INAL-Project_Template).  Instructors will provide ungraded feedback for the reports so you can make any last changes before the due date next Sunday.
+
+# 4. Submission
 
 Have one on your team email the storyboard (or a link to the storyboard) to the instructors. Carbon Copy (CC) all members of your team (including yourself) and CC your sponsors (if they have asked to be included). The title of the email should be "**_GROUP NAME - CMSE495 Closed-Loop Presentation Storyboard_**".
 

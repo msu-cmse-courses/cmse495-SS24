@@ -69,6 +69,5 @@ Starting Wednesday Feburary 23rd, teams will be expected to turn in a weekly [3x
 | Monday April 25, 2022   | 0425 | TBD |
 |  Wednesday April 27, 2022  | 0427 |  [Showcase](0427-Showcase) |
 | Friday April 29, 2022   | 0429 | Last Day of Class |
-| Sunday May 1, 2022   | 0501 | ASSIGNMENT Final Deliverables |
 
 Date and Time of final TBD

@@ -2,10 +2,9 @@
 
 ![Finish Line](https://cdn.pixabay.com/photo/2016/03/31/21/07/checkered-1296203__340.png)
 
-The final project and all of it's milestone components are due on the last day of class.  If you have any questions about content and/or format please review the [submission guildlines for the journal of open source software](https://joss.readthedocs.io/en/latest/submitting.html).   Please double check all of the project assignments.
+The final project and all of it's milestone components are due on the last day of class.     Please double check all of the project assignments.
 
-
-All projects should follow the same basic structure laid out at the beginning of the semester. File and folder naming is important.  Use meaningful names as described in class. 
+All projects should follow the same basic structure laid out at the beginning of the semester. File and folder naming is important but will vary by project.  Use meaningful names as described in prior assignments. Here is an example:
 
     ProjectName/
         .gitignore
@@ -37,9 +36,14 @@ All projects should follow the same basic structure laid out at the beginning of
                   test_module2.py
         README.md
         setup.py
-        Final_Report.ipynb
+        Final_Report.md
+        Final_Report.pdf
+        Installation_instructions.ipynb
+        Figure1.ipynb
+        Figure2.ipynb
+        other.ipynb
     
-Include a prominent link to your final video in the project ```README.md``` file. 
+The ```README.md``` file should be the first "touch point" in your repository. Assume that people new to the repository will start there.  Use that to guild your readers to the other parts.  
 
 ----
 <a name="Video"></a>
@@ -66,9 +70,31 @@ Let your instructor know what you are thinking, we may be able to show you some 
 
 ** An open-loop is a part of the project for which you do not know what your solution will include.  
 
-# 2. Submission
+# 2. Final Report
 
-Have one on your team email a link to the video to the instructors. Carbon Copy (CC) all members of your team (including yourself) and CC your sponsors (if they have asked to be included). The title of the email should be "**_GROUP NAME - CMSE495 Final Presentation Video_**".
+The format for the final reports will vary by project but should probably have the following layout:
+
+- Title
+- List of Authors
+- Abstract
+- Background
+- Methodology
+- Results
+- Concluding Discussion and Future Work
+- Acknowledgements
+- References
+- Appendix
+
+Please write the final report in either jupyter notebooks or Markdown and check them into your repository.  [Here is a template you can use that gives you more information](FINAL-Project-Template-INSTRUCTOR).  
+
+# 3. Submission
+
+Have one on your team email a link to the video to the instructors. Carbon Copy (CC) all members of your team (including yourself) and CC your sponsors (if they have asked to be included). The title of the email should be "**_GROUP NAME - CMSE495 Final Project_**"
+
+
+# 4. Extensions
+
+Everything is due by Sunday night April 24th.  However, teams may make changes to their repository (not their video) up until Friday April 29th. When you feel your project is complete, please share the repository as a zip file with your project sponsors. Make sure you cc your instructors so we know you are finished and start grading. 
 
 -----
 

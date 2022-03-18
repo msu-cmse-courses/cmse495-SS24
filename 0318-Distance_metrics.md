@@ -14,7 +14,7 @@ Each team will break-up into their groups and fork the following git repository:
 
 In the repository, create a jupyter notebook to analyze the data provided in the csv file.  This notebook should be written as a report explaining how the data is analyzed and showing how the data specifically relates to your teams perception of the project relative to the rest of the class (Feel Free to use the provided template).  Your group needs to do the following:
 
-1. Read in the data provided by the csv file (this is the data from our survey taken on [0207-Proposal_Presentation_Slide_Review][0207-Proposal_Presentation_Slide_Review].
+1. Read in the data provided by the csv file (this is the data from our survey taken on [0207-Proposal_Presentation_Slide_Review](0207-Proposal_Presentation_Slide_Review)).
 2. Analyze the data to figure out what it says about your teams project.
 3. Write your report and submit it as a pull request (make sure you use a unique filename to avoid merge collisions). 
 

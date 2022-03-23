@@ -48,15 +48,15 @@ Starting Wednesday Feburary 23rd, teams will be expected to turn in a weekly [3x
 |  Friday March 18, 2022  | 0318 |  [Distance metrics](0318-Distance_metrics) |
 |  Sunday March 20, 2022  | 0320 |  [ASSIGNMENT Closed loop Video](0320-ASSIGNMENT_Closed_loop_Video) |
 |  Monday March 21, 2022  | 0321 |  [Closed Loop Presentations](0321-Closed_Loop_Presentations) |
-|  Wednesday March 23, 2022  | 0323 |  [Leading the Change](0323-Leading_the_Change) |
+|  Wednesday March 23, 2022  | 0323 |  [Group work](0323-Group_work) |
 |  Friday March 25, 2022  | 0325 |  [Finish Distance Metrics](0325-Finish_Distance_Metrics) |
 |  Sunday March 27, 2022  | 0327 |  [ASSIGNMENT Figure reproducability](0327-ASSIGNMENT_Figure_reproducability) |
 |  Monday March 28, 2022  | 0328 |  [Figure Reproducibility Review](0328-Figure_Reproducibility_Review) |
-|  Wednesday March 30, 2022  | 0330 |  [Leading with Principles](0330-Leading_with_Principles) |
+|  Wednesday March 30, 2022  | 0330 |  [Leading the Change](0330-Leading_the_Change) |
 |  Friday April 1, 2022  | 0401 |  [Cell Tower Colors](0401-Cell_Tower_Colors) |
 |  Sunday April 3, 2022  | 0403 |  [ASSIGNMENT Full Project Draft](0403-ASSIGNMENT_Full_Project_Draft) |
 |  Monday April 4, 2022  | 0404 |  [Project Review](0404-Project_Review) |
-| Wednesday April 6, 2022   | 0406 | TBD |
+| Wednesday April 6, 2022   | 0406 | Leading with Principles |
 | Friday April 8, 2022   | 0408 | Finish Tower Exersize |
 |  Sunday April 10, 2022  | 0410 |  [ASSIGNMENT Future Work](0410-ASSIGNMENT_Future_Work) |
 | Monday April 11, 2022   | 0411 | Future Project Proposal Reviews |

@@ -56,8 +56,8 @@ Starting Wednesday Feburary 23rd, teams will be expected to turn in a weekly [3x
 |  Friday April 1, 2022  | 0401 |  [Cell Tower Colors](0401-Cell_Tower_Colors) |
 |  Sunday April 3, 2022  | 0403 |  [ASSIGNMENT Full Project Draft](0403-ASSIGNMENT_Full_Project_Draft) |
 |  Monday April 4, 2022  | 0404 |  [Project Review](0404-Project_Review) |
-| Wednesday April 6, 2022   | 0406 | Leading with Principles |
-| Friday April 8, 2022   | 0408 | Finish Tower Exersize |
+|  Wednesday April 6, 2022  | 0406 |  [Leading with Principles](0406-Leading_with_Principles) |
+|  Friday April 8, 2022  | 0408 |  [Finish Tower Exersize](0408-Finish_Tower_Exersize) |
 |  Sunday April 10, 2022  | 0410 |  [ASSIGNMENT Future Work](0410-ASSIGNMENT_Future_Work) |
 | Monday April 11, 2022   | 0411 | Future Project Proposal Reviews |
 | Wednesday April 13, 2022   | 0413 | TBD |

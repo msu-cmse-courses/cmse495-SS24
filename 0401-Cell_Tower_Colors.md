@@ -26,11 +26,28 @@ Today we are going to go though the steps to solve this problem using graph theo
 
 ### Agenda for today's class (80 minutes)
 
-1. [(60 minutes) Group Programming Project](#Group_programming_Project)
+1. (10 minutes) Set up groups
+2. [(70 minutes) Group Programming Project](#Group_programming_Project)
+
+---
+
+# 1. Setting up Groups
+
+Use the following Google document to share notes with the other members of your team.
+
+- [Google Document](https://docs.google.com/document/d/1BS_n0P-a_TenNtcEHU3mT6T2K5PGu4qFNi6YZb5MNqk/edit?usp=sharing)
+
+|   | Team A | Team B|
+|---|--------|-------|
+| **_Download_** | Boeing | Ford |
+| **_Knn_** |  Hope Village | AFRL|
+| **_Graph Coloring_** | Argonne |  Neogen | 
+| **_Map Plot_** | Old Nation | QSIDE | 
+| **_Management_** | Kelloggs  | Delta Dental  |
 
 ----
 <a name="Group_programming_Project"></a>
-# 3. Group programming Project
+# 2. Group programming Project
 
 I have broken the project down the following programming components:
 

@@ -18,6 +18,8 @@ When you get to class, log onto CATME and provide a review of you and your team'
 
 This is a team paring exercise.  Your team will work with another team to review your figure notebooks. Combine your teams and split up in to two groups (some people from each team).  Have one group review your teams installation and figure instructions and the other group review the other teams instructions. 
 
+- [Google Document for group notes](https://docs.google.com/document/d/1Q6QWvwpvavWm3GCJps4k8zTZ1pcLZi3Iwqw0J1Jc96g/edit)
+
 ## Agenda
 
 - (5 minutes) Break up into two groups 
@@ -36,7 +38,7 @@ As a group, prepare a report for the instructor and the development team. This r
 - Is there anything that needed to be added to the code/instructions to make the project easier to understand?
 - Was there anything you could add to the project to help make the project better?
 
-This is a group effort, email the report to the instructors and cc the other members of the code development team. 
+This is a group effort, use the attached google document to submit the report to the instructors.
 
 ---
 

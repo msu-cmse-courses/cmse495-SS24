@@ -59,12 +59,14 @@ Starting Wednesday Feburary 23rd, teams will be expected to turn in a weekly [3x
 |  Wednesday April 6, 2022  | 0406 |  [Leading with Principles](0406-Leading_with_Principles) |
 |  Friday April 8, 2022  | 0408 |  [Finish Tower Exersize](0408-Finish_Tower_Exersize) |
 |  Sunday April 10, 2022  | 0410 |  [ASSIGNMENT Future Work](0410-ASSIGNMENT_Future_Work) |
-| Monday April 11, 2022   | 0411 | Future Project Proposal Reviews |
+|  Monday April 11, 2022  | 0411 |  [Future Project Proposal Reviews](0411-Future_Project_Proposal_Reviews) |
 | Wednesday April 13, 2022   | 0413 | TBD |
+|  Friday April 15, 2022  | 0415 |  [Project Workday](0415-Project_Workday) |
 |  Sunday April 17, 2022  | 0417 |  [ASSIGNMENT Final Presentaiton Slides](0417-ASSIGNMENT_Final_Presentaiton_Slides) |
 | Monday April 18, 2022   | 0418 | Final Presentation Slide Review |
 | Wednesday April 20, 2022   | 0420 | TBD |
 | Friday April 22, 2022   | 0422 | Data4Justice Conference |
+| Friday April 22, 2022   | 0422 | TBD |
 |  Sunday April 24, 2022  | 0424 |  [ASSIGNMENT Final Project Video](0424-ASSIGNMENT_Final_Project_Video) |
 | Monday April 25, 2022   | 0425 | TBD |
 |  Wednesday April 27, 2022  | 0427 |  [Showcase](0427-Showcase) |

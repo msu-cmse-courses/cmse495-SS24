@@ -4,30 +4,34 @@
 
 In class today we are going to try an experiment to write some code as a team.  We will take a fairly complex problem and divide it up into parts. Each person or sub-groups of people will work on their part and then we will try to compile them as a group and see if they all work together.  
 
+### Agenda for today's class (80 minutes)
+
+1. (10 minutes) Set up groups
+2. (70 minutes) Group Programming Project
+
 ### Project description
 
 The signals from different cellphone towers that are close together can interfere.  
 
-<img src="http://2.bp.blogspot.com/-X7XJfnPb6xU/TjZfTmAd9CI/AAAAAAAAAF0/3eGarXigOQE/s1600/dido1.jpg" width="50%"><p style="text-align: right;">From: http://www.onlivespot.com/2011/08/dido-wireless-technology-explained.html</p>
+<img src="http://2.bp.blogspot.com/-X7XJfnPb6xU/TjZfTmAd9CI/AAAAAAAAAF0/3eGarXigOQE/s1600/dido1.jpg" width="50%">  
+
+> From: http://www.onlivespot.com/2011/08/dido-wireless-technology-explained.html
 
 In order to avoid this overlap cell phone companies use different frequency ranges in the Electromagnetic spectrum.  Two towers that are close together but have differences in frequencies (shown as colors, red/green/black in the following figure) do not cause nearly as much interference. 
 
-<img src="http://2.bp.blogspot.com/-M4olRy6O-v4/TjZghvwq3KI/AAAAAAAAAF4/GtOd6Db-su4/s1600/dido2.jpg" width = "50%"><p style="text-align: right;">From:  http://www.onlivespot.com/2011/08/dido-wireless-technology-explained.html</p>
+<img src="http://2.bp.blogspot.com/-M4olRy6O-v4/TjZghvwq3KI/AAAAAAAAAF4/GtOd6Db-su4/s1600/dido2.jpg" width = "50%">
+
+> From:  http://www.onlivespot.com/2011/08/dido-wireless-technology-explained.html
 
 However, cellphone towers are never distributed in such an even pattern.   Consider the following map which shows the location of cell towers around Michigan State.
 
 <img src='https://lh6.googleusercontent.com/qSPlrmlnBqN7JZu_U_zaOydbFhekPtQhYk2s0fmMo__5YktgYXWuenVkKATZ0uaDNfrex51kUW8SseGjFMMcL8yYPcuMc3_o5H125HMzvI1wd91ZM8XV98tLx23-=w740' width = "50%">
 
-From: [http://www.antennasearch.com/](http://www.antennasearch.com/)
+> From: [http://www.antennasearch.com/](http://www.antennasearch.com/)
 
 Another problem is that cellphone companies have to pay for each frequency range they use.  So they would like minimize the number of frequencies that they need to purchase while also minimizing the interference between the cell towers. 
 
 Today we are going to go though the steps to solve this problem using graph theory.
-
-### Agenda for today's class (80 minutes)
-
-1. (10 minutes) Set up groups
-2. [(70 minutes) Group Programming Project](#Group_programming_Project)
 
 ---
 

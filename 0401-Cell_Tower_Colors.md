@@ -1,37 +1,11 @@
 # In-Class Assignment: Graph Coloring 
 
-**NOTE:** I am planning on having this assignment take two class periods. That is fine, lets take our time so we can learn something.
-
-In class today we are going to try an experiment to write some code as a team.  We will take a fairly complex problem and divide it up into parts. Each person or sub-groups of people will work on their part and then we will try to compile them as a group and see if they all work together.  
+In class today we are going to try an experiment to write some code as a team.  We will take a fairly complex problem and divide it up into parts. Each team will work on their part and then we will try to compile them as a group and see if they all work together.  
 
 ### Agenda for today's class (80 minutes)
 
 1. (10 minutes) Set up groups
 2. (70 minutes) Group Programming Project
-
-### Project description
-
-The signals from different cellphone towers that are close together can interfere.  
-
-<img src="http://2.bp.blogspot.com/-X7XJfnPb6xU/TjZfTmAd9CI/AAAAAAAAAF0/3eGarXigOQE/s1600/dido1.jpg" width="50%">  
-
-> From: http://www.onlivespot.com/2011/08/dido-wireless-technology-explained.html
-
-In order to avoid this overlap cell phone companies use different frequency ranges in the Electromagnetic spectrum.  Two towers that are close together but have differences in frequencies (shown as colors, red/green/black in the following figure) do not cause nearly as much interference. 
-
-<img src="http://2.bp.blogspot.com/-M4olRy6O-v4/TjZghvwq3KI/AAAAAAAAAF4/GtOd6Db-su4/s1600/dido2.jpg" width = "50%">
-
-> From:  http://www.onlivespot.com/2011/08/dido-wireless-technology-explained.html
-
-However, cellphone towers are never distributed in such an even pattern.   Consider the following map which shows the location of cell towers around Michigan State.
-
-<img src='https://lh6.googleusercontent.com/qSPlrmlnBqN7JZu_U_zaOydbFhekPtQhYk2s0fmMo__5YktgYXWuenVkKATZ0uaDNfrex51kUW8SseGjFMMcL8yYPcuMc3_o5H125HMzvI1wd91ZM8XV98tLx23-=w740' width = "50%">
-
-> From: [http://www.antennasearch.com/](http://www.antennasearch.com/)
-
-Another problem is that cellphone companies have to pay for each frequency range they use.  So they would like minimize the number of frequencies that they need to purchase while also minimizing the interference between the cell towers. 
-
-Today we are going to go though the steps to solve this problem using graph theory.
 
 ---
 
@@ -48,6 +22,30 @@ Use the following Google document to share notes with the other members of your 
 | **_Graph Coloring_** | Argonne |  Neogen | 
 | **_Map Plot_** | Old Nation | QSIDE | 
 | **_Management_** | Kelloggs  | Delta Dental  |
+
+### Project description
+
+The signals from different cellphone towers that are close together can interfere.  
+
+![Diagram of two cell towers range represented as overlapping circles](http://2.bp.blogspot.com/-X7XJfnPb6xU/TjZfTmAd9CI/AAAAAAAAAF0/3eGarXigOQE/s1600/dido1.jpg)
+
+> From: http://www.onlivespot.com/2011/08/dido-wireless-technology-explained.html
+
+In order to avoid this overlap cell phone companies use different frequency ranges in the Electromagnetic spectrum.  Two towers that are close together but have differences in frequencies (shown as colors, red/green/black in the following figure) do not cause nearly as much interference. 
+
+![Similar diagram as the previous with multiple towers and the circles are given different colors to represent different frequencies](http://2.bp.blogspot.com/-M4olRy6O-v4/TjZghvwq3KI/AAAAAAAAAF4/GtOd6Db-su4/s1600/dido2.jpg)
+
+> From:  http://www.onlivespot.com/2011/08/dido-wireless-technology-explained.html
+
+However, cellphone towers are never distributed in such an even pattern.   Consider the following map which shows the location of cell towers around Michigan State.
+
+![Google map of the area around Lansing with towers represented](https://lh6.googleusercontent.com/qSPlrmlnBqN7JZu_U_zaOydbFhekPtQhYk2s0fmMo__5YktgYXWuenVkKATZ0uaDNfrex51kUW8SseGjFMMcL8yYPcuMc3_o5H125HMzvI1wd91ZM8XV98tLx23-=w740)
+
+> From: [http://www.antennasearch.com/](http://www.antennasearch.com/)
+
+Another problem is that cellphone companies have to pay for each frequency range they use.  So they would like minimize the number of frequencies that they need to purchase while also minimizing the interference between the cell towers. 
+
+Today we are going to go though the steps to solve this problem using graph theory.
 
 ----
 <a name="Group_programming_Project"></a>
@@ -72,7 +70,7 @@ mapplot(locations, colors)
 
 Where each of the variables are of the following types:
 
-- ```locations``` - $n \times 2$ numpy array of longitude and latitude point locations. (Similar to what we did in the pre-class)
+- ```locations``` - $n \times 2$ numpy array of longitude and latitude point locations. 
 - ```graph``` - adjacency matrix represented as a matrix.
 - ```colors``` - $n$ list of numbers representing colors.  Is just indexes in the range $0-M$ where $M$ is just the number of colors we need to assign. 
 
@@ -143,8 +141,6 @@ https://en.wikipedia.org/wiki/Nearest_neighbor_graph
 Basically the algorithm loops though all of the points and finds the nearest neighbor to each point.  
 
 
-NOTE: This is what was attempted in the pre-class assignment.  Focus on generating a nearest neighbor algorithm that generates a dictionary and use the stub function from the pre-class to test the graph.  
-
 ----
 <a name="S3"></a>
 ## Group 3: Greedy Graph Coloring
@@ -173,10 +169,9 @@ mapplot(locations, colors)
 
 &#9989; **<font color=red>DO THIS:</font>** This one is a little tricky so extend the stub function to then color the plot using the color indexes.  Assign a unique color for each index.  We can assume a finite indexes of 4-5 colors but think about how the function should handle the case with a very large $M$. 
 
-&#9989; **<font color=red>DO THIS:</font>** Write a function that takes a graph and a list of color indexes and plots them on a map of Michigan State. Similar to the following:
+&#9989; **<font color=red>DO THIS:</font>** Write a function that takes a graph and a list of color indexes and plots them on a map of Michigan State. Similar to the following (note these colors are just an example and not a correct greedy graph coloring):
 
-<img src="https://lh6.googleusercontent.com/qSPlrmlnBqN7JZu_U_zaOydbFhekPtQhYk2s0fmMo__5YktgYXWuenVkKATZ0uaDNfrex51kUW8SseGjFMMcL8yYPcuMc3_o5H125HMzvI1wd91ZM8XV98tLx23-=w740" width="33%">
-
+![Example image with bad colors](https://lh4.googleusercontent.com/bxr45lF7hAyqhEZpLNd8__l4iTkBTQNjJblJSRxJpW54wfmYO0m_zZmw1T9xXoyTB2ciKTVFxHCk-GRoF3DDP8a_7K4EkM87E_M5i9SVcAjb2STl85GkGVhYXiOP_0Yayw=w740)
 
 Hint: I highly recommend using the [folium](https://python-visualization.github.io/folium) library. 
 

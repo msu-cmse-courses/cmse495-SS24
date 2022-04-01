@@ -66,7 +66,6 @@ Starting Wednesday Feburary 23rd, teams will be expected to turn in a weekly [3x
 | Monday April 18, 2022   | 0418 | Final Presentation Slide Review |
 | Wednesday April 20, 2022   | 0420 | TBD |
 |  Friday April 22, 2022  | 0422 |  [Data4Justice Conference](0422-Data4Justice_Conference) |
-| Friday April 22, 2022   | 0422 | TBD |
 |  Sunday April 24, 2022  | 0424 |  [ASSIGNMENT Final Project Video](0424-ASSIGNMENT_Final_Project_Video) |
 | Monday April 25, 2022   | 0425 | TBD |
 |  Wednesday April 27, 2022  | 0427 |  [Showcase](0427-Showcase) |

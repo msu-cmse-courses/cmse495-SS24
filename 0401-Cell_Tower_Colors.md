@@ -116,6 +116,8 @@ We will be using antenna data from the following website:
 
 http://www.antennasearch.com/
 
+> **_NOTE_**: If the above isn't working (updated interface) you can use [this file](./Files/TowersRVN479554GVQ144174.csv).
+
 Download a csv file from the above website for all of the towers in a 4.0 Mile radius from the MSU engineering building (567 Wilson Road, East Landing, MI 58824). 
 
 &#9989; **<font color=red>DO THIS:</font>** Write a ```importTowerData``` stub function that ignores the input and returns a random $n \times 2$ set of points where $n$ is the number of towers. 

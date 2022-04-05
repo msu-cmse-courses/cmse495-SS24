@@ -7,12 +7,12 @@ In class today we are going apply some methods from participatory systems modeli
 
 Everyone will be given 2 class periods (today and next Wednesday) to finish this project, and teams will present their work at the end of the second class.  
 
-## Agenda (80 Minutes)
+## Agenda (2 Days = 160 Minutes)
 
 - (10 minutes) Introduction to Systems Thinking and FCM
 - (20 minutes) Participatory Generation of Model Components 
-- (45 minutes) Team Modeling Exercise
-- (5 minutes) Team Check-in
+- (?? minutes) Team Modeling Exercise
+- (5 minutes) Daily Team Check-in
 
 [Future Link to slides]()
 

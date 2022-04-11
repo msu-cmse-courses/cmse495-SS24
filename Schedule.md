@@ -63,8 +63,8 @@ Starting Wednesday Feburary 23rd, teams will be expected to turn in a weekly [3x
 |  Wednesday April 13, 2022  | 0413 |  [Systems Thinking for Project Success Exercise](0413-Systems_Thinking_for_Project_Success_Exercise) |
 |  Friday April 15, 2022  | 0415 |  [Project Workday](0415-Project_Workday) |
 |  Sunday April 17, 2022  | 0417 |  [ASSIGNMENT Final Presentaiton Slides](0417-ASSIGNMENT_Final_Presentaiton_Slides) |
-| Monday April 18, 2022   | 0418 | Final Presentation Slide Review |
-| Wednesday April 20, 2022   | 0420 | Systems Thinking for Project Success Day 2 |
+|  Monday April 18, 2022  | 0418 |  [Final Presentation Slide Review](0418-Final_Presentation_Slide_Review) |
+|  Wednesday April 20, 2022  | 0420 |  [Systems Thinking for Project Success Day 2](0420-Systems_Thinking_for_Project_Success_Day_2) |
 |  Friday April 22, 2022  | 0422 |  [Data4Justice Conference](0422-Data4Justice_Conference) |
 |  Sunday April 24, 2022  | 0424 |  [ASSIGNMENT Final Project](0424-ASSIGNMENT_Final_Project) |
 | Monday April 25, 2022   | 0425 | Course Review and Reflection |

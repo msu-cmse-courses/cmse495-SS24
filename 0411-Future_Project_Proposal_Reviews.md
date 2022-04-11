@@ -9,7 +9,7 @@
 
 # CATME team review
 
-When you get to class, log onto CATME and provide a review of you and your team's performace on the slide development milestone.
+When you get to class, log onto CATME and provide a review of you and your team's performance on the project so far.
 
 ---
 

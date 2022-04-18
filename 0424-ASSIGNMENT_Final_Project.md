@@ -2,7 +2,7 @@
 
 ![Finish Line](https://cdn.pixabay.com/photo/2016/03/31/21/07/checkered-1296203__340.png)
 
-The final project and all of it's milestone components are due on the last day of class.     Please double check all of the project assignments.
+The final project and all of it's milestone components are due on the last day of class (April 29th, 2020).     Please double check all of the project assignments.
 
 All projects should follow the same basic structure laid out at the beginning of the semester. File and folder naming is important but will vary by project.  Use meaningful names as described in prior assignments. Here is an example:
 

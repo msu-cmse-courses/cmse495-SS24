@@ -69,6 +69,6 @@ Starting Wednesday Feburary 23rd, teams will be expected to turn in a weekly [3x
 |  Sunday April 24, 2022  | 0424 |  [ASSIGNMENT Final Project](0424-ASSIGNMENT_Final_Project) |
 | Monday April 25, 2022   | 0425 | Course Review and Reflection |
 |  Wednesday April 27, 2022  | 0427 |  [Showcase](0427-Showcase) |
-| Friday April 29, 2022   | 0429 | Last Day of Class |
+| Friday April 29, 2022   | 0429 | No Class Due to Engeering Design Day |
 
 Date and Time of final TBD

@@ -67,7 +67,7 @@ Starting Wednesday Feburary 23rd, teams will be expected to turn in a weekly [3x
 |  Wednesday April 20, 2022  | 0420 |  [Systems Thinking for Project Success Day 2](0420-Systems_Thinking_for_Project_Success_Day_2) |
 |  Friday April 22, 2022  | 0422 |  [Data4Justice Conference](0422-Data4Justice_Conference) |
 |  Sunday April 24, 2022  | 0424 |  [ASSIGNMENT Final Project](0424-ASSIGNMENT_Final_Project) |
-| Monday April 25, 2022   | 0425 | Course Review and Reflection |
+|  Monday April 25, 2022  | 0425 |  [Course Review and Reflection](0425-Course_Review_and_Reflection) |
 |  Wednesday April 27, 2022  | 0427 |  [Showcase](0427-Showcase) |
 | Friday April 29, 2022   | 0429 | No Class Due to Engeering Design Day |
 

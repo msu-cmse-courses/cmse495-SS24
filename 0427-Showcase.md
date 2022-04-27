@@ -19,6 +19,13 @@ Presentations in the "Digital Poster" format are expected to be flexible and dyn
 - (10 minutes) Group 2 Setup
 - (30 minutes) Group 2 Presentations
 
+
+### Links
+
+- [Dirk's Introduction Slides](https://docs.google.com/presentation/d/1C69dxQeNuw2dQTxZtXTuNZJ6YtWLBIGNzJwna00r9qs/edit?usp=sharing)
+- [Link to Talks and map](Showcase)
+
+
 **_NOTE_**: Snacks and drinks will be provided.  Come back here as we get closer for team group assignments. 
 
 ---

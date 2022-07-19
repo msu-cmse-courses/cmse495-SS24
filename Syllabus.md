@@ -14,10 +14,6 @@ The capstone course has three major goals:
 
 ## Course Format and Activities
 
-**_<font color="red">NOTE:  This course will be pivoting to a fully on-line modality during the first 3 weeks of spring semester 2022 in response to the rapidly rising COVID infection rates.  The current plan is hold class via zoom over the first three weeks and to be back in-person starting Monday January 31st. However, this plan will be updated as we get closer to the date and more information is available.</font>_**
-
-* [Link to zoom classroom](https://msu.zoom.us/j/96333643100)
-
 The class will meet three times a week during the 15-week semester and will be delivered **_synchronously_**.  Students are expected to attend class during the designated class period (MWF 2:40-4:00pm). Classroom time will be divided across three broad activity categories:
 
 - Project planning, team meetings, milestones and reports (Mondays)
@@ -83,15 +79,14 @@ There are a variety of course activities, with percentages of total grade listed
 
 | Activity | Grade Percentage |
 |----------|------------------|
-| Individual Pre-class Surveys | 10 |
 | In-Class Participation | 10 |
 | Mini-Projects | 10 | 
 | Project Proposal |  10 |
-| Closed Loop presentation | 10 |
+| Closed Loop Report | 10 |
 | Final Presentation | 10 |
 | Other Milestone Projects | 10 |
-| Individual teamwork score | 10 |
-| Final Project Deliverables | 20 |
+| Individual teamwork score | 15 |
+| Final Project Deliverables | 25 |
 | Total | 100% |
 
 
@@ -242,14 +237,9 @@ Article 2.III.B.4 of the[ Student Rights and Responsibilities (SRR)](http://spli
 
 Michigan State University is committed to ensuring that the bereavement process of a student who loses a family member during a semester does not put the student at an academic disadvantage in their classes. If you require a grief absence, you should complete the “Grief Absence Request” web form no later than one week after knowledge of the circumstance. I will work with you to make appropriate accommodations so that you are not penalized due to a verified grief absence.
 
-## MSU Community Compact for COVID-19
+### Student illness
 
-During the Spring 2022 semester a set of requirements have been put in place to maximize the health and safety of all members of the MSU community. More details can be found on the [MSU Community Compact website](https://msu.edu/together-we-will/msu-community-compact/). 
-
-
-### Student illness and Exposure to COVID-19
-
-If a student is exposed to someone who is ill or has tested positive for the COVID-19 virus, they will stay home, contact a health care provider and follow all public health recommendations.  There are multiple policies available to complete course work. Please talk to your instructors and [review the university policies](https://deanofstudents.msu.edu/medical-leave ). 
+If a student is exposed to someone who is ill, they will stay home, contact a health care provider and follow all public health recommendations.  There are multiple policies available to complete course work. Please talk to your instructors and [review the university policies](https://deanofstudents.msu.edu/medical-leave ). 
 
 
 ### Instructor illness

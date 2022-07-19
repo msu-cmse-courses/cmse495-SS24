@@ -1,4 +1,4 @@
-# CMSE 495 - Data Science Capstone (Spring 2022)
+# CMSE 495 - Data Science Capstone (Spring 2023)
 
 The CMSE 495 data science capstone course is intended to provide students with an opportunity to put together what they have learned across multiple courses to develop a final project that demonstrates their ability to work in a team on real-world problems.
 
@@ -7,14 +7,12 @@ The capstone course has three major goals:
 2. Provide students with opportunities to learn and practice professional skills (communication, teamwork and leadership) in the context of team-based projects.
 3. Provide opportunities for students and faculty in the department to build relationships and network with industry partners, community organizations, and campus colleagues. 
 
-**_<font color="red">NOTE:  This course will be pivoting to a fully on-line modality during the first 3 weeks of spring semester 2022 in response to the rapidly rising COVID infection rates.  The current plan is hold class via zoom over the first three weeks and to be back in-person starting Monday January 31st. However, this plan will be updated as we get closer to the date and more information is available.</font>_**
-
 ## Team Projects
 Michigan State University and the Department of Computational Mathematics Science and Engineering would like to thank these generous sponsors for supporting our students.  A list of the the Spring 2022 project sponsors can be found by clicking on the following link:
 
 - [Spring 2022 Project Sponsor List](./Sponsors-2022)
 
-If you are interested in being a project sponsor for future CMSE495 classes please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project sponsor please see our [Project Sponsor Flyer](CMSE495_Project_Sponsor_Flyer.pdf)
+If you are interested in being a project sponsor for Spring 2023 please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project sponsor please see our [Project Sponsor Flyer](CMSE495_Project_Sponsor_Flyer.pdf)
 
 ## Course Structure
 The class will meet three times a week during the 15-week semester. Classroom time will be divided across three broad activity categories:

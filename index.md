@@ -12,7 +12,7 @@ Michigan State University and the Department of Computational Mathematics Scienc
 
 - [Spring 2022 Project Sponsor List](./Sponsors-2022)
 
-If you are interested in being a project sponsor for Spring 2023 please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project sponsor please see our [Project Sponsor Flyer](CMSE495_Project_Sponsor_Flyer.pdf)
+**<font color=red>If you are interested in being a project sponsor for Spring 2023 please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project sponsor please see our [Project Sponsor Flyer](CMSE495_Project_Sponsor_Flyer.pdf)</font>**
 
 ## Course Structure
 The class will meet three times a week during the 15-week semester. Classroom time will be divided across three broad activity categories:

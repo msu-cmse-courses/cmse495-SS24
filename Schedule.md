@@ -1,4 +1,5 @@
-# Preliminary Course Schedule
+# Preliminary Course Schedule  
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday January 10, 2022   | 0110 | Welcome |

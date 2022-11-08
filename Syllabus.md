@@ -161,7 +161,7 @@ Department of Computational Mathematics, Science and Engineering <br>
 Nathan Brugnone (he/him/his) <br>
 **_Email_**: brugnone@msu.edu <br>
 **_Office Hours_**:  Mondays 1:30-2:20pm at Classroom (Comm Arts 233) 
-    
+
 
 # Course Policies and Expectations
 

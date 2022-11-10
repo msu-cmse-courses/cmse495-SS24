@@ -80,11 +80,10 @@ There are a variety of course activities, with percentages of total grade listed
 | Activity | Grade Percentage |
 |----------|------------------|
 | In-Class Participation | 10 |
+| Individual Professionalism | 10 |
+| 3x3 Reports | 15 | 
 | Mini-Projects | 10 | 
-| Project Proposal |  10 |
-| Closed Loop Report | 10 |
-| Final Presentation | 10 |
-| Other Milestone Projects | 10 |
+| Project Milestones | 15 |
 | Individual teamwork score | 15 |
 | Final Project Deliverables | 25 |
 | Total | 100% |
@@ -111,18 +110,18 @@ There are a variety of course activities, with percentages of total grade listed
 
 Information for this course is being managed via the course website:  
 
-[https://cmse.msu.edu/cmse495](https://cmse.msu.edu/cmse495)
+<https://cmse.msu.edu/cmse495>
 
-Accompanying course information, including the official course calendar, can be found at this website. The course also may use a Desire2Learn page for assignment grading and organization, which can be found at [http://d2l.msu.edu](http://d2l.msu.edu). 
+Accompanying course information, including the official course calendar, can be found at this website. The course also may use a Desire2Learn page for assignment grading and organization, which can be found at <http://d2l.msu.edu>
 
 ## Course Meeting Time and Location
 
 
-Classes will meet weekly on Monday, Wednesday and Friday 2:40-4:00pm in Communication Arts building room 233.
+Classes will meet weekly on Monday, **_Wednesday and Friday 2:40-4:00pm in Wonders C211_**.
 
 If, during the semester there is a need, we have set aside the following zoom room for this course:
 
-- [https://msu.zoom.us/j/96333643100](https://msu.zoom.us/j/96333643100)
+- <https://msu.zoom.us/j/94087905868>
 
 
 ## Course Schedule
@@ -144,24 +143,24 @@ All required readings will be provided as Open Educational Resource (OER) via li
 
 **_Instructor_**:
 
-Dr. Dirk Colbry (he/him/his) <br>
-Department of Computational Mathematics, Science and Engineering <br>
-**_Email_**: colbrydi@msu.edu <br>
-**_Web_**:  http://www.dirk.colbry.com <br>
-**_Office_**: [EB 1516](https://cmse.msu.edu/about/directions/) <br>
-**_Virtual Office_**:  [Dirk's Zoom Office](https://msu.zoom.us/my/colbrydi) <br>
-**_Office Hours_**:  M W F  1:00-2:00 or by appointment  at  Classroom (Comm Arts 233) 
+Dr. Dirk Colbry (he/him/his)  
+Department of Computational Mathematics, Science and Engineering  
+**_Email_**: colbrydi@msu.edu  
+**_Web_**:  <http://www.dirk.colbry.com>  
+**_Office_**: [EB 1516](https://cmse.msu.edu/about/directions/)  
+**_Virtual Office_**:  [Dirk's Zoom Office](https://msu.zoom.us/my/colbrydi)  
+**_Office Hours_**:  TBD
 
-* Please visit [http://bookdirk.colbry.com/](http://bookdirk.colbry.com/) to schedule an appointment.
+* Please visit <http://bookdirk.colbry.com/> to schedule an appointment.
 
 ---
 
 **_Graduate Teaching Assistant_**: 
 
-Nathan Brugnone (he/him/his) <br>
-**_Email_**: brugnone@msu.edu <br>
-**_Office Hours_**:  Mondays 1:30-2:20pm at Classroom (Comm Arts 233) 
-
+TBD <br>
+**_Email_**:<br>
+**_Office Hours_**:  TBD
+    
 
 # Course Policies and Expectations
 
@@ -169,8 +168,8 @@ Nathan Brugnone (he/him/his) <br>
 
 Many of the project sponsors will require students to sign an Non-Disclosure Agreement (NDA) and in some rare cases will be asked to sign an Intellectual Property (IP) agreement.  Your instructor will work with you so that you understand your rights and you will not be required to sign either document.    If students are unwilling or unable to sign these document they will be assigned to an alternative project.
 
-- [Standard NDA Template](./Files/CMSE495_MSU_NDA_2022_template.docx)
-- [Standard IP Template](./Files/CMSE495_MSU_IP_Agreement_2022.docx)
+- [Standard NDA Template](./Files/CMSE495_MSU_NDA_2023_template.docx)
+- [Standard IP Template](./Files/CMSE495_MSU_IP_Agreement_2023_template.docx)
 
 Note: The above are examples of the standard agreements. Slight variations may be made depending on the project sponsor's needs and will be given to students to review before project selection.
 
@@ -192,7 +191,7 @@ In addition, MSU welcomes a full spectrum of experiences, viewpoints, and intell
 
 ## Accommodations for Students with Disabilities
 
-> Michigan State University is committed to providing equal opportunity for participation in all programs, services and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at [http://rcpd.msu.edu](http://rcpd.msu.edu).  Once your eligibility for an accommodation has been determined, you will be issued a Verified Individual Services Accommodation ("VISA") form. Please present this form to the instructor at the start of the term and/or two weeks prior to the accommodation date (test, project, etc.). Requests received after this date may not be honored. 
+> Michigan State University is committed to providing equal opportunity for participation in all programs, services and activities. Requests for accommodations by persons with disabilities may be made by contacting the Resource Center for Persons with Disabilities at 517-884-RCPD or on the web at <http://rcpd.msu.edu>.  Once your eligibility for an accommodation has been determined, you will be issued a Verified Individual Services Accommodation ("VISA") form. Please present this form to the instructor at the start of the term and/or two weeks prior to the accommodation date (test, project, etc.). Requests received after this date may not be honored. 
 >
 >- from the Resource Center for Persons with Disabilities (RCPD)
 

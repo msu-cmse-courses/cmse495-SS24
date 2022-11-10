@@ -29,7 +29,7 @@
 | Monday February 20, 2023   | 0220 | Outreach Review |
 | Wednesday February 22, 2023   | 0222 | Lets talk |
 | Friday February 24, 2023   | 0224 | Tutorial Exchange |
-| Sunday February 26, 2023   | 0226 | ASSIGNMENT Installation Instructions |
+| Sunday February 26, 2023   | 0226 | ASSIGNMENT Selection Matrix |
 | Monday February 27, 2023   | 0227 | Installation Code Review |
 | Wednesday March 1, 2023   | 0301 | Its Complicated |
 | Friday March 3, 2023   | 0303 | Google Colab |

@@ -65,11 +65,11 @@ Students will learn professional skills training in communication, teamwork and 
 Completion of the entire CyberAmbassador curriculum will result in the students earning a Professional Skills Certificate.
 
 
-### In-class programming assignments (Typically on Fridays)
+### DataTools (Typically on Fridays)
 
-On Fridays teams will work together to solve "mini" data science projects.  These projects are specifically selected to help student focus and practice their technical skills working as a team.  The content of the mini projects will be constructed in to mimic the expectations of the capstone projects and will be designed to practice specific skills needed to complete the projects. 
+On Fridays teams will work together to review, practice and build tutorials for common tools used in DataScience.  These projects are specifically selected to help student focus and practice their technical skills working as a team.  The content of the projects will be constructed in to mimic the expectations of the capstone projects and will be designed to practice specific skills needed to complete the projects. 
 
-Most "mini" projects will be given two Fridays of in-class time to complete.  It is expected that students will be able to complete these projects during class. However, motivated teams are welcome to work on the projects outside of class as long as any students include everyone in their team in the problem solving process. 
+It is expected that students will be able to complete the majority of work for these projects during class. However, motivated teams are welcome to work on the projects outside of class as long as any students include everyone in their team in the problem solving process. 
 
 
 # Assessment Information
@@ -80,11 +80,10 @@ There are a variety of course activities, with percentages of total grade listed
 | Activity | Grade Percentage |
 |----------|------------------|
 | In-Class Participation | 10 |
-| Individual Professionalism | 10 |
-| 3x3 Reports | 15 | 
-| Mini-Projects | 10 | 
-| Project Milestones | 15 |
-| Individual teamwork score | 15 |
+| Team Logistics | 10 | 
+| DataTools Tutorial Development | 15 | 
+| Project Milestones | 20 |
+| Individual teamwork score | 20 |
 | Final Project Deliverables | 25 |
 | Total | 100% |
 
@@ -119,7 +118,7 @@ Accompanying course information, including the official course calendar, can be 
 
 Classes will meet weekly on Monday, **_Wednesday and Friday 2:40-4:00pm in Wonders C211_**.
 
-If, during the semester there is a need, we have set aside the following zoom room for this course:
+If, during the semester there is a need, we have set aside the following zoom room for this course. Teams must notify the instructor before class if one of their members needs to connect to class remotely (ex. due to illness or travel).  
 
 - <https://msu.zoom.us/j/94087905868>
 
@@ -132,7 +131,7 @@ Specific assignments and due dates will be maintained on the [course schedule](S
 
 The “in-class” programming assignments are a critical part of the learning process in this course. To that end, you will need to ensure that you have the following:
 
-*   A computer with a reliable internet connection and functional webcam, microphone, and speakers.
+*   A computer with a reliable internet connection and functional webcam, microphone, and headphones/speakers.
 
 
 ### Reading Materials
@@ -144,7 +143,7 @@ All required readings will be provided as Open Educational Resource (OER) via li
 **_Instructor_**:
 
 Dr. Dirk Colbry (he/him/his)  
-Department of Computational Mathematics, Science and Engineering  
+Institute for Cyber Enabled Research (ICER) and Department of Computational Mathematics, Science and Engineering (CMSE)  
 **_Email_**: colbrydi@msu.edu  
 **_Web_**:  <http://www.dirk.colbry.com>  
 **_Office_**: [EB 1516](https://cmse.msu.edu/about/directions/)  
@@ -157,9 +156,11 @@ Department of Computational Mathematics, Science and Engineering
 
 **_Graduate Teaching Assistant_**: 
 
-TBD <br>
-**_Email_**:<br>
-**_Office Hours_**:  TBD
+Serena Lotreck  
+Department of Plant Biology and Department of Computational Mathematics, Science and Engineering (CMSE)    
+**_Email_**: lotrecks@msu.edu  
+**_Office_**: TBD
+**_Office Hours_**:  1:00pm - 2:40p Fridays (Before Class)
     
 
 # Course Policies and Expectations
@@ -178,6 +179,10 @@ Note: The above are examples of the standard agreements. Slight variations may b
 This class is heavily based on material presented and worked on during class, and it is critical that you attend and participate fully every week! Therefore, class attendance is absolutely required.  
 
 Arriving late or leaving early without prior arrangement with the instructor of your session may be counted as an unexcused absence.  Note that if you have a legitimate reason to miss class (such as job, graduate school, or medical school interviews) you must arrange this ahead of time to be excused from class. Three or more unexcused absences will result in the reduction of your grade by one step (e.g., from 4.0 to 3.5), with additional absences reducing your grade further at the discretion of the course instructor. **_If you are unable to attend class or complete assignments due to illness or self-isolation (as per the CDC recommended guidelines), your instructor will work to provide the necessary accommodations to ensure that your performance in class is not significantly impacted._**
+
+## Assignment Submissions
+
+Follow the directions on the assignment submissions. Please do not make your instructors guess where things are.  If it takes work to track something down then points will be taken off projects. If it is obvious to you then it may not be obvious to the isntructors. Remember professionalizm is a key learning goal in this course.
 
 ## Email
 

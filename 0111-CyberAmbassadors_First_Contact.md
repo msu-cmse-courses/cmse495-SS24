@@ -52,7 +52,7 @@ Create a new Word document in the project descriptions folder with the same name
 
 **_Open Loops_**:  A component of the project with an unclear solution.  An example of an open loop includes "Review data and identify sources of error".  This loop is open because the team does not know what the sources of error are and thus can't plan how this error will be solved.  A closed loop is something like "use beautiful soup to scrape website".  Although this task may not be done there is a clear path to a solution and no obvious unknowns that will inhibit progress.  Early on there may be many open loops that are easy to close. They are still open loops for example, "Pick a programming language".
 
-**_Success_Metrics_** Realistic and measurable outcomes of the project. For example, if the project uses machine learning, what is a resonable target recognition rate. You can't just guess and throw out a number like 90%. How would the team know if that number is even possible given the data?  Instead it is better to establish a simple baseline metric (using a simple algorithm) and then measuring progress as how far the team can move from the baseline metric.
+**_Success_Metrics_** Realistic and measurable outcomes of the project. For example, if the project uses machine learning, what is a reasonable target recognition rate. You can't just guess and throw out a number like 90%. How would the team know if that number is even possible given the data?  Instead it is better to establish a simple baseline metric (using a simple algorithm) and then measuring progress as how far the team can move from the baseline metric.
 
 **_Next Steps_**:  A task which that can be conducted right now with no known blocks or prerequisites.  The best next tasks have clear criteria for completion. For example, a poor next step would be something like "write the project proposal".  A better next step may be "Write the outline for the project proposal" An even better next step would be "Spend 20 minutes writing an outline for the project proposal and then share with the team". What is nice about the last next step is that it has a clear goal, clear finish and how to move forward. 
 
@@ -67,7 +67,7 @@ You are encouraged to work on this document outside of class. Your team will be 
 [Link to First Contact slides](https://docs.google.com/presentation/d/19Ai35DTNmqjgeKytnT84bsFknKb3eEO1itVMCOEqP3w/edit?usp=sharing)
 
 # 3. First Contact D2L Quiz
-Sometime before Friday log onto D2L and complete the quick quiz in the content section. Don't stress about these quizes they are not worth much. I just ask you put in your best effort. 
+Sometime before Friday log onto D2L and complete the quick quiz in the content section. Don't stress about these quizzes they are not worth much. I just ask you put in your best effort. 
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

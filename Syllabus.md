@@ -20,7 +20,7 @@ The class will meet three times a week during the 15-week semester and will be d
 - Professional skills training and practice (Wednesdays)
 - Software development and technical skills practice (Fridays)
 
-Early in the semester, students will be divided into capstone teams of 4-5 people and assigned a semester long project with multiple milestones.  The majority of a students grade will come from working constructively as a team to accomplish the project goals (as defined by the instructor and the project sponsors). When possible, the majority of out-of-class time will be dedicated to tasks and deliverables that relate directly to the capstone teams’ projects.  Students should expect to spend an average of 10-15 hours a week outside of class working on their capstone projects.  
+Early in the semester, students will be divided into capstone teams of 4-5 people and assigned a semester long project with multiple milestones.  The majority of a students grade will come from working constructively as a team to accomplish the project goals (as defined by the instructor and the project sponsors). When possible, the majority of out-of-class time will be dedicated to tasks and deliverables that relate directly to the capstone team's projects.  Students should expect to spend an average of 10-15 hours a week outside of class working on their capstone projects.  
 
 ### Class participation
 
@@ -38,7 +38,7 @@ Although teams are encouraged to complete things early, project milestones will 
 
 Starting with the second week, all project milestones will be turned in using the team's "Git repository" stored on the MSU Gitlab page.  All reports should use "git friendly formats" (aka ASCII) such as Jupyter notebooks, html and Markdown.  Instructors will automatically download changes to the repositories after the due date and check for contributions by all of the students.  Feedback will be provided using "git issues" or via a pull/merge request. **_Students are responsible for knowing how to properly use "Git" and everyone on the team is expected to make and commit changes to the repository._**
 
-**_DO NOT WAIT_** until the weekend before something is due.  Instructors have posted all team deadlines on the webset specifically so teams can get a head start and turn things in early.  You should make a plan with your team and stick to it.  The instructor will give you plenty of information and notice so you can work ahead. NO extensions will be given and you will still need to make up all of the work. 
+**_DO NOT WAIT_** until the weekend before something is due.  Instructors have posted all team deadlines on the website specifically so teams can get a head start and turn things in early.  You should make a plan with your team and stick to it.  The instructor will give you plenty of information and notice so you can work ahead. NO extensions will be given and you will still need to make up all of the work. 
 
 ### Team Meetings (Typically on Mondays)
 
@@ -182,7 +182,7 @@ Arriving late or leaving early without prior arrangement with the instructor of 
 
 ## Assignment Submissions
 
-Follow the directions on the assignment submissions. Please do not make your instructors guess where things are.  If it takes work to track something down then points will be taken off projects. If it is obvious to you then it may not be obvious to the isntructors. Remember professionalizm is a key learning goal in this course.
+Follow the directions on the assignment submissions. Please do not make your instructors guess where things are.  If it takes work to track something down then points will be taken off projects. If it is obvious to you then it may not be obvious to the instructors. Remember professionalism is a key learning goal in this course.
 
 ## Email
 
@@ -212,7 +212,7 @@ More broadly, we ask that students adhere to the Spartan Code of Honor academic 
 
 ## Limits to confidentiality
 
-Personal assiignments and peer review information materials submitted for this class are generally considered confidential pursuant to the University's student record policies.  
+Personal assignments and peer review information materials submitted for this class are generally considered confidential pursuant to the University's student record policies.  
 
 However, for many assignments this course is partnering with partners outside of MSU and students should be aware that instructors will not be able to maintain confidentiality with respect to project deliverables and anything that may come up which conflicts with their responsibility to report certain issues to protect the health and safety of MSU community members and others. 
 
@@ -221,7 +221,7 @@ As the instructors, we must report the following information to other University
 
 ## Changes to Syllabus
 
-The syllabus may also be adjusted if needed. These types of changes will be announced during class, by email and/or in the course’s website.
+The syllabus may also be adjusted if needed. These types of changes will be announced during class, by email and/or in the course website.
 
 ## Commercialized Lecture Notes
 

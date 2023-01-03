@@ -50,7 +50,7 @@
 | Wednesday March 29, 2023   | 0329 | CyberAmbassadors Leading the Change |
 | Friday March 31, 2023   | 0331 | Cell Tower Colors |
 | Sunday April 2, 2023   | 0402 | ASSIGNMENT Full Project Draft |
-|  Monday April 3, 2023  | 0403 |  [Project Review](0403-Project_Review) |
+| Monday April 3, 2023   | 0403 | Full Project Review |
 | Wednesday April 5, 2023   | 0405 | CyberAmbassadors Leading with Principles |
 | Friday April 7, 2023   | 0407 | Finish Tower Exersize |
 | Sunday April 9, 2023   | 0409 | ASSIGNMENT Future Work |

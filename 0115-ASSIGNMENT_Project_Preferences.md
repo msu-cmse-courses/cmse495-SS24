@@ -4,17 +4,11 @@ During the first week of class you are expected to review project proposals and 
 
 
 1. **_Review Project Descriptions_** 
-    - [Link to Project Team](###TEAM###)
+    - [Link to Project Team](https://teams.microsoft.com/l/team/19%3aRRB7sSKDmlZyTBAuTzuQpEmxpGP_Gkxk_xZH_wD_rNY1%40thread.tacv2/conversations?groupId=183b473a-4dc9-414f-8665-20b050c3a058&tenantId=22177130-642f-41d9-9211-74237ad5687d)
     - **_NOTE_** the above link will not work until the first day of class.
-
-<br>
-
 2. **_Fill out the CATME survey_** Create an account and log into CATME (we will be using this tool all semester). Fill out the project survey. 
     - [CATME survey Link](https://www.catme.org)
     - **_NOTE_** the survey will not work until the course has started.
-
-<br>
-
 3. **_Specify your project preferences_** Fill out the following survey document to specify your preferences. 
     - [Project Survey](https://docs.google.com/forms/d/e/1FAIpQLSd27EpbuZ1qZXUPx9YgdbuDBhlSL3cAj9zcOQoXXMSLMfwuTQ/viewform)
 

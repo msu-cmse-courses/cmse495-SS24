@@ -72,7 +72,7 @@ On Fridays teams will work together to review, practice and build tutorials for 
 It is expected that students will be able to complete the majority of work for these projects during class. However, motivated teams are welcome to work on the projects outside of class as long as any students include everyone in their team in the problem solving process. 
 
 
-# Assessment Information
+# Assessment and Grading Information
 
 There are a variety of course activities, with percentages of total grade listed.  More detailed descriptions of each activity can be found elsewhere in the syllabus.  
 
@@ -89,6 +89,7 @@ There are a variety of course activities, with percentages of total grade listed
 
 
 ### Grading scale
+The following is an estimated scale used for grading. There are multiple opportunities for students to receive grade-related input from other students; notably regarding group participation and/or presentations.  This data is  only advisory to the instructions, who still maintains full responsibility for assigning the grade. 
 
 | Scale |
 |-------|
@@ -99,6 +100,8 @@ There are a variety of course activities, with percentages of total grade listed
 | 2.0 > 70% |
 | 1.5 > 65% |
 | 0.0 < 60% |
+
+
 
 
 ---
@@ -148,7 +151,7 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 **_Web_**:  <http://www.dirk.colbry.com>  
 **_Office_**: [EB 1516](https://cmse.msu.edu/about/directions/)  
 **_Virtual Office_**:  [Dirk's Zoom Office](https://msu.zoom.us/my/colbrydi)  
-**_Office Hours_**:  TBD
+**_Office Hours_**:  Thursdays 2-4pm
 
 * Please visit <http://bookdirk.colbry.com/> to schedule an appointment.
 
@@ -156,12 +159,11 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 
 **_Graduate Teaching Assistant_**: 
 
-Serena Lotreck  
+Serena Lotreck (she/her/hers)  
 Department of Plant Biology and Department of Computational Mathematics, Science and Engineering (CMSE)    
 **_Email_**: lotrecks@msu.edu  
-**_Office_**: TBD
-**_Office Hours_**:  1:00pm - 2:40p Fridays (Before Class)
-    
+**_Office Hours_**:  Mondays 1:00-2:40pm at Classroom (Wonders Hall C211)  
+
 
 # Course Policies and Expectations
 
@@ -176,7 +178,7 @@ Note: The above are examples of the standard agreements. Slight variations may b
 
 ## Class attendance 
 
-This class is heavily based on material presented and worked on during class, and it is critical that you attend and participate fully every week! Therefore, class attendance is absolutely required.  
+This class is heavily based on material presented and worked on during class, and it is critical that you attend and participate fully every week! Therefore, class attendance is required.  
 
 Arriving late or leaving early without prior arrangement with the instructor of your session may be counted as an unexcused absence.  Note that if you have a legitimate reason to miss class (such as job, graduate school, or medical school interviews) you must arrange this ahead of time to be excused from class. Three or more unexcused absences will result in the reduction of your grade by one step (e.g., from 4.0 to 3.5), with additional absences reducing your grade further at the discretion of the course instructor. **_If you are unable to attend class or complete assignments due to illness or self-isolation (as per the CDC recommended guidelines), your instructor will work to provide the necessary accommodations to ensure that your performance in class is not significantly impacted._**
 

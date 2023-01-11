@@ -10,9 +10,6 @@
 - (70 minute) First contact 
 - (5 minutes) First Contact D2L Quiz
 
-If you haven't already use this time at the beginning of class to log onto D2L and complete the quick quiz in the content section.  Grading is based on effort and completeness.  I just ask that you try your best.
-
-
 
 # Project Review
 

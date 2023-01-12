@@ -7,9 +7,9 @@
 |  Friday January 13, 2023  | 0113 |  [Project Review](0113-Project_Review) |
 |  Sunday January 15, 2023  | 0115 |  [ASSIGNMENT Project Preferences](0115-ASSIGNMENT_Project_Preferences) |
 | Monday January 16, 2023   | 0116 | MLK No Class |
-| Wednesday January 18, 2023   | 0118 | CyberAmbassadors Teaming Up |
-| Friday January 20, 2023   | 0120 | Team Meeting |
-| Sunday January 22, 2023   | 0122 | ASSIGNMENT Project Organization |
+|  Wednesday January 18, 2023  | 0118 |  [CyberAmbassadors Teaming Up](0118-CyberAmbassadors_Teaming_Up) |
+|  Friday January 20, 2023  | 0120 |  [Team Meeting](0120-Team_Meeting) |
+|  Sunday January 22, 2023  | 0122 |  [ASSIGNMENT Project Organization](0122-ASSIGNMENT_Project_Organization) |
 | Monday January 23, 2023   | 0123 | Anticpating Challenges |
 | Wednesday January 25, 2023   | 0125 | Community Engaged Learning I |
 | Friday January 27, 2023   | 0127 | DTTD Review |

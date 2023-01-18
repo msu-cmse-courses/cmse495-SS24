@@ -72,6 +72,26 @@ On Fridays teams will work together to review, practice and build tutorials for 
 It is expected that students will be able to complete the majority of work for these projects during class. However, motivated teams are welcome to work on the projects outside of class as long as any students include everyone in their team in the problem solving process. 
 
 
+<a name=Requesting_Funding></a>
+### Requesting Funding
+
+The class has some limited funds that can be used to purchase software licenses and other supplies in support of projects.  The instructor has some flexibility on to what and how these items can be purchased.  
+
+To request funding please send a professional email to the instructors using the following guidelines:
+
+1. CC your entire team and both instructors.
+2. Subject should clearly contain "Request for funds" and your team’s name in the title
+3. Body of letter should include the following:
+    - Description of what exactly is requested including details that will help avoid confusion such as version numbers, manufactures etc.  
+    - Links to on where the items can be purchased (Direct links to items if possible).  
+    - Justification for how items will be used and how the items will benefit the project. 
+    - Cost estimation for the requested item(s) (make sure you include tax and shipping costs). 
+
+Although it is better to overestimate rather than underestimate, overly large budgets may get rejected.
+
+It is expected that the teams will talk to the instructors before sending in a request.
+
+
 # Assessment and Grading Information
 
 There are a variety of course activities, with percentages of total grade listed.  More detailed descriptions of each activity can be found elsewhere in the syllabus.  

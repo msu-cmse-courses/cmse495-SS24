@@ -10,26 +10,26 @@
 |  Wednesday January 18, 2023  | 0118 |  [CyberAmbassadors Teaming Up](0118-CyberAmbassadors_Teaming_Up) |
 |  Friday January 20, 2023  | 0120 |  [Team Meeting](0120-Team_Meeting) |
 |  Sunday January 22, 2023  | 0122 |  [ASSIGNMENT Project Organization](0122-ASSIGNMENT_Project_Organization) |
-| Monday January 23, 2023   | 0123 | Anticpating Challenges |
-| Wednesday January 25, 2023   | 0125 | Community Engaged Learning I |
-| Friday January 27, 2023   | 0127 | DTTD Review |
-| Sunday January 29, 2023   | 0129 | ASSIGNMENT Proposal |
-| Monday January 30, 2023   | 0130 | Project Plan |
-| Wednesday February 1, 2023   | 0201 | Community Engaged Learning II |
-| Friday February 3, 2023   | 0203 | DTTD Pull request |
-| Sunday February 5, 2023   | 0205 | ASSIGNMENT Proposal Presentation Slides |
+|  Monday January 23, 2023  | 0123 |  [Anticpating Challenges](0123-Anticpating_Challenges) |
+|  Wednesday January 25, 2023  | 0125 |  [Community Engaged Learning I](0125-Community_Engaged_Learning_I) |
+|  Friday January 27, 2023  | 0127 |  [DTTD Review](0127-DTTD_Review) |
+|  Sunday January 29, 2023  | 0129 |  [ASSIGNMENT Proposal](0129-ASSIGNMENT_Proposal) |
+|  Monday January 30, 2023  | 0130 |  [Project Plan](0130-Project_Plan) |
+|  Wednesday February 1, 2023  | 0201 |  [Community Engaged Learning II](0201-Community_Engaged_Learning_II) |
+|  Friday February 3, 2023  | 0203 |  [DTTD Pull request](0203-DTTD_Pull_request) |
+|  Sunday February 5, 2023  | 0205 |  [ASSIGNMENT Proposal Presentation Slides](0205-ASSIGNMENT_Proposal_Presentation_Slides) |
 | Monday February 6, 2023   | 0206 | Proposal Presentation Slide Review |
 | Wednesday February 8, 2023   | 0208 | CyberAmbassadors Speaking up |
 | Friday February 10, 2023   | 0210 | DTTD Presentations |
-| Sunday February 12, 2023   | 0212 | ASSIGNMENT Proposal Video |
+|  Sunday February 12, 2023  | 0212 |  [ASSIGNMENT Proposal Video](0212-ASSIGNMENT_Proposal_Video) |
 | Monday February 13, 2023   | 0213 | Proposal Presentations |
 | Wednesday February 15, 2023   | 0215 | CyberAmbassadors Leveling Up |
 | Friday February 17, 2023   | 0217 | Selection Matrix |
-| Sunday February 19, 2023   | 0219 | ASSIGNMENT outreach |
+|  Sunday February 19, 2023  | 0219 |  [ASSIGNMENT outreach](0219-ASSIGNMENT_outreach) |
 | Monday February 20, 2023   | 0220 | Outreach Review |
 | Wednesday February 22, 2023   | 0222 | CyberAmbassadors Lets talk |
 | Friday February 24, 2023   | 0224 | Tutorial Exchange |
-| Sunday February 26, 2023   | 0226 | ASSIGNMENT Reproducability |
+|  Sunday February 26, 2023  | 0226 |  [ASSIGNMENT Reproducability](0226-ASSIGNMENT_Reproducability) |
 | Monday February 27, 2023   | 0227 | Installation Code Review |
 | Wednesday March 1, 2023   | 0301 | CyberAmbassadors Its Complicated |
 | Friday March 3, 2023   | 0303 | Google Colab |
@@ -37,33 +37,34 @@
 | Monday March 6, 2023   | 0306 | Spring Break |
 | Wednesday March 8, 2023   | 0308 | Spring Break |
 | Friday March 10, 2023   | 0310 | Spring Break |
-| Sunday March 12, 2023   | 0312 | ASSIGNMENT Closed Loop Presentation Slides |
+|  Sunday March 12, 2023  | 0312 |  [ASSIGNMENT Closed Loop Presentation Slides](0312-ASSIGNMENT_Closed_Loop_Presentation_Slides) |
 | Monday March 13, 2023   | 0313 | Closed Loop Presentation Slide Review |
 | Wednesday March 15, 2023   | 0315 | CyberAmbassadors Leading the Team |
 | Friday March 17, 2023   | 0317 | Distance metrics |
-| Sunday March 19, 2023   | 0319 | ASSIGNMENT Closed loop Video |
+|  Sunday March 19, 2023  | 0319 |  [ASSIGNMENT Closed loop Video](0319-ASSIGNMENT_Closed_loop_Video) |
 | Monday March 20, 2023   | 0320 | Closed Loop Presentations |
 | Wednesday March 22, 2023   | 0322 | Group work |
 | Friday March 24, 2023   | 0324 | Finish Distance Metrics |
-| Sunday March 26, 2023   | 0326 | ASSIGNMENT Figure reproducability |
+|  Sunday March 26, 2023  | 0326 |  [ASSIGNMENT Figure reproducability](0326-ASSIGNMENT_Figure_reproducability) |
 | Monday March 27, 2023   | 0327 | Figure Reproducibility Review |
 | Wednesday March 29, 2023   | 0329 | CyberAmbassadors Leading the Change |
 | Friday March 31, 2023   | 0331 | Cell Tower Colors |
-| Sunday April 2, 2023   | 0402 | ASSIGNMENT Full Project Draft |
+|  Sunday April 2, 2023  | 0402 |  [ASSIGNMENT Full Project Draft](0402-ASSIGNMENT_Full_Project_Draft) |
 | Monday April 3, 2023   | 0403 | Full Project Review |
 | Wednesday April 5, 2023   | 0405 | CyberAmbassadors Leading with Principles |
 | Friday April 7, 2023   | 0407 | Finish Tower Exersize |
-| Sunday April 9, 2023   | 0409 | ASSIGNMENT Future Work |
+|  Sunday April 9, 2023  | 0409 |  [ASSIGNMENT Future Work](0409-ASSIGNMENT_Future_Work) |
 | Monday April 10, 2023   | 0410 | Future Project Proposal Reviews |
 | Wednesday April 12, 2023   | 0412 | Systems Thinking for Project Success Exercise |
 | Friday April 14, 2023   | 0414 | Project Workday |
-| Sunday April 16, 2023   | 0416 | ASSIGNMENT Final Presentaiton Slides |
+|  Sunday April 16, 2023  | 0416 |  [ASSIGNMENT Final Presentaiton Slides](0416-ASSIGNMENT_Final_Presentaiton_Slides) |
 | Monday April 17, 2023   | 0417 | Final Presentation Slide Review |
 | Wednesday April 19, 2023   | 0419 | Systems Thinking for Project Success Day 2 |
 | Friday April 21, 2023   | 0421 | Data4Justice Conference |
-| Sunday April 23, 2023   | 0423 | ASSIGNMENT Final Project |
+|  Sunday April 23, 2023  | 0423 |  [ASSIGNMENT Final Project](0423-ASSIGNMENT_Final_Project) |
 | Monday April 24, 2023   | 0424 | Course Review and Reflection |
 | Wednesday April 26, 2023   | 0426 | Showcase |
 | Friday April 28, 2023   | 0428 | No Class Due to Engeering Design Day |
+| Sunday April 30, 2023   | 0430 | Final Extended Deadline |
 
 Date and Time of final TBD

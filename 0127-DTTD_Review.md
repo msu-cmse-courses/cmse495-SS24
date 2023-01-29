@@ -2,7 +2,9 @@
 
 All projects you will find "in the real world" require you to learn something. Knowing how to learn something new is a key goal of this class. To help with this learning, this capstone course maintains a repository of student generated "tutorials" which can be found in the following repository:
 
-* [DataTools Tutorial Demo (DTTD)](https://github.com/colbrydi/DataTools_Tutorial_Demo)
+* [DataTools Tutorial Demo (DTTD)](https://gitlab.msu.edu/CMSE/datatools_tutorial_demo)
+
+* [OLD DataTools on Github (no longer using)](https://github.com/colbrydi/DataTools_Tutorial_Demo)
 
 We will be working on these for the rest of the semester. In today's assignment we would like you to just review what has been done.  There are three major goals for this review.
 

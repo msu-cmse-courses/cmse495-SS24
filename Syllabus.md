@@ -36,7 +36,7 @@ There is a **_LOT_** of material to cover this semester. To help provide some st
 
 Although teams are encouraged to complete things early, project milestones will typically be due every **_Sunday at midnight_**.  In-class activities on most Mondays will involve reviewing project milestones, providing peer feedback and in-class time to prepare for next milestones. Details about the Milestones can be found on the course [Schedule Page](Schedule).
 
-Starting with the second week, all project milestones will be turned in using the team's "Git repository" stored on the MSU Gitlab page.  All reports should use "git friendly formats" (aka ASCII) such as Jupyter notebooks, html and Markdown.  Instructors will automatically download changes to the repositories after the due date and check for contributions by all of the students.  Feedback will be provided using "git issues" or via a pull/merge request. **_Students are responsible for knowing how to properly use "Git" and everyone on the team is expected to make and commit changes to the repository._**
+Starting with the second week, all project milestones will be turned in using the team's Microsoft Team Channel or the team's github repository stored on the MSU Gitlab page (Some projects may use github but should check project agreements and get permission from the instructor).  All files in git should use "git friendly formats" (aka ASCII) such as Jupyter notebooks, html and Markdown.  Instructors will automatically download changes to the repositories after the due date and check for contributions by all of the students.  Feedback will be provided using "git issues" or via a pull/merge request. **_Students are responsible for knowing how to properly use "Git" and everyone on the team is expected to make and commit changes to the repository._**
 
 **_DO NOT WAIT_** until the weekend before something is due.  Instructors have posted all team deadlines on the website specifically so teams can get a head start and turn things in early.  You should make a plan with your team and stick to it.  The instructor will give you plenty of information and notice so you can work ahead. NO extensions will be given and you will still need to make up all of the work. 
 
@@ -51,7 +51,7 @@ Teams are expected to conduct multiple formal team meetings each week to work on
 - List of decisions made and tasks accomplished during the meeting.
 - List of action items including; what needs to be done, who is responsible for the item and when this task will be complete. 
 
-Meeting notes are to be stored in the team git repository, should be kept up to date, clearly organized and easily accessible by the instructors (and possible project sponsors) so that they may check in at any time to evaluate progress and provide feedback for the team.  
+Meeting notes are to be stored in the Microsoft Teams folder, should be kept up to date, clearly organized and easily accessible by the instructors (and possible project sponsors) so that they may check in at any time to evaluate progress and provide feedback for the team.  
 
 ### Peer Evaluations (Also Typically due on Mondays)
 Student grades will be partially determine by how well you work as a team.  Teamwork can sometimes be difficult but it is required when joining our modern workforce.  Peer evaluations will be used to help the instructor evaluate team dynamics and provide support to the groups if there are some team dynamic issues that need to be resolved. 

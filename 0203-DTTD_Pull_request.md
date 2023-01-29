@@ -1,19 +1,27 @@
 # In-Class Assignment: Pull Request
 
-This week we will continue reviewing the tutorials from last week.  Pick an issue from your team's tutorial and fix it by forking the repository, committing the changes and issuing a pull request.  Here is the link to the tutorials:
-
-* [DataTools Tutorial Demo (DTTD)](https://github.com/colbrydi/DataTools_Tutorial_Demo)
+This week we will practice issueing a "pull request" from a git repository. 
 
 
 ## Agenda (80 Minutes)
 
-- (60 minutes) Group Review of the Data Tools Tutorial Demo (DTTD)
+- (5 minutes) Fix Instructor's Issue Mistake
+- (55 minutes) Group Review of the Data Tools Tutorial Demo (DTTD)
 - (20 minutes) Group co-work time
 
 
+# 1. Fix instructor's issue  mistake
+
+Turns out I didn't think through the git repository and put it on github instead of gitlab.  I need the repository on gitlab because it uses MSU NETID and I can track grading.  Your first step is to go find your issue in the github repository and Copy/Paste it to the new GitLab Repository
+
+* [OLD Github DataTools on Github (no longer using)](https://github.com/colbrydi/DataTools_Tutorial_Demo)
+* [NEW Gitlab DataTools Tutorial Demo (DTTD)](https://gitlab.msu.edu/CMSE/datatools_tutorial_demo)
+
+You need to do this to get credit for the issues project from last week.
+
 ----
 <a name="Group_programming_Project"></a>
-# 1. Reminder of tutorial assignments:
+# 2. Reminder of tutorial assignments:
 
 The following is a list of teams and the an assigned tutorial form previous semesters.  
 
@@ -31,6 +39,7 @@ The following is a list of teams and the an assigned tutorial form previous seme
 |Olson - Campain finance Data | social_media_scraper| 
 |QSIDE - Human trafficking | censusdata_package_tutorial| 
 |QSIDE - Justfare Toolbox | GUI_Tutorial.ipynb| 
+| SME | Zotero_Instructions.ipynb| 
 
 
 ---

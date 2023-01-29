@@ -1,5 +1,3 @@
-[Link to this document as a Jupyter notebook](./Files/0130-ASSIGNMENT_Proposal_Template.ipynb)
-
 # ASSIGNMENT - Project Plan
 
 # <center>  Project Title </center>

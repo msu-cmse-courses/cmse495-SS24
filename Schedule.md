@@ -15,11 +15,11 @@
 |  Friday January 27, 2023  | 0127 |  [DTTD Review](0127-DTTD_Review) |
 |  Sunday January 29, 2023  | 0129 |  [ASSIGNMENT Proposal](0129-ASSIGNMENT_Proposal) |
 |  Monday January 30, 2023  | 0130 |  [Project Plan](0130-Project_Plan) |
-|  Wednesday February 1, 2023  | 0201 |  [Community Engaged Learning II](0201-Community_Engaged_Learning_II) |
+|  Wednesday February 1, 2023  | 0201 |  [CyberAmbassadors Speaking up](0201-CyberAmbassadors_Speaking_up) |
 |  Friday February 3, 2023  | 0203 |  [DTTD Pull request](0203-DTTD_Pull_request) |
 |  Sunday February 5, 2023  | 0205 |  [ASSIGNMENT Proposal Presentation Slides](0205-ASSIGNMENT_Proposal_Presentation_Slides) |
 |  Monday February 6, 2023  | 0206 |  [Proposal Presentation Slide Review](0206-Proposal_Presentation_Slide_Review) |
-|  Wednesday February 8, 2023  | 0208 |  [CyberAmbassadors Speaking up](0208-CyberAmbassadors_Speaking_up) |
+|  Wednesday February 8, 2023  | 0208 |  [Community Engaged Learning II](0208-Community_Engaged_Learning_II) |
 |  Friday February 10, 2023  | 0210 |  [DTTD Presentations](0210-DTTD_Presentations) |
 |  Sunday February 12, 2023  | 0212 |  [ASSIGNMENT Proposal Video](0212-ASSIGNMENT_Proposal_Video) |
 | Monday February 13, 2023   | 0213 | Proposal Presentations |

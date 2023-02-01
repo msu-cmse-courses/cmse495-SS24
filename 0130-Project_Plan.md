@@ -6,7 +6,7 @@
 - (5 minutes) CATME team review
 - (5 minutes) Shout-Outs 
 - (30 minutes) Project Reviews
-- (30 minutes) Project Schedule
+- (30 minutes) Annocements and Group Meetings
 
 
 # CATME team review
@@ -46,13 +46,15 @@ I would like to use this as an opportunity to do some shout outs.  Please think 
 
 Exchange proposals with another team (figure out how to connect with them and send the document, a pdf is fine):
 
-| Team A | Team B|
-|--------|-------|
-| AFRL | Delta Dental |
-| Argonne | Ford |
-| QSIDE |  Hope Village | 
-| Kelloggs | Neogen |
-| Boeing  | Old Nation |
+| Team A | Team B | 
+|--------|--------|
+| QSIDE - Human trafficking |   Olson - Campain finance Data | 
+| NC3 - Community Capital | Kinesiology - 40 yard dash | 
+| Boeing - Defect Prediction | Henry Ford Hospital - Image Segmentation | 
+| CEPI - Anomaly Detection | Kellogg - Deduction Classification | 
+| SME - Crack Prediction | D2L - Instructor API |
+| QSIDE - Justfare Toolbox | Intramotev  - Autonomous Vehicles |
+
 
 As a group review their proposal and provide them some constructive feedback.  The more you can provide the better.  Some things to think about include the following:
 

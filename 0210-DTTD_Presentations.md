@@ -1,24 +1,42 @@
-# In-Class Assignment: DTTD Presentations
-
+# In-Class Assignment: DTTD Cleaning
 
 ## Agenda (80 Minutes)
 
-- (15 minutes) Finish up DTTD presentations
-- (65 minutes) Team DTTD presentations
+- (5 minutes) Lessions learned from Pull request experiment
+- (30 minutes) DTTD Cleaning
+- (25 minutes) Class Review of DTTD
+- (20 minutes) Group  work
 
-# 1. Finish DTTD Presentations
+# 1. Lessions learned from Pull request experiment
 
-Get back into your groups and finish your presentations. I highly recommend that each group practice. You will only have a few minutes (no more than 5) so it is important to get it right.  Here are some things you should highlight.
+- Doing 60 pull requests at the same time is hard.
+- Make sure you include the issue number in the pull request so it get's automatically resolved.
+- Make sure you actually commit things to the branch and push the branch for the pull request.
+- Make meaningful branch names.  Your user name is not that helpful. 
 
-- Which tutorial did you review?
-- What did you learn?
-- Which teams do you think could benefit from the tutorial? Why?
-- What could be done to make it better?
+# 2. DTTD Cleaning
+
+I would like to use the time today to clean out the rest of the issues and verify everything is working in the current repository.
+
+## Individual Goals
+
+- Review the issue you submitted. Was it fixed?  Is it closed? If not, why?  
+- Review the pull request you submitted.  Did it get merged into the repository?  If not, does it need to be? 
+
+## Class Goals
+
+- Clean out all of the issues except the open ones that can not immediatly be addressed.
+- Merge any new pull requests that are generated. 
+- Verify all of the tutoirals are working as expected. 
 
 
-# 2. DTTD Presentations
+# 3. Class Review of DTTD
 
-We will go around the room and give presentations. Be respectful of everyone's time. 
+As a class we will review the cleaned and updated repostiory. With a final check of the issues and the pull requests. 
+
+# 4. Group Work
+
+Use the remaining of the hour to do group work. 
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

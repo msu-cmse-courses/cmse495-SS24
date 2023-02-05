@@ -3,17 +3,11 @@
 
 ## Agenda (80 Minutes)
 
-- (15 minutes) Practice meeting on giving effective group presentations.
-- (65 minutes) Practice meeting presentations.
-
+- (80 minutes) Speaking up.
 
 
 [Link to slides](https://docs.google.com/presentation/d/1g9FEvnmaKSqw1esaXsu6y9gelcUw2yuC3PSbDkgZWCA/edit?usp=sharing)
 
-
-## Practice Meeting Presentations
-
-You have exactly 5 minutes to do your presentation.  
 
 ---
 # 3. D2L Quiz

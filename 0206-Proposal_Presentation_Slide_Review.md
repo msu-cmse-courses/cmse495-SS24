@@ -2,8 +2,14 @@
 
 ## Agenda (80 Minutes)
 
-- (20 minutes) Project Similarities
-- (60 minutes) Starting Speaking-Up
+- (5 minutes) Shout Outs
+- (55 minutes) Project Similarities
+- (20 minutes) Group Work
+
+# Shout Outs
+
+Do we have any shout outs for this week?  How are things going?
+
 
 # Next Week! Proposal Presentations
 
@@ -40,12 +46,6 @@ Once you have a good feel about the projects, fill out the following distance ma
 
 [Direct link to google form](https://docs.google.com/forms/d/e/1FAIpQLSfdFo_LYMpBahZwsgvGbgxY24iL6d_vMjYJEWNxvUrXpfO_-Q/viewform)
     
-
-# Starting Speaking Up
-
-[Link to slides](https://docs.google.com/presentation/d/1g9FEvnmaKSqw1esaXsu6y9gelcUw2yuC3PSbDkgZWCA/edit?usp=sharing)
-
-
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

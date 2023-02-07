@@ -22,9 +22,9 @@
 |  Wednesday February 8, 2023  | 0208 |  [Community Engaged Learning II](0208-Community_Engaged_Learning_II) |
 |  Friday February 10, 2023  | 0210 |  [DTTD Presentations](0210-DTTD_Presentations) |
 |  Sunday February 12, 2023  | 0212 |  [ASSIGNMENT Proposal Video](0212-ASSIGNMENT_Proposal_Video) |
-| Monday February 13, 2023   | 0213 | Proposal Presentations |
-| Wednesday February 15, 2023   | 0215 | CyberAmbassadors Leveling Up |
-| Friday February 17, 2023   | 0217 | Selection Matrix |
+|  Monday February 13, 2023  | 0213 |  [Proposal Presentations](0213-Proposal_Presentations) |
+|  Wednesday February 15, 2023  | 0215 |  [CyberAmbassadors Leveling Up](0215-CyberAmbassadors_Leveling_Up) |
+|  Friday February 17, 2023  | 0217 |  [Selection Matrix](0217-Selection_Matrix) |
 |  Sunday February 19, 2023  | 0219 |  [ASSIGNMENT outreach](0219-ASSIGNMENT_outreach) |
 | Monday February 20, 2023   | 0220 | Outreach Review |
 | Wednesday February 22, 2023   | 0222 | CyberAmbassadors Lets talk |

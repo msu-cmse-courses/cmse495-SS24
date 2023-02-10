@@ -26,9 +26,9 @@
 |  Wednesday February 15, 2023  | 0215 |  [CyberAmbassadors Leveling Up](0215-CyberAmbassadors_Leveling_Up) |
 |  Friday February 17, 2023  | 0217 |  [Selection Matrix](0217-Selection_Matrix) |
 |  Sunday February 19, 2023  | 0219 |  [ASSIGNMENT outreach](0219-ASSIGNMENT_outreach) |
-| Monday February 20, 2023   | 0220 | Outreach Review |
-| Wednesday February 22, 2023   | 0222 | CyberAmbassadors Lets talk |
-| Friday February 24, 2023   | 0224 | Tutorial Exchange |
+|  Monday February 20, 2023  | 0220 |  [Outreach Review](0220-Outreach_Review) |
+|  Wednesday February 22, 2023  | 0222 |  [CyberAmbassadors Lets talk](0222-CyberAmbassadors_Lets_talk) |
+|  Friday February 24, 2023  | 0224 |  [Tutorial Selection](0224-Tutorial_Selection) |
 |  Sunday February 26, 2023  | 0226 |  [ASSIGNMENT Reproducability](0226-ASSIGNMENT_Reproducability) |
 | Monday February 27, 2023   | 0227 | Installation Code Review |
 | Wednesday March 1, 2023   | 0301 | CyberAmbassadors Its Complicated |

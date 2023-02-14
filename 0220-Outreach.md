@@ -1,3 +1,20 @@
+# Outreach review
+
+
+## Agenda (80 Minutes)
+
+- (?? minutes) Group Discussion
+- (15 minutes) Finish Presentations
+- (?? minutes) Outreach assignment
+
+# Group Discussion
+
+Class check-in and group discussion
+
+# Finish Presentations
+
+We need about 15 minutes to finish up the proposal presentations this week.
+
 # Assignment - Project Outreach
 
 The goal of this milestone is to share what you are doing with the community outside the classroom (without violating your NDAs).  Teams will put together a blog post (news article) and a single PowerPoint Slide to highlight their project and their sponsors.  The blog post will go on the course website (and may be highlighted on either the department, college or even university website) and the slides will be used on the hallway TVs outside the main CMSE office and maybe also on the website.  
@@ -30,6 +47,8 @@ Here are some guild lines for the blog post:
 
 
 **_DO THIS_**: To turn in the assignment, place a copy in your team drive and email the links to your instructors. Make sure these files are turned in on or before the due date. 
+
+Also, put a copy of your showcase slideshow in the "General" channel folder labeled (showcase slideshow).  I need a team of volunteers from different groups (about 3 or 4) to turn these slides into a automated slideshow ( you can use a breakout room).  
 
 -----
 ### Congratulations, you are done!

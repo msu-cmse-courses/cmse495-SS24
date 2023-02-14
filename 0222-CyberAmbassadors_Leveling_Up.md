@@ -4,15 +4,8 @@
 
 ## Agenda (80 Minutes)
 
-- (?? minutes) Extra time for presentations if needed.
 - (80 minutes) Leveling Up
 
-
----
-
-# Presentations
-
-Extra time to discuss presentations from Monday
 
 
 

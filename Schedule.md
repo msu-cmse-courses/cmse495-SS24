@@ -23,16 +23,16 @@
 |  Friday February 10, 2023  | 0210 |  [DTTD Presentations](0210-DTTD_Presentations) |
 |  Sunday February 12, 2023  | 0212 |  [ASSIGNMENT Proposal Video](0212-ASSIGNMENT_Proposal_Video) |
 |  Monday February 13, 2023  | 0213 |  [Proposal Presentations](0213-Proposal_Presentations) |
-|  Wednesday February 15, 2023  | 0215 |  [CLASS CANCLED](0215-CLASS_CANCLED) |
-|  Friday February 17, 2023  | 0217 |  [CLASS CANCLED](0217-CLASS_CANCLED) |
-|  Sunday February 19, 2023  | 0219 |  [NOTHING DUE](0219-NOTHING_DUE) |
+| Wednesday February 15, 2023   | 0215 | CLASS CANCLED |
+| Friday February 17, 2023   | 0217 | CLASS CANCLED |
+| Sunday February 19, 2023   | 0219 | NOTHING DUE |
 |  Monday February 20, 2023  | 0220 |  [Outreach](0220-Outreach) |
 |  Wednesday February 22, 2023  | 0222 |  [CyberAmbassadors Leveling Up](0222-CyberAmbassadors_Leveling_Up) |
 |  Friday February 24, 2023  | 0224 |  [Selection Matrix](0224-Selection_Matrix) |
 |  Sunday February 26, 2023  | 0226 |  [ASSIGNMENT Reproducability](0226-ASSIGNMENT_Reproducability) |
 | Monday February 27, 2023   | 0227 | Installation Code Review |
 | Wednesday March 1, 2023   | 0301 | CyberAmbassadors Lets talk |
-|  Friday March 3, 2023  | 0303 |  [Tutorial Selection](0303-Tutorial_Selection) |
+| Friday March 3, 2023   | 0303 | Tutorial Selection |
 | Monday March 6, 2023   | 0306 | Nothing Due (Spring Break) |
 | Monday March 6, 2023   | 0306 | Spring Break |
 | Wednesday March 8, 2023   | 0308 | Spring Break |

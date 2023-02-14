@@ -23,15 +23,15 @@
 |  Friday February 10, 2023  | 0210 |  [DTTD Presentations](0210-DTTD_Presentations) |
 |  Sunday February 12, 2023  | 0212 |  [ASSIGNMENT Proposal Video](0212-ASSIGNMENT_Proposal_Video) |
 |  Monday February 13, 2023  | 0213 |  [Proposal Presentations](0213-Proposal_Presentations) |
-|  Wednesday February 15, 2023  | 0215 |  [CyberAmbassadors Leveling Up](0215-CyberAmbassadors_Leveling_Up) |
+| Wednesday February 15, 2023   | 0215 | CLASS CANCLED |
 |  Friday February 17, 2023  | 0217 |  [Selection Matrix](0217-Selection_Matrix) |
 |  Sunday February 19, 2023  | 0219 |  [ASSIGNMENT outreach](0219-ASSIGNMENT_outreach) |
 |  Monday February 20, 2023  | 0220 |  [Outreach Review](0220-Outreach_Review) |
-|  Wednesday February 22, 2023  | 0222 |  [CyberAmbassadors Lets talk](0222-CyberAmbassadors_Lets_talk) |
+|  Wednesday February 22, 2023  | 0222 |  [CyberAmbassadors Leveling Up](0222-CyberAmbassadors_Leveling_Up) |
 |  Friday February 24, 2023  | 0224 |  [Tutorial Selection](0224-Tutorial_Selection) |
 |  Sunday February 26, 2023  | 0226 |  [ASSIGNMENT Reproducability](0226-ASSIGNMENT_Reproducability) |
 | Monday February 27, 2023   | 0227 | Installation Code Review |
-| Wednesday March 1, 2023   | 0301 | CyberAmbassadors Its Complicated |
+| Wednesday March 1, 2023   | 0301 | CyberAmbassadors Lets talk |
 | Friday March 3, 2023   | 0303 | Google Colab |
 | Monday March 6, 2023   | 0306 | Nothing Due (Spring Break) |
 | Monday March 6, 2023   | 0306 | Spring Break |
@@ -39,11 +39,11 @@
 | Friday March 10, 2023   | 0310 | Spring Break |
 |  Sunday March 12, 2023  | 0312 |  [ASSIGNMENT Closed Loop Presentation Slides](0312-ASSIGNMENT_Closed_Loop_Presentation_Slides) |
 | Monday March 13, 2023   | 0313 | Closed Loop Presentation Slide Review |
-| Wednesday March 15, 2023   | 0315 | CyberAmbassadors Leading the Team |
+| Wednesday March 15, 2023   | 0315 | CyberAmbassadors Its Complicated |
 | Friday March 17, 2023   | 0317 | Distance metrics |
 |  Sunday March 19, 2023  | 0319 |  [ASSIGNMENT Closed loop Video](0319-ASSIGNMENT_Closed_loop_Video) |
 | Monday March 20, 2023   | 0320 | Closed Loop Presentations |
-| Wednesday March 22, 2023   | 0322 | Group work |
+| Wednesday March 22, 2023   | 0322 | CyberAmbassadors Leading the Team |
 | Friday March 24, 2023   | 0324 | Finish Distance Metrics |
 |  Sunday March 26, 2023  | 0326 |  [ASSIGNMENT Figure reproducability](0326-ASSIGNMENT_Figure_reproducability) |
 | Monday March 27, 2023   | 0327 | Figure Reproducibility Review |

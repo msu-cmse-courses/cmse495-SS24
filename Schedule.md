@@ -40,15 +40,15 @@
 |  Sunday March 12, 2023  | 0312 |  [ASSIGNMENT Closed Loop Presentation Slides](0312-ASSIGNMENT_Closed_Loop_Presentation_Slides) |
 | Monday March 13, 2023   | 0313 | Closed Loop Presentation Slide Review |
 | Wednesday March 15, 2023   | 0315 | CyberAmbassadors Its Complicated |
-| Friday March 17, 2023   | 0317 | Distance metrics |
+| Friday March 17, 2023   | 0317 | Tutorial Development |
 |  Sunday March 19, 2023  | 0319 |  [ASSIGNMENT Closed loop Video](0319-ASSIGNMENT_Closed_loop_Video) |
 | Monday March 20, 2023   | 0320 | Closed Loop Presentations |
 | Wednesday March 22, 2023   | 0322 | CyberAmbassadors Leading the Team |
-| Friday March 24, 2023   | 0324 | Finish Distance Metrics |
+| Friday March 24, 2023   | 0324 | Tutorial Presentations |
 |  Sunday March 26, 2023  | 0326 |  [ASSIGNMENT Figure reproducability](0326-ASSIGNMENT_Figure_reproducability) |
 | Monday March 27, 2023   | 0327 | Figure Reproducibility Review |
 | Wednesday March 29, 2023   | 0329 | CyberAmbassadors Leading the Change |
-| Friday March 31, 2023   | 0331 | Cell Tower Colors |
+| Friday March 31, 2023   | 0331 | Deep Tutorial Review |
 |  Sunday April 2, 2023  | 0402 |  [ASSIGNMENT Full Project Draft](0402-ASSIGNMENT_Full_Project_Draft) |
 | Monday April 3, 2023   | 0403 | Full Project Review |
 | Wednesday April 5, 2023   | 0405 | CyberAmbassadors Leading with Principles |

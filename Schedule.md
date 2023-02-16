@@ -30,9 +30,9 @@
 |  Wednesday February 22, 2023  | 0222 |  [CyberAmbassadors Leveling Up](0222-CyberAmbassadors_Leveling_Up) |
 |  Friday February 24, 2023  | 0224 |  [Selection Matrix](0224-Selection_Matrix) |
 |  Sunday February 26, 2023  | 0226 |  [ASSIGNMENT Reproducability](0226-ASSIGNMENT_Reproducability) |
-| Monday February 27, 2023   | 0227 | Installation Code Review |
-| Wednesday March 1, 2023   | 0301 | CyberAmbassadors Lets talk |
-| Friday March 3, 2023   | 0303 | Tutorial Selection |
+|  Monday February 27, 2023  | 0227 |  [Installation Code Review](0227-Installation_Code_Review) |
+|  Wednesday March 1, 2023  | 0301 |  [CyberAmbassadors Lets talk](0301-CyberAmbassadors_Lets_talk) |
+|  Friday March 3, 2023  | 0303 |  [Tutorial Selection](0303-Tutorial_Selection) |
 | Monday March 6, 2023   | 0306 | Nothing Due (Spring Break) |
 | Monday March 6, 2023   | 0306 | Spring Break |
 | Wednesday March 8, 2023   | 0308 | Spring Break |

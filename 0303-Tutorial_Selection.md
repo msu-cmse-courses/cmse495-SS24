@@ -8,7 +8,7 @@ In class today your team will finish your tutorials and share them with the clas
 ## Agenda (80 Minutes)
 
 - (60 minutes) Tutorial Selection Presentations and Collision Detection
-- (20 minutes) Work on Tutorials
+- (20 minutes) Group Work
 
 ----
 # Tutorial Selection Presentations and Collision Detection

@@ -10,8 +10,8 @@
 
 ## Agenda (80 Minutes)
 
-- (?? minutes) Extra time for presentations if needed.
-- (80 minutes) Selection Matrix
+- (10 minutes) Introducing Selection Matrix
+- (70 minutes) Group Meeting
 
 
 ---
@@ -37,7 +37,7 @@ Identify selection criteria you will use to pick your tutorial.  Try your best t
 
 The rows (or columns) of your matrix should be contain a list of the tutorials your group brainstormed. The columns (or rows) will be 
 
-## Step 4: Write a Report
+## Step 4: Write a Report (optional)
 
 ### Header
 Short title (include team name and member names)  
@@ -57,7 +57,7 @@ Given the matrix, write up about how the selection was made.
 
 # Submission
 
-Add your Report to your teams folder. Be ready to present this to next weeks class.
+If you wrote a report please put it in your teams folder. Be ready to present your choices next week in class.
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

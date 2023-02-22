@@ -1,4 +1,4 @@
-# Closed Loop Presentation
+# Closed Loop Presentation StoryBoard
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Movie_-_The_Noun_Project.svg/1024px-Movie_-_The_Noun_Project.svg.png"  width="50%" alt="Logo representing video recording">
 
@@ -37,11 +37,7 @@ Let your instructor know what you are thinking, we may be able to show you some 
 
 ** Remember an open-loop is a part of the project for which you do not know what your solution will include.  
 
-# 3. Final Report Draft (optional but recommended)
-
-Teams also are encouraged to submit a draft of their [Final Report](INAL-Project_Template).  Instructors will provide ungraded feedback for the reports so you can make any last changes before the due date next Sunday.
-
-# 4. Submission
+# 3. Submission
 
 
 Include a copy of the storyboard in your teams drive as a PowerPoint file. Give it a reasonable name so the instructor does not need to hunt for it. The title of the email should be "**_GROUP_NAME-CMSE495_Closed-Loop_Presentation_Storyboard_**".
@@ -49,9 +45,9 @@ Include a copy of the storyboard in your teams drive as a PowerPoint file. Give 
 
 ---
 
-# 3. Grading Rubric
+# 4. Grading Rubric
 
-These slides will be only graded on good effort attempt to complete the project. Instructors will give feedback on the slides so that students can integrate changes before the presentation date.  
+Turn something in and you will get credit.  Slides will not be graded. ~~These slides will be only graded on good effort attempt to complete the project.~~ Instructors will give feedback on the slides (and report) so that students can integrate changes before the presentation date.  
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

@@ -16,9 +16,9 @@
 
 
 
-~~Once the mixed teams are formed, have the host team walk the guest team through the install instructions.  If possible have them someone from the guest team try to install the software from scratch from either their personal laptop or a personal account such as the HPCC, jupyterhub or googlecolab. ~~
+~~Once the mixed teams are formed, have the host team walk the guest team through the install instructions.  If possible have them someone from the guest team try to install the software from scratch from either their personal laptop or a personal account such as the HPCC, jupyterhub or googlecolab.~~
 
-~~Have the group members from the host team hold back and only give advice and support if there is a problem.  The idea is to streamline the process so that the documentation and instructions are sufficient for someone outside of the host team to be able to install, test and use the software without needing to have help.   As a group take lots of notes and review the unit tests and documentation to the host team some constructive feedback.  If you are a member of the host team, use this as an opportunity to fix problems as they are discovered. ~~
+~~Have the group members from the host team hold back and only give advice and support if there is a problem.  The idea is to streamline the process so that the documentation and instructions are sufficient for someone outside of the host team to be able to install, test and use the software without needing to have help.   As a group take lots of notes and review the unit tests and documentation to the host team some constructive feedback.  If you are a member of the host team, use this as an opportunity to fix problems as they are discovered.~~
 
 ~~As a group, prepare a report for the instructor and the development team. This report should provide the following:~~
 
@@ -29,7 +29,7 @@
 - ~~Is there anything that needed to be added to the documentation to make the project easier to install and test?~~
 - ~~Was there anything you could add to the project to help make the project better?~~
 
-~~This is a group effort, email the report to the instructors and cc the other members that are at the table (both host and guest teams). ~~
+~~This is a group effort, email the report to the instructors and cc the other members that are at the table (both host and guest teams).~~
 
 ~~Note, the above instructions may not work for all projects.  Some projects may require a demonstration instead of an actual install due to software limitations. **_Make sure not to violate any NDA_**~~
 

@@ -32,9 +32,11 @@ My sure your instructions are tailored to your audience.  Some projects may need
 
 # Submission
 
-Add your files to your team git repository on or before the deadline.  
+Add your files to your team git repository on or before the deadline. 
 
-**_NOTE_**: We will be sharing the installation instructions with your classmates. Make sure there is a way to install and test the instructions without violating your NDA. If there is a problem please notify your instructors. 
+**_NOTE_**: Please turn in what you can this week. Your instructor will review your notes and try to provide feedback and a grade estimation. This portion of the final assignment will not be officially graded until the end of the semester.  If your team would like to skip turning in this assignment please send a note to the instructors letting us know.
+
+~~**_NOTE_**: We will be sharing the installation instructions with your classmates. Make sure there is a way to install and test the instructions without violating your NDA. If there is a problem please notify your instructors. ~~
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

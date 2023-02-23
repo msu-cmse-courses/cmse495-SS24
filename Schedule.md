@@ -39,8 +39,8 @@
 | Friday March 10, 2023   | 0310 | Spring Break |
 |  Sunday March 12, 2023  | 0312 |  [ASSIGNMENT Closed Loop Presentation StoryBoard](0312-ASSIGNMENT_Closed_Loop_Presentation_StoryBoard) |
 |  Monday March 13, 2023  | 0313 |  [Closed Loop Presentation Slide Review](0313-Closed_Loop_Presentation_Slide_Review) |
-| Wednesday March 15, 2023   | 0315 | CyberAmbassadors Its Complicated |
-| Friday March 17, 2023   | 0317 | Tutorial Development |
+|  Wednesday March 15, 2023  | 0315 |  [CyberAmbassadors Its Complicated](0315-CyberAmbassadors_Its_Complicated) |
+|  Friday March 17, 2023  | 0317 |  [Tutorial Development](0317-Tutorial_Development) |
 |  Sunday March 19, 2023  | 0319 |  [ASSIGNMENT Closed loop Video](0319-ASSIGNMENT_Closed_loop_Video) |
 | Monday March 20, 2023   | 0320 | Closed Loop Presentations |
 | Wednesday March 22, 2023   | 0322 | CyberAmbassadors Leading the Team |

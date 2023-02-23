@@ -3,9 +3,15 @@
 
 ## Agenda (80 Minutes)
 
+
+- (10 minutes) CATME Team Review
 - ~~(50 minutes) Installation Code Reviews~~
 - (10 minutes) Annocements and check-in
 - (80 minutes) Group meeting
+
+# CATME team review
+
+When you get to class, log onto CATME and provide a review of you and your team's performace on the slide development milestone.
 
 ---
 

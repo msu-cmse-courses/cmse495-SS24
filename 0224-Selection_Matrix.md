@@ -1,9 +1,3 @@
-##ANSWER
-
-- Finish example below
-
-##ANSWER
-
 # Selection Matrix
 
 

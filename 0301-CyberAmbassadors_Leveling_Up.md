@@ -11,7 +11,11 @@
 
 # Leveling Up
 
-No link to slides yet (There are surprises) I will add the link after class. 
+
+
+
+[Link to slides](https://docs.google.com/presentation/d/1KS0mtmHpNvjOEx3iQiB3lRsdbI9683-Ii26gYD67Q90/edit?usp=sharing)
+
 
 ---
 # D2L Quiz

@@ -42,9 +42,9 @@
 |  Wednesday March 15, 2023  | 0315 |  [CyberAmbassadors Its Complicated](0315-CyberAmbassadors_Its_Complicated) |
 |  Friday March 17, 2023  | 0317 |  [Tutorial Development](0317-Tutorial_Development) |
 |  Sunday March 19, 2023  | 0319 |  [ASSIGNMENT Closed loop Video](0319-ASSIGNMENT_Closed_loop_Video) |
-| Monday March 20, 2023   | 0320 | Closed Loop Presentations |
-| Wednesday March 22, 2023   | 0322 | CyberAmbassadors Leading the Team |
-| Friday March 24, 2023   | 0324 | Tutorial Presentations |
+|  Monday March 20, 2023  | 0320 |  [Closed Loop Presentations](0320-Closed_Loop_Presentations) |
+|  Wednesday March 22, 2023  | 0322 |  [CyberAmbassadors Leading the Team](0322-CyberAmbassadors_Leading_the_Team) |
+|  Friday March 24, 2023  | 0324 |  [Tutorial Presentations](0324-Tutorial_Presentations) |
 |  Sunday March 26, 2023  | 0326 |  [ASSIGNMENT Figure reproducability](0326-ASSIGNMENT_Figure_reproducability) |
 | Monday March 27, 2023   | 0327 | Figure Reproducibility Review |
 | Wednesday March 29, 2023   | 0329 | CyberAmbassadors Leading the Change |

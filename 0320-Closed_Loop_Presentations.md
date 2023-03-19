@@ -8,11 +8,14 @@ Today we will watch the closed loop presentation videos.  There should be enough
 - (80 minutes) Presentations 5-10 minutes each
 
 
+# CATME team review
+
+When you get to class, log onto CATME and provide a review of you and your team's performace on the slide development milestone.
+
 # Next week (Figure Reproducibility)
 
 Quick question/answer about next week's Figure Reproducibility assignment:
 
-- [Link to assignment](0327-ASSIGNMENT_Figure_reproducability)
 
 # Closed loop Video Feedback From
 

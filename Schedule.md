@@ -43,23 +43,23 @@
 |  Friday March 17, 2023  | 0317 |  [Tutorial Development](0317-Tutorial_Development) |
 |  Sunday March 19, 2023  | 0319 |  [ASSIGNMENT Closed loop Video](0319-ASSIGNMENT_Closed_loop_Video) |
 |  Monday March 20, 2023  | 0320 |  [Closed Loop Presentations](0320-Closed_Loop_Presentations) |
-|  Wednesday March 22, 2023  | 0322 |  [CyberAmbassadors Leading the Team](0322-CyberAmbassadors_Leading_the_Team) |
+| Wednesday March 22, 2023   | 0322 | Project Day |
 |  Friday March 24, 2023  | 0324 |  [Tutorial Pull Requests](0324-Tutorial_Pull_Requests) |
 |  Sunday March 26, 2023  | 0326 |  [ASSIGNMENT Figure reproducability](0326-ASSIGNMENT_Figure_reproducability) |
 |  Monday March 27, 2023  | 0327 |  [Figure Reproducibility Review](0327-Figure_Reproducibility_Review) |
-|  Wednesday March 29, 2023  | 0329 |  [CyberAmbassadors Leading the Change](0329-CyberAmbassadors_Leading_the_Change) |
+|  Wednesday March 29, 2023  | 0329 |  [CyberAmbassadors Leading the Team](0329-CyberAmbassadors_Leading_the_Team) |
 |  Friday March 31, 2023  | 0331 |  [Deep Tutorial Review](0331-Deep_Tutorial_Review) |
 |  Sunday April 2, 2023  | 0402 |  [ASSIGNMENT Full Project Draft](0402-ASSIGNMENT_Full_Project_Draft) |
 | Monday April 3, 2023   | 0403 | Full Project Review |
-| Wednesday April 5, 2023   | 0405 | CyberAmbassadors Leading with Principles |
+| Wednesday April 5, 2023   | 0405 | Project Day |
 |  Friday April 7, 2023  | 0407 |  [Tutorial Reivew](0407-Tutorial_Reivew) |
 |  Sunday April 9, 2023  | 0409 |  [ASSIGNMENT Future Work](0409-ASSIGNMENT_Future_Work) |
 | Monday April 10, 2023   | 0410 | Future Project Proposal Reviews |
-| Wednesday April 12, 2023   | 0412 | Systems Thinking for Project Success Exercise |
+|  Wednesday April 12, 2023  | 0412 |  [CyberAmbassadors Leading the Change](0412-CyberAmbassadors_Leading_the_Change) |
 | Friday April 14, 2023   | 0414 | Project Workday |
 |  Sunday April 16, 2023  | 0416 |  [ASSIGNMENT Final Presentaiton Slides](0416-ASSIGNMENT_Final_Presentaiton_Slides) |
 | Monday April 17, 2023   | 0417 | Final Presentation Slide Review |
-| Wednesday April 19, 2023   | 0419 | Systems Thinking for Project Success Day 2 |
+| Wednesday April 19, 2023   | 0419 | CyberAmbassadors Leading with Principles |
 | Friday April 21, 2023   | 0421 | Data4Justice Conference |
 |  Sunday April 23, 2023  | 0423 |  [ASSIGNMENT Final Project](0423-ASSIGNMENT_Final_Project) |
 | Monday April 24, 2023   | 0424 | Course Review and Reflection |

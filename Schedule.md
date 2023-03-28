@@ -60,11 +60,11 @@
 |  Sunday April 16, 2023  | 0416 |  [ASSIGNMENT Final Presentaiton Slides](0416-ASSIGNMENT_Final_Presentaiton_Slides) |
 | Monday April 17, 2023   | 0417 | Final Presentation Slide Review |
 | Wednesday April 19, 2023   | 0419 | CyberAmbassadors Leading with Principles |
-| Friday April 21, 2023   | 0421 | Data4Justice Conference |
+| Friday April 21, 2023   | 0421 | Project Day |
 |  Sunday April 23, 2023  | 0423 |  [ASSIGNMENT Final Project](0423-ASSIGNMENT_Final_Project) |
 | Monday April 24, 2023   | 0424 | Course Review and Reflection |
 | Wednesday April 26, 2023   | 0426 | Showcase |
-| Friday April 28, 2023   | 0428 | No Class Due to Engeering Design Day |
+| Friday April 28, 2023   | 0428 | No Class Due to Engeering Design and Data4Justice Conference |
 | Sunday April 30, 2023   | 0430 | Final Extended Deadline |
 
 Date and Time of final TBD

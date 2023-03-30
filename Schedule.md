@@ -50,7 +50,7 @@
 |  Wednesday March 29, 2023  | 0329 |  [CyberAmbassadors Leading the Team](0329-CyberAmbassadors_Leading_the_Team) |
 |  Friday March 31, 2023  | 0331 |  [Deep Tutorial Review](0331-Deep_Tutorial_Review) |
 |  Sunday April 2, 2023  | 0402 |  [ASSIGNMENT Full Project Draft](0402-ASSIGNMENT_Full_Project_Draft) |
-| Monday April 3, 2023   | 0403 | Full Project Review |
+|  Monday April 3, 2023  | 0403 |  [Full Project Review](0403-Full_Project_Review) |
 | Wednesday April 5, 2023   | 0405 | Project Day |
 |  Friday April 7, 2023  | 0407 |  [Tutorial Reivew](0407-Tutorial_Reivew) |
 |  Sunday April 9, 2023  | 0409 |  [ASSIGNMENT Future Work](0409-ASSIGNMENT_Future_Work) |

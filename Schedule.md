@@ -54,7 +54,7 @@
 | Wednesday April 5, 2023   | 0405 | Project Day |
 |  Friday April 7, 2023  | 0407 |  [Tutorial Reivew](0407-Tutorial_Reivew) |
 |  Sunday April 9, 2023  | 0409 |  [ASSIGNMENT Future Work](0409-ASSIGNMENT_Future_Work) |
-| Monday April 10, 2023   | 0410 | Future Project Proposal Reviews |
+|  Monday April 10, 2023  | 0410 |  [Future Project Proposal Reviews](0410-Future_Project_Proposal_Reviews) |
 | Wednesday April 12, 2023   | 0412 | CyberAmbassadors Leading the Change |
 | Friday April 14, 2023   | 0414 | Project Workday |
 |  Sunday April 16, 2023  | 0416 |  [ASSIGNMENT Final Presentaiton Slides](0416-ASSIGNMENT_Final_Presentaiton_Slides) |

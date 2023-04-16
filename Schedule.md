@@ -43,7 +43,7 @@
 |  Friday March 17, 2023  | 0317 |  [Tutorial Development](0317-Tutorial_Development) |
 |  Sunday March 19, 2023  | 0319 |  [ASSIGNMENT Closed loop Video](0319-ASSIGNMENT_Closed_loop_Video) |
 |  Monday March 20, 2023  | 0320 |  [Closed Loop Presentations](0320-Closed_Loop_Presentations) |
-| Wednesday March 22, 2023   | 0322 | Project Day |
+|  Wednesday March 22, 2023  | 0322 |  [Project Day](0322-Project_Day) |
 |  Friday March 24, 2023  | 0324 |  [Tutorial Pull Requests](0324-Tutorial_Pull_Requests) |
 |  Sunday March 26, 2023  | 0326 |  [ASSIGNMENT Figure reproducability](0326-ASSIGNMENT_Figure_reproducability) |
 |  Monday March 27, 2023  | 0327 |  [Figure Reproducibility Review](0327-Figure_Reproducibility_Review) |
@@ -51,19 +51,19 @@
 |  Friday March 31, 2023  | 0331 |  [Deep Tutorial Review](0331-Deep_Tutorial_Review) |
 |  Sunday April 2, 2023  | 0402 |  [ASSIGNMENT Full Project Draft](0402-ASSIGNMENT_Full_Project_Draft) |
 |  Monday April 3, 2023  | 0403 |  [Full Project Review](0403-Full_Project_Review) |
-| Wednesday April 5, 2023   | 0405 | Project Day |
+|  Wednesday April 5, 2023  | 0405 |  [Project Day](0405-Project_Day) |
 |  Friday April 7, 2023  | 0407 |  [Tutorial Reivew](0407-Tutorial_Reivew) |
 |  Sunday April 9, 2023  | 0409 |  [ASSIGNMENT Future Work](0409-ASSIGNMENT_Future_Work) |
 |  Monday April 10, 2023  | 0410 |  [Future Project Proposal Reviews](0410-Future_Project_Proposal_Reviews) |
 |  Wednesday April 12, 2023  | 0412 |  [CyberAmbassadors Leading the Change](0412-CyberAmbassadors_Leading_the_Change) |
 |  Friday April 14, 2023  | 0414 |  [Project Workday](0414-Project_Workday) |
 |  Sunday April 16, 2023  | 0416 |  [ASSIGNMENT Final Presentaiton Slides](0416-ASSIGNMENT_Final_Presentaiton_Slides) |
-| Monday April 17, 2023   | 0417 | Final Presentation Slide Review |
-| Wednesday April 19, 2023   | 0419 | CyberAmbassadors Leading with Principles |
-| Friday April 21, 2023   | 0421 | Project Day |
+|  Monday April 17, 2023  | 0417 |  [Final Presentation Slide Review](0417-Final_Presentation_Slide_Review) |
+|  Wednesday April 19, 2023  | 0419 |  [CyberAmbassadors Leading with Principles](0419-CyberAmbassadors_Leading_with_Principles) |
+|  Friday April 21, 2023  | 0421 |  [Project Day](0421-Project_Day) |
 |  Sunday April 23, 2023  | 0423 |  [ASSIGNMENT Final Project](0423-ASSIGNMENT_Final_Project) |
-| Monday April 24, 2023   | 0424 | Course Review and Reflection |
-| Wednesday April 26, 2023   | 0426 | Showcase |
+|  Monday April 24, 2023  | 0424 |  [Course Review and Reflection](0424-Course_Review_and_Reflection) |
+|  Wednesday April 26, 2023  | 0426 |  [Showcase](0426-Showcase) |
 | Friday April 28, 2023   | 0428 | No Class Due to Engeering Design and Data4Justice Conference |
 | Sunday April 30, 2023   | 0430 | Final Extended Deadline |
 

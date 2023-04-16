@@ -9,6 +9,8 @@ All projects should follow the same basic structure laid out at the beginning of
     ProjectName/
         .gitignore
         docs/
+             Final_Report.md (if approrirate)
+             Final_Report.pdf
              package_name/
                   module1.html
                   module2.html
@@ -21,11 +23,6 @@ All projects should follow the same basic structure laid out at the beginning of
               datafile3.xls
         LICENSE.txt
         makefile
-        Reports/
-             Meeting_Minutes.md
-             Team_Charter.md
-             Project_proposal.ipynb
-             Closed_loop_Report.ipynb
         package_name/
               __init__.py
               module1.py
@@ -36,8 +33,7 @@ All projects should follow the same basic structure laid out at the beginning of
                   test_module2.py
         README.md
         setup.py
-        Final_Report.md
-        Final_Report.pdf
+
         Installation_instructions.ipynb
         Figure1.ipynb
         Figure2.ipynb

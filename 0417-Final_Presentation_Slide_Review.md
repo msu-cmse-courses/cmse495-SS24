@@ -1,16 +1,20 @@
-# Final Presentation Slide Review
+# Final Presentation Storyboard Review
 
 
 
 ## Agenda (80 Minutes)
 
-- (5 minutes) CATME team review
-- (5 minutes) Next week "Final presentations"
-- (70 minutes) Group meeting
+- (?? minutes) Storyboard Review
+- (?? minutes) Group meeting
 
-# CATME team review
+# Storyboard Review
 
-When you get to class, log onto CATME and provide a review of you and your team's performace on the slide development milestone.
+This is a team paring exercise.  Your team will work with another team to review your final video storyboards.   As a group, write an email report for the instructor and the other team. This report should provide the following:
+
+- List the proposal team name and the evaluator team name.
+- Ideas for making the video better.
+
+Make sure you title the email and make it clear your group name and the group you are reviewing).  Email the group and the instructors to get credit. 
 
 # Next Week! Final Presentations
 

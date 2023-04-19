@@ -1,5 +1,3 @@
-[Link to this Jupyter Notebook](FINAL-Project-Template-INSTRUCTOR.ipynb)
-
 The goal of the project report is to provide a document that could be printed out and given to someone to read and fully understand the project.  This document should be written like a scientific paper and not include dynamic content such as video and code that needs to be run (although figures and images are encouraged).  
 
 You can print this report as a PDF and include it as an attachment in your email to the instructor and sponsors.  

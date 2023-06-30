@@ -8,12 +8,12 @@ The capstone course has three major goals:
 3. Provide opportunities for students and faculty in the department to build relationships and network with industry partners, community organizations, and campus colleagues. 
 
 ## Team Projects
-Michigan State University and the Department of Computational Mathematics Science and Engineering would like to thank these generous sponsors for supporting our students.  A list of the the Spring 2022 project sponsors can be found by clicking on the following link:
+Michigan State University and the Department of Computational Mathematics Science and Engineering would like to thank these generous community partners for supporting our students.  A list of past community partners can be found by clicking on the following link:
 
-- [Spring 2022 Project Sponsor List](./Sponsors-2022)
-- [Spring 2023 Project Sponsor List](./Sponsors-2023)
+- [Spring 2022 Partner List](./Sponsors-2022)
+- [Spring 2023 Partner List](./Sponsors-2023)
 
-If you are interested in being a project sponsor for **_Spring 2024_** please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project sponsor please see our [Project Sponsor Flyer](CMSE495_Project_Sponsor_Flyer.pdf)
+If you have a project and are interested in being a CMSE495 community partner for **_Spring 2024_** please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project sponsor please see our [Project Sponsor Page](./Seeking-Community_Partners)
 
 ## Course Structure
 The class will meet three times a week during the 15-week semester. Classroom time will be divided across three broad activity categories:

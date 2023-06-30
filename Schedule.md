@@ -1,4 +1,4 @@
-# Preliminary Course Schedule (DATES ARE WRONG) 
+# Preliminary Course Schedule  
 
 | Date |  number | assignment |
 |------|---------|------------|

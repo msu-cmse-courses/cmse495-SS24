@@ -5,12 +5,21 @@ Michigan State University
 Spring 2024 (January 8 - April 19)  
 <http://cmse.msu.edu/cmse495>
 
-The Department of Computational Mathematics, Science, and Engineering (CMSE) at Michigan State University (MSU) is seeking community partners1 to support projects in the Data Science Capstone Course. The broad goals of this capstone course are: (1) to provide practical, team-based, project development experiences to MSU’s senior undergraduate data science students, and (2) to help our partners make connections with data science students that may support the community partner’s technical and/or recruiting needs. 
+The Department of Computational Mathematics, Science, and Engineering (CMSE) at Michigan State University (MSU) is seeking community partners<sup>1</sup> to support projects in the Data Science Capstone Course. The broad goals of this capstone course are: (1) to provide practical, team-based, project development experiences to MSU’s senior undergraduate data science students, and (2) to help our partners make connections with data science students that may support the community partner’s technical and/or recruiting needs. 
+
+If you are interested please considering filling out the [MSU Data Science Community Sponsor Connection Form](https://docs.google.com/forms/d/e/1FAIpQLSf5BgOa_6cWDkZeaGiz75VI4s3FbyG5lq3MRSBrrlzi5UNiuQ/viewform) and we will get back to you!
+
+### Who can be a community partner?
+
+Typically our partners come from Industry, Govermental Agencies and Non-profit institutions. Our partners have ideas/problems and are looking for student teams to help solve their data science projects. We are seeking a varity of projects ideas and generally prefer ones that have one or more of the following properties:
+
+- Social impact
+- Impact to the State of Michigan
+- Direct impact of students and their intersts
 
 ### Overview of Projects and Expectations 
 
 Community partners will have the opportunity to work with the course instructor to develop a data science project appropriate for a team of 4-5 seniors who have completed most of their Data Science degree at MSU. These students are familiar with multiple programming languages (e.g., Python, R, MATLAB, Bash, C++) and have experience in a range of data science skills and topics, including; databases, data manipulation, statistical analysis, optimization methods, computational modeling, large scale computing, scientific visualization, and machine learning. Each member of the team will work approximately 10-15 hours a week during the 10-12 week project period (totaling 400-900 person-hours per project). Unless the community partner makes other arrangements in advance, students will use university computational resources to complete the project, and results will be shared publicly (final reports, presentations, etc.). 
-
 
 ![Capstone project data pipeline. 1. Collection/Generation 2. Cleaning/Munging 3. Model Building / Analysis 4. Visualization/Storytelling](https://lh6.googleusercontent.com/sV_oA-H-N_72gDSifKKoaYbw-YztPhhWtbD6NGYhGmELlPPPyj7SOWh5HA0WkmpXpugkG0cb90-eiAZT8PKuCU9bbxIuqEp2sdRyv38LyP2ij6gdaYR0yrOxtJZIgbiYEg=w512)
 
@@ -51,7 +60,10 @@ The tentative project timeline for Spring 2024 is outlined below:
 | March 20-24   | Mid-Semester Progress Report and Presentation  |
 | April  24-28  | Final presentations                            |
 
-Potential community partners should reach out to Dr. Dirk Colbry (colbrydi@msu.edu) as soon as possible.   
+Potential community partners should fill out the [MSU Data Science Community Sponsor Connection Form](https://docs.google.com/forms/d/e/1FAIpQLSf5BgOa_6cWDkZeaGiz75VI4s3FbyG5lq3MRSBrrlzi5UNiuQ/viewform).  If you would like you can also reach out to Dr. Dirk Colbry (colbrydi@msu.edu) directly.
+
+<sup>1</sup>Note: In addition to project descriptions, project sponsorship typically includes a \$5,000 donation to the CMSE department; this donation may be waived for projects sponsored by units at MSU, non-profits or in the state
+government
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

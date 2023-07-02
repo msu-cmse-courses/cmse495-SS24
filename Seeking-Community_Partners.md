@@ -54,6 +54,10 @@ The tentative project timeline for Spring 2024 is outlined below:
 
 | Week          | Description                                    |
 | ------------- | ---------------------------------------------- |
+| July 1 - November 15 | Seek out potential community partners |
+| July 1 - November 15 | Meet with commmunity partners to develop project plan and work on agreements | 
+| December 1, 2023 | Finish agreements between MSU and community partners |
+| January 1-15  | Finalize and upload projects descriptions to website | 
 | January 16-20 | Teams assigned to each project                 |
 | January 23-27 | First Sponsor/Student/Faculty networking event |
 | February 6-10 | Project proposal presentations                 |

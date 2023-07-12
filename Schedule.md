@@ -25,8 +25,8 @@
 | Monday February 12, 2024 | 0212 | Proposal Presentations |
 | Wednesday February 14, 2024 | 0214 | CyberAmbassadors Lets talk |
 | Friday February 16, 2024 | 0216 | Selection Matrix |
-| Sunday February 18, 2024 | 0218 | Installation Code Review |
-| Monday February 19, 2024 | 0219 | Outreach |
+| Sunday February 18, 2024 | 0218 | ASSIGNMENT Outreach |
+| Monday February 19, 2024 | 0219 | Installation Code Review |
 | Wednesday February 21, 2024 | 0221 | CyberAmbassadors Leveling Up |
 | Friday February 23, 2024 | 0223 | Tutorial Selection |
 | Sunday February 25, 2024 | 0225 | Nothing Due (Spring Break) |

@@ -60,7 +60,7 @@
 | Sunday April 14, 2024 | 0414 | ASSIGNMENT Final Project |
 | Monday April 15, 2024 | 0415 | Course Review and Reflection |
 | Wednesday April 17, 2024 | 0417 | Showcase |
+| Friday April 19, 2024 | 0419 | No Class Due to Engeering Design and Data4Justice Conference |
 | Sunday April 21, 2024 | 0421 | Final Extended Deadline |
-| Sunday April 28, 2024 | 0428 | No Class Due to Engeering Design and Data4Justice Conference |
 
 Date and Time of final TBD

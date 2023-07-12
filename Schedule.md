@@ -29,13 +29,13 @@
 | Monday February 19, 2024 | 0219 | Outreach |
 | Wednesday February 21, 2024 | 0221 | CyberAmbassadors Leveling Up |
 | Friday February 23, 2024 | 0223 | Tutorial Selection |
+| Sunday February 25, 2024 | 0225 | Nothing Due (Spring Break) |
 | Monday February 26, 2024 | 0226 | Spring Break |
 | Wednesday February 28, 2024 | 0228 | Spring Break |
 | Friday March 1, 2024 | 0301 | Spring Break |
 | Sunday March 3, 2024 | 0303 | ASSIGNMENT Closed Loop Presentation StoryBoard |
 | Monday March 4, 2024 | 0304 | Closed Loop Presentation Slide Review |
 | Wednesday March 6, 2024 | 0306 | CyberAmbassadors Its Complicated |
-| Wednesday March 6, 2024 | 0306 | Nothing Due (Spring Break) |
 | Friday March 8, 2024 | 0308 | Tutorial Development |
 | Sunday March 10, 2024 | 0310 | ASSIGNMENT Reproducability |
 | Monday March 11, 2024 | 0311 | Final Presentation Slide Review |

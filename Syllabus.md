@@ -20,7 +20,7 @@ The class will meet three times a week during the 15-week semester and will be d
 - Professional skills training and practice (Wednesdays)
 - Software development and technical skills practice (Fridays)
 
-Early in the semester, students will be divided into capstone teams of 4-5 people and assigned a semester long project with multiple milestones.  The majority of a students grade will come from working constructively as a team to accomplish the project goals (as defined by the instructor and the project sponsors). When possible, the majority of out-of-class time will be dedicated to tasks and deliverables that relate directly to the capstone team's projects.  Students should expect to spend an average of 10-15 hours a week outside of class working on their capstone projects.  
+Early in the semester, students will be divided into capstone teams of 4-5 people and assigned a semester long project with multiple milestones.  The majority of a students grade will come from working constructively as a team to accomplish the project goals (as defined by the instructor and the project community partners). When possible, the majority of out-of-class time will be dedicated to tasks and deliverable that relate directly to the capstone team's projects.  Students should expect to spend an average of 10-15 hours a week outside of class working on their capstone projects.  
 
 ### Class participation
 
@@ -51,7 +51,7 @@ Teams are expected to conduct multiple formal team meetings each week to work on
 - List of decisions made and tasks accomplished during the meeting.
 - List of action items including; what needs to be done, who is responsible for the item and when this task will be complete. 
 
-Meeting notes are to be stored in the Microsoft Teams folder, should be kept up to date, clearly organized and easily accessible by the instructors (and possible project sponsors) so that they may check in at any time to evaluate progress and provide feedback for the team.  
+Meeting notes are to be stored in the Microsoft Teams folder, should be kept up to date, clearly organized and easily accessible by the instructors so that they may check in at any time to evaluate progress and provide feedback for the team.  
 
 ### Peer Evaluations (Also Typically due on Mondays)
 Student grades will be partially determine by how well you work as a team.  Teamwork can sometimes be difficult but it is required when joining our modern workforce.  Peer evaluations will be used to help the instructor evaluate team dynamics and provide support to the groups if there are some team dynamic issues that need to be resolved. 
@@ -189,12 +189,12 @@ Department of Plant Biology and Department of Computational Mathematics, Science
 
 ## Non-Disclosure Agreements (NDA) and Intellectual Property (IP) agreements
 
-Many of the project sponsors will require students to sign an Non-Disclosure Agreement (NDA) and in some rare cases will be asked to sign an Intellectual Property (IP) agreement.  Your instructor will work with you so that you understand your rights and you will not be required to sign either document.    If students are unwilling or unable to sign these document they will be assigned to an alternative project.
+Many of the project community partners will require students to sign an Non-Disclosure Agreement (NDA) and in some rare cases will be asked to sign an Intellectual Property (IP) agreement.  Your instructor will work with you so that you understand your rights and you will not be required to sign either document.    If students are unwilling or unable to sign these document they will be assigned to an alternative project.
 
 - [Standard NDA Template](./Files/CMSE495_MSU_NDA_2023_template.docx)
 - [Standard IP Template](./Files/CMSE495_MSU_IP_Agreement_2023_template.docx)
 
-Note: The above are examples of the standard agreements. Slight variations may be made depending on the project sponsor's needs and will be given to students to review before project selection.
+Note: The above are examples of the standard agreements. Slight variations may be made depending on the project community partner's needs and will be given to students to review before project selection.
 
 ## Class attendance 
 

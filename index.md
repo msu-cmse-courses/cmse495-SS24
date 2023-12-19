@@ -3,9 +3,9 @@
 ---
 **NOTE**
 
-### Seeking 2024 Project Sponsors!
+### Seeking 2024 Project community partners!
 
-If you have a project and are interested in being a CMSE495 community partner for **_Spring 2024_** please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project sponsor please see our [Project Sponsor Page](./Seeking-Community_Partners)
+If you have a project and are interested in being a CMSE495 community partner for **_Spring 2024_** please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project community partner please see our [Project community partner Page](./Seeking-Community_Partners)
 
 ---
 
@@ -23,7 +23,7 @@ Michigan State University and the Department of Computational Mathematics Scienc
 - [Spring 2022 Partner List](./Sponsors-2022)
 - [Spring 2023 Partner List](./Sponsors-2023)
 
-If you have a project and are interested in being a CMSE495 community partner for **_Spring 2024_** please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project sponsor please see our [Project Sponsor Page](./Seeking-Community_Partners)
+If you have a project and are interested in being a CMSE495 community partner for **_Spring 2024_** please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project community partner please see our [Project community partner Page](./Seeking-Community_Partners)
 
 ## Course Structure
 The class will meet three times a week during the 15-week semester. Classroom time will be divided across three broad activity categories:
@@ -40,12 +40,14 @@ Additional information will be added to this website as we get closer to the sta
 ## Links
 
 - [Course Syllabus (Draft)](Syllabus)
-- [Course Teams Channel](https://teams.microsoft.com/l/team/19%3aRRB7sSKDmlZyTBAuTzuQpEmxpGP_Gkxk_xZH_wD_rNY1%40thread.tacv2/conversations?groupId=183b473a-4dc9-414f-8665-20b050c3a058&tenantId=22177130-642f-41d9-9211-74237ad5687d)
+- [Course Teams Channel](https://teams.microsoft.com/l/team/19%3aZIr6qxmoN4-aYHTqckkubQlYQU1MifUf9AuLQJSKC5k1%40thread.tacv2/conversations?groupId=0942a9ef-430c-4e60-b188-4d53e2ca22e6&tenantId=22177130-642f-41d9-9211-74237ad5687d)
 - [Requesting Funds](Requesting_Funds)
 - [Weekly 3x3 Team Reflections (Due Wednesdays)](Weekly-3x3)
 - [Preliminary Schedule](Schedule)
 - [Desire2Learn](http://d2l.msu.edu) (aka D2L) - MSU Course management system
 
+# Other Resources
+- [Secure transfer of large files using MSU FileDepot](https://filedepot.msu.edu/)
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

@@ -7,7 +7,7 @@ Spring 2024 (January 8 - April 19)
 
 The Department of Computational Mathematics, Science, and Engineering (CMSE) at Michigan State University (MSU) is seeking community partners<sup>1</sup> to support projects in the Data Science Capstone Course. The broad goals of this capstone course are: (1) to provide practical, team-based, project development experiences to MSU’s senior undergraduate data science students, and (2) to help our partners make connections with data science students that may support the community partner’s technical and/or recruiting needs. 
 
-If you are interested please considering filling out the [MSU Data Science Community Sponsor Connection Form](https://docs.google.com/forms/d/e/1FAIpQLSf5BgOa_6cWDkZeaGiz75VI4s3FbyG5lq3MRSBrrlzi5UNiuQ/viewform) and we will get back to you!
+If you are interested please considering filling out the [MSU Data Science Community Partner Connection Form](https://docs.google.com/forms/d/e/1FAIpQLSf5BgOa_6cWDkZeaGiz75VI4s3FbyG5lq3MRSBrrlzi5UNiuQ/viewform) and we will get back to you!
 
 ### Who can be a community partner?
 
@@ -15,7 +15,7 @@ Typically our partners come from Industry, Govermental Agencies and Non-profit i
 
 - Social impact
 - Impact to the State of Michigan
-- Direct impact of students and their intersts
+- Direct impact of students and their interests
 
 ### Overview of Projects and Expectations 
 
@@ -59,15 +59,14 @@ The tentative project timeline for Spring 2024 is outlined below:
 | December 1, 2023 | Finish agreements between MSU and community partners |
 | January 1-15  | Finalize and upload projects descriptions to website | 
 | January 16-20 | Teams assigned to each project                 |
-| January 23-27 | First Sponsor/Student/Faculty networking event |
+| January 23-27 | First Community Partner/Student/Faculty networking event |
 | February 6-10 | Project proposal presentations                 |
 | March 20-24   | Mid-Semester Progress Report and Presentation  |
 | April  24-28  | Final presentations                            |
 
-Potential community partners should fill out the [MSU Data Science Community Sponsor Connection Form](https://docs.google.com/forms/d/e/1FAIpQLSf5BgOa_6cWDkZeaGiz75VI4s3FbyG5lq3MRSBrrlzi5UNiuQ/viewform).  If you would like you can also reach out to Dr. Dirk Colbry (colbrydi@msu.edu) directly.
+Potential community partners should fill out the [MSU Data Science Community Partner Connection Form](https://docs.google.com/forms/d/e/1FAIpQLSf5BgOa_6cWDkZeaGiz75VI4s3FbyG5lq3MRSBrrlzi5UNiuQ/viewform).  If you would like you can also reach out to Dr. Dirk Colbry (colbrydi@msu.edu) directly.
 
-<sup>1</sup>Note: In addition to project descriptions, project sponsorship typically includes a \$5,000 donation to the CMSE department; this donation may be waived for projects sponsored by units at MSU, non-profits or in the state
-government
+<sup>1</sup>Note: In addition to project descriptions, project partnership typically includes a \$5,000 donation to the CMSE department; this donation may be waived for projects partnered by units at MSU, non-profits or in the state government
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

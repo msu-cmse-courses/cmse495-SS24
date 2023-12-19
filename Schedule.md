@@ -2,7 +2,7 @@
 
 | Date |  number | assignment |
 |------|---------|------------|
-| Monday January 8, 2024 | 0108 | Welcome |
+| Monday January 8, 2024 | 0108 |  [Welcome](0108-Welcome) |
 | Wednesday January 10, 2024 | 0110 | CyberAmbassadors First Contact |
 | Friday January 12, 2024 | 0112 | Project Review |
 | Sunday January 14, 2024 | 0114 | ASSIGNMENT Project Preferences |
@@ -13,15 +13,15 @@
 | Monday January 22, 2024 | 0122 | Anticpating Challenges |
 | Wednesday January 24, 2024 | 0124 | Community Engaged Learning I |
 | Friday January 26, 2024 | 0126 | DTTD Review |
-| Sunday January 28, 2024 | 0128 | ASSIGNMENT Proposal |
+| Sunday January 28, 2024 | 0128 | ASSIGNMENT Plan |
 | Monday January 29, 2024 | 0129 | Project Plan |
 | Wednesday January 31, 2024 | 0131 | CyberAmbassadors Speaking up |
 | Friday February 2, 2024 | 0202 | DTTD Pull request |
-| Sunday February 4, 2024 | 0204 | ASSIGNMENT Proposal Presentation Slides |
+| Sunday February 4, 2024 | 0204 | ASSIGNMENT Plan Video Storyboard |
 | Monday February 5, 2024 | 0205 | Proposal Presentation Slide Review |
 | Wednesday February 7, 2024 | 0207 | Community Engaged Learning II |
 | Friday February 9, 2024 | 0209 | DTTD Presentations |
-| Sunday February 11, 2024 | 0211 | ASSIGNMENT Proposal Video |
+| Sunday February 11, 2024 | 0211 | ASSIGNMENT Plan Video |
 | Monday February 12, 2024 | 0212 | Proposal Presentations |
 | Wednesday February 14, 2024 | 0214 | CyberAmbassadors Lets talk |
 | Friday February 16, 2024 | 0216 | Selection Matrix |
@@ -33,19 +33,19 @@
 | Monday February 26, 2024 | 0226 | Spring Break |
 | Wednesday February 28, 2024 | 0228 | Spring Break |
 | Friday March 1, 2024 | 0301 | Spring Break |
-| Sunday March 3, 2024 | 0303 | ASSIGNMENT Closed Loop Presentation StoryBoard |
-| Monday March 4, 2024 | 0304 | Closed Loop Presentation Slide Review |
+| Sunday March 3, 2024 | 0303 | ASSIGNMENT Beta Demo Presentation StoryBoard |
+| Monday March 4, 2024 | 0304 | Beta Presentation Slide Review |
 | Wednesday March 6, 2024 | 0306 | CyberAmbassadors Its Complicated |
 | Friday March 8, 2024 | 0308 | Tutorial Development |
-| Sunday March 10, 2024 | 0310 | ASSIGNMENT Reproducability |
+| Sunday March 10, 2024 | 0310 | ASSIGNMENT Install Instructions |
 | Monday March 11, 2024 | 0311 | Final Presentation Slide Review |
 | Wednesday March 13, 2024 | 0313 | Project Day |
 | Friday March 15, 2024 | 0315 | Tutorial Pull Requests |
-| Sunday March 17, 2024 | 0317 | ASSIGNMENT Closed loop Video |
-| Monday March 18, 2024 | 0318 | Closed Loop Presentations |
+| Sunday March 17, 2024 | 0317 | ASSIGNMENT Beta Demo Video |
+| Monday March 18, 2024 | 0318 | Beta Presentations |
 | Wednesday March 20, 2024 | 0320 | CyberAmbassadors Leading the Team |
 | Friday March 22, 2024 | 0322 | Deep Tutorial Review |
-| Sunday March 24, 2024 | 0324 | ASSIGNMENT Figure reproducability |
+| Sunday March 24, 2024 | 0324 | ASSIGNMENT Reproducability |
 | Monday March 25, 2024 | 0325 | Figure Reproducibility Review |
 | Wednesday March 27, 2024 | 0327 | Project Day |
 | Friday March 29, 2024 | 0329 | Tutorial Reivew |

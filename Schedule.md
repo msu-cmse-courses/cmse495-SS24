@@ -1,8 +1,8 @@
 # Preliminary Course Schedule  
 
 
-
 ## Week 2
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday January 8, 2024 | 0108 |  [Welcome](0108-Welcome) |
@@ -10,8 +10,8 @@
 | Friday January 12, 2024 | 0112 | Project Review |
 | Sunday January 14, 2024 | 0114 | ASSIGNMENT Project Preferences |
 
-
 ## Week 3
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday January 15, 2024 | 0115 | MLK No Class |
@@ -19,8 +19,8 @@
 | Friday January 19, 2024 | 0119 | Team Meeting |
 | Sunday January 21, 2024 | 0121 | ASSIGNMENT Project Organization |
 
-
 ## Week 4
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday January 22, 2024 | 0122 | Anticpating Challenges |
@@ -28,8 +28,8 @@
 | Friday January 26, 2024 | 0126 | DTTD Review |
 | Sunday January 28, 2024 | 0128 | ASSIGNMENT Plan |
 
-
 ## Week 5
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday January 29, 2024 | 0129 | Project Plan |
@@ -37,8 +37,8 @@
 | Friday February 2, 2024 | 0202 | DTTD Pull request |
 | Sunday February 4, 2024 | 0204 | ASSIGNMENT Plan Video Storyboard |
 
-
 ## Week 6
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday February 5, 2024 | 0205 | Proposal Presentation Slide Review |
@@ -46,8 +46,8 @@
 | Friday February 9, 2024 | 0209 | DTTD Presentations |
 | Sunday February 11, 2024 | 0211 | ASSIGNMENT Plan Video |
 
-
 ## Week 7
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday February 12, 2024 | 0212 | Proposal Presentations |
@@ -55,8 +55,8 @@
 | Friday February 16, 2024 | 0216 | Selection Matrix |
 | Sunday February 18, 2024 | 0218 | ASSIGNMENT Outreach |
 
-
 ## Week 8
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday February 19, 2024 | 0219 | Installation Code Review |
@@ -64,8 +64,8 @@
 | Friday February 23, 2024 | 0223 | Tutorial Selection |
 | Sunday February 25, 2024 | 0225 | Nothing Due (Spring Break) |
 
-
 ## Week 9
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday February 26, 2024 | 0226 | Spring Break |
@@ -73,8 +73,8 @@
 | Friday March 1, 2024 | 0301 | Spring Break |
 | Sunday March 3, 2024 | 0303 | ASSIGNMENT Beta Demo Presentation StoryBoard |
 
-
 ## Week 10
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday March 4, 2024 | 0304 | Beta Presentation Slide Review |
@@ -82,8 +82,8 @@
 | Friday March 8, 2024 | 0308 | Tutorial Development |
 | Sunday March 10, 2024 | 0310 | ASSIGNMENT Install Instructions |
 
-
 ## Week 11
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday March 11, 2024 | 0311 | Final Presentation Slide Review |
@@ -91,8 +91,8 @@
 | Friday March 15, 2024 | 0315 | Tutorial Pull Requests |
 | Sunday March 17, 2024 | 0317 | ASSIGNMENT Beta Demo Video |
 
-
 ## Week 12
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday March 18, 2024 | 0318 | Beta Presentations |
@@ -100,8 +100,8 @@
 | Friday March 22, 2024 | 0322 | Deep Tutorial Review |
 | Sunday March 24, 2024 | 0324 | ASSIGNMENT Reproducability |
 
-
 ## Week 13
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday March 25, 2024 | 0325 | Figure Reproducibility Review |
@@ -109,8 +109,8 @@
 | Friday March 29, 2024 | 0329 | Tutorial Presentations |
 | Sunday March 31, 2024 | 0331 | ASSIGNMENT Full Project Draft |
 
-
 ## Week 14
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday April 1, 2024 | 0401 | Full Project Review |
@@ -118,8 +118,8 @@
 | Friday April 5, 2024 | 0405 | Project Workday |
 | Sunday April 7, 2024 | 0407 | ASSIGNMENT Future Work |
 
-
 ## Week 15
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday April 8, 2024 | 0408 | Future Project Proposal Reviews |
@@ -127,8 +127,8 @@
 | Friday April 12, 2024 | 0412 | Project Workday |
 | Sunday April 14, 2024 | 0414 | ASSIGNMENT Final Project |
 
-
 ## Week 16
+
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday April 15, 2024 | 0415 | Course Review and Reflection |

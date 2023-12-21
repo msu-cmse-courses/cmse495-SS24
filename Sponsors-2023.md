@@ -12,7 +12,7 @@ All of the sponsor logos presented here and elsewhere in this website are the pr
 | [![Henry Ford Hospital](./assets/img/HenryFordHospital.png)](https://www.henryford.com/) | 
 | [![Intramotev](./assets/img/Intramotev.png)](https://intramotev.com/) | 
 | [![Kellogg's Logo](./assets/img/Kelloggs.png)](https://www.kelloggcompany.com/)  | 
-| [![Kinesiology](https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Michigan_State_Athletics_logo.svg/640px-Michigan_State_Athletics_logo.svg.png)](https://education.msu.edu/kin/) | 
+| [**_The Department of Kinesiology_** ![Kinesiology](https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Michigan_State_Athletics_logo.svg/640px-Michigan_State_Athletics_logo.svg.png)](https://education.msu.edu/kin/) | 
 | [![NC3](./assets/img/NC3.png)]() | 
 | [![Neogen Logo](./assets/img/Neogen.jpg)](https://www.neogen.com/)  |
 | **_The QSIDE Institutue_** [![QSIDE Institute Logo](./assets/img/QSIDE.png)](https://qsideinstitute.org/)  

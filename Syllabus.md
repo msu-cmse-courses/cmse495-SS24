@@ -58,6 +58,15 @@ Student grades will be partially determine by how well you work as a team.  Team
 
 **_NOTE_**: Team peer evaluation surveys will be conducted using [CATME](https://www.catme.org/help), an on-line tool though the course [Desire2Learn](http://d2l.msu.edu) website.  
 
+### Weekly 3x3 Reflections (Due Mondays)
+
+It is expected that each team will email a weekly Three-by-three (3x3) reflection to the instructors every Monday (cc all team members). The 3x3 reflection will consist of three major topics with exactly three bullet points in each topic (not 2 or 4). The three topics include;  1) What your team accomplish since your last report, 2) Challenges, Questions or problems your team is trying to solve  3) Your teams plans for next week.   Each of the 9 bullets in the 3x3 reflection should be no longer than a couple of sentences. Additional details can be placed in the same email after the report (not required). 
+
+A template for 3x3 email can be found [here](Weekly-3x3)
+
+----
+
+After mailing your 3x3, put a coy of the reflection in a folder inside your team drive.
 ### Group Professional Development Activities (Typically on Wednesdays)
 
 Students will learn professional skills training in communication, teamwork and leadership.  Curriculum for these training are provided by the NSF funded CyberAmbassador program and supported in part by Tau Beta Pi (the national engineering honor society).   During these activities students will learn topics such as conflict management, solving problems in teams, conducting an effective meeting, diversity equity and inclusion, data ethics, etc.  This curriculum is intended to be highly interactive and, whenever possible, relate directly to capstone project activities. 

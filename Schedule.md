@@ -2,7 +2,7 @@
 
 
 
-## Week 1
+## Week 2
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday January 8, 2024 | 0108 |  [Welcome](0108-Welcome) |
@@ -11,7 +11,7 @@
 | Sunday January 14, 2024 | 0114 | ASSIGNMENT Project Preferences |
 
 
-## Week 2
+## Week 3
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday January 15, 2024 | 0115 | MLK No Class |
@@ -20,7 +20,7 @@
 | Sunday January 21, 2024 | 0121 | ASSIGNMENT Project Organization |
 
 
-## Week 3
+## Week 4
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday January 22, 2024 | 0122 | Anticpating Challenges |
@@ -29,7 +29,7 @@
 | Sunday January 28, 2024 | 0128 | ASSIGNMENT Plan |
 
 
-## Week 4
+## Week 5
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday January 29, 2024 | 0129 | Project Plan |
@@ -38,7 +38,7 @@
 | Sunday February 4, 2024 | 0204 | ASSIGNMENT Plan Video Storyboard |
 
 
-## Week 5
+## Week 6
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday February 5, 2024 | 0205 | Proposal Presentation Slide Review |
@@ -47,7 +47,7 @@
 | Sunday February 11, 2024 | 0211 | ASSIGNMENT Plan Video |
 
 
-## Week 6
+## Week 7
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday February 12, 2024 | 0212 | Proposal Presentations |
@@ -56,7 +56,7 @@
 | Sunday February 18, 2024 | 0218 | ASSIGNMENT Outreach |
 
 
-## Week 7
+## Week 8
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday February 19, 2024 | 0219 | Installation Code Review |
@@ -65,7 +65,7 @@
 | Sunday February 25, 2024 | 0225 | Nothing Due (Spring Break) |
 
 
-## Week 8
+## Week 9
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday February 26, 2024 | 0226 | Spring Break |
@@ -74,7 +74,7 @@
 | Sunday March 3, 2024 | 0303 | ASSIGNMENT Beta Demo Presentation StoryBoard |
 
 
-## Week 9
+## Week 10
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday March 4, 2024 | 0304 | Beta Presentation Slide Review |
@@ -83,7 +83,7 @@
 | Sunday March 10, 2024 | 0310 | ASSIGNMENT Install Instructions |
 
 
-## Week 10
+## Week 11
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday March 11, 2024 | 0311 | Final Presentation Slide Review |
@@ -92,7 +92,7 @@
 | Sunday March 17, 2024 | 0317 | ASSIGNMENT Beta Demo Video |
 
 
-## Week 11
+## Week 12
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday March 18, 2024 | 0318 | Beta Presentations |
@@ -101,7 +101,7 @@
 | Sunday March 24, 2024 | 0324 | ASSIGNMENT Reproducability |
 
 
-## Week 12
+## Week 13
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday March 25, 2024 | 0325 | Figure Reproducibility Review |
@@ -110,7 +110,7 @@
 | Sunday March 31, 2024 | 0331 | ASSIGNMENT Full Project Draft |
 
 
-## Week 13
+## Week 14
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday April 1, 2024 | 0401 | Full Project Review |
@@ -119,7 +119,7 @@
 | Sunday April 7, 2024 | 0407 | ASSIGNMENT Future Work |
 
 
-## Week 14
+## Week 15
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday April 8, 2024 | 0408 | Future Project Proposal Reviews |
@@ -128,7 +128,7 @@
 | Sunday April 14, 2024 | 0414 | ASSIGNMENT Final Project |
 
 
-## Week 15
+## Week 16
 | Date |  number | assignment |
 |------|---------|------------|
 | Monday April 15, 2024 | 0415 | Course Review and Reflection |

@@ -92,6 +92,15 @@ Although it is better to overestimate rather than underestimate, overly large bu
 It is expected that the teams will talk to the instructors before sending in a request.
 
 
+<a name=Honors_Option></a>
+### Honor's Option (DTTD Management team)
+
+This course offers an honor's option.  Student's taking the honor's option will join the DTTD Management team. Members of the DTTD Management team will be added to a special Microsoft Team Channel and will be expected to coordinate with each other (and the instructors) to divide the required work needed to manage the DTTD git repository. This includes organizing the issues list, reviewing pull requests, adding new features to the repository and helping other members of the course with git related questions. This role doesn't require that you are currently a git expert however in your duties on the management team you will be learning a lot about git. 
+
+To get credit for the Honor's Option students must contribute to the DTTD management team and email a short (less than 1-page) report to the instructors before the last day of class with a short paragraph about what they learned being on the management team and a list of tasks/responsibilities that they were responsible for managing. 
+
+If you are interested in getting credit for the Honor's option, please email to your instructors saying you would like to be included in the DTTD management team. 
+
 # Assessment and Grading Information
 
 There are a variety of course activities, with percentages of total grade listed.  More detailed descriptions of each activity can be found elsewhere in the syllabus.  

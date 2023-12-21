@@ -37,7 +37,7 @@ Additional information will be added to this website as we get closer to the sta
 - [Weekly 3x3 Team Reflections (Due Mondays)](Weekly-3x3)
 
 
-# Other Resources
+## Other Resources
 - [CMSE495 Capstone DataTools Tutorial Demo (DTTD) git repository](https://gitlab.msu.edu/CMSE/datatools_tutorial_demo)
 - [Dirk's Git Guide](https://msu-cmse-courses.github.io/cmse802-f20-student/0000--Jupyter-Getting-Started-Guide.html)
 - [Secure transfer of large files using MSU FileDepot](https://filedepot.msu.edu/)

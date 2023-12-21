@@ -43,7 +43,7 @@ Additional information will be added to this website as we get closer to the sta
 - [Preliminary Schedule](Schedule)
 - [Course Teams Channel](https://teams.microsoft.com/l/team/19%3aZIr6qxmoN4-aYHTqckkubQlYQU1MifUf9AuLQJSKC5k1%40thread.tacv2/conversations?groupId=0942a9ef-430c-4e60-b188-4d53e2ca22e6&tenantId=22177130-642f-41d9-9211-74237ad5687d)
 - [Requesting Funds](Requesting_Funds)
-- [Weekly 3x3 Team Reflections (Due Wednesdays)](Weekly-3x3)
+- [Weekly 3x3 Team Reflections (Due Mondays)](Weekly-3x3)
 
 
 # Other Resources

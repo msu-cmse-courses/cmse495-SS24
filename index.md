@@ -15,7 +15,7 @@ Michigan State University and the Department of Computational Mathematics Scienc
 - [Spring 2022 Partner List](./Sponsors-2022)
 - [Spring 2023 Partner List](./Sponsors-2023)
 
-If you have a project and are interested in being a CMSE495 community partner for **_Spring 2024_** please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project community partner please see our [Project community partner Page](./Seeking-Community_Partners)
+If you have a project and are interested in being a future CMSE495 community partner for please reach out to the course instructor (Dr. Dirk Colbry <colbrydi@msu.edu>). For more information on becoming a project community partner please see our [Project community partner Page](./Seeking-Community_Partners)
 
 ## Course Structure
 The class will meet three times a week during the 15-week semester. Classroom time will be divided across three broad activity categories:

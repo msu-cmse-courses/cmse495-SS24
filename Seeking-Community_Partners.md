@@ -2,7 +2,6 @@
 
 Department of Computational Mathematics, Science, and Engineering  
 Michigan State University  
-Spring 2024 (January 8 - April 19)  
 <http://cmse.msu.edu/cmse495>
 
 The Department of Computational Mathematics, Science, and Engineering (CMSE) at Michigan State University (MSU) is seeking community partners<sup>1</sup> to support projects in the Data Science Capstone Course. The broad goals of this capstone course are: (1) to provide practical, team-based, project development experiences to MSU’s senior undergraduate data science students, and (2) to help our partners make connections with data science students that may support the community partner’s technical and/or recruiting needs. 

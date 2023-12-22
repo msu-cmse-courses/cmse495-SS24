@@ -64,9 +64,6 @@ It is expected that each team will email a weekly Three-by-three (3x3) reflectio
 
 A template for 3x3 email can be found [here](Weekly-3x3)
 
-----
-
-After mailing your 3x3, put a coy of the reflection in a folder inside your team drive.
 ### Group Professional Development Activities (Typically on Wednesdays)
 
 Students will learn professional skills training in communication, teamwork and leadership.  Curriculum for these training are provided by the NSF funded CyberAmbassador program and supported in part by Tau Beta Pi (the national engineering honor society).   During these activities students will learn topics such as conflict management, solving problems in teams, conducting an effective meeting, diversity equity and inclusion, data ethics, etc.  This curriculum is intended to be highly interactive and, whenever possible, relate directly to capstone project activities. 

@@ -26,11 +26,9 @@ The class will meet three times a week during the 15-week semester. Classroom ti
 
 When possible, the majority of time outside of class will be dedicated to tasks and deliverables that relate directly to the capstone teams’ projects.  
 
-Additional information will be added to this website as we get closer to the start of class in the spring...
-
 ## Links
 
-- [Course Syllabus (Draft)](Syllabus)
+- [Course Syllabus](Syllabus)
 - [Preliminary Schedule](Schedule)
 - [Course Teams Channel](https://teams.microsoft.com/l/team/19%3aZIr6qxmoN4-aYHTqckkubQlYQU1MifUf9AuLQJSKC5k1%40thread.tacv2/conversations?groupId=0942a9ef-430c-4e60-b188-4d53e2ca22e6&tenantId=22177130-642f-41d9-9211-74237ad5687d)
 - [Requesting Funds](Requesting_Funds)

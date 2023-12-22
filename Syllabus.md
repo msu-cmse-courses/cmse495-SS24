@@ -154,11 +154,11 @@ Accompanying course information, including the official course calendar, can be 
 ## Course Meeting Time and Location
 
 
-Classes will meet weekly on Monday, **_Wednesday and Friday 2:40-4:00pm in Wonders C211_**.
+Classes will meet weekly on **_Monday, Wednesday and Friday 2:40-4:00pm in Union 55_**.
 
 If, during the semester there is a need, we have set aside the following zoom room for this course. Teams must notify the instructor before class if one of their members needs to connect to class remotely (ex. due to illness or travel).  
 
-- <https://msu.zoom.us/j/94087905868>
+- <<ZOOM>>
 
 
 ## Course Schedule
@@ -197,7 +197,7 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 Serena Lotreck (she/her/hers)  
 Department of Plant Biology and Department of Computational Mathematics, Science and Engineering (CMSE)    
 **_Email_**: lotrecks@msu.edu  
-**_Office Hours_**:  Mondays 1:00-2:40pm at Classroom (Wonders Hall C211)  
+**_Office Hours_**:  Mondays 1:00-2:40pm Outside the Classroom (Union 55)  
 
 
 # Course Policies and Expectations

@@ -186,7 +186,7 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 **_Web_**:  <http://www.dirk.colbry.com>  
 **_Office_**: [EB 1516](https://cmse.msu.edu/about/directions/)  
 **_Virtual Office_**:  [Dirk's Zoom Office](https://msu.zoom.us/my/colbrydi)  
-**_Office Hours_**:  Thursdays 2-4pm
+**_Office Hours_**:  Mondays 1:00-2:40pm Outside the Classroom (Union 55)  
 
 * Please visit <http://bookdirk.colbry.com/> to schedule an appointment.
 
@@ -194,10 +194,10 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 
 **_Graduate Teaching Assistant_**: 
 
-Serena Lotreck (she/her/hers)  
-Department of Plant Biology and Department of Computational Mathematics, Science and Engineering (CMSE)    
-**_Email_**: lotrecks@msu.edu  
-**_Office Hours_**:  Mondays 1:00-2:40pm Outside the Classroom (Union 55)  
+Henry Fessler  
+Department of Computational Mathematics, Science and Engineering (CMSE)    
+**_Email_**: fesslerl@msu.edu  
+**_Office Hours_**:  TBD
 
 
 # Course Policies and Expectations

@@ -26,19 +26,21 @@ The class will meet three times a week during the 15-week semester. Classroom ti
 
 When possible, the majority of time outside of class will be dedicated to tasks and deliverables that relate directly to the capstone teams’ projects.  
 
-## Links
+## Course Links
 
 - [Course Syllabus](Syllabus)
 - [Preliminary Schedule](Schedule)
 - [Course Teams Channel](https://teams.microsoft.com/l/team/19%3aZIr6qxmoN4-aYHTqckkubQlYQU1MifUf9AuLQJSKC5k1%40thread.tacv2/conversations?groupId=0942a9ef-430c-4e60-b188-4d53e2ca22e6&tenantId=22177130-642f-41d9-9211-74237ad5687d)
-- [Requesting Funds](Requesting_Funds)
+- [Requesting Funds](Requesting-Funds)
 - [Weekly 3x3 Team Reflections (Due Mondays)](Weekly-3x3)
-
-
-## Other Resources
 - [CMSE495 Capstone DataTools Tutorial Demo (DTTD) git repository](https://gitlab.msu.edu/CMSE/datatools_tutorial_demo)
+
+## Other Recommended Resources
 - [Dirk's Git Guide](https://msu-cmse-courses.github.io/cmse802-f20-student/0000--Jupyter-Getting-Started-Guide.html)
-- [Secure transfer of large files using MSU FileDepot](https://filedepot.msu.edu/)
+- [MSU FileDepot (Secure File Transfer tool)](https://filedepot.msu.edu/)
+- [Code Review Instructions and resources](https://www.pyopensci.org/)
+- [README Generator Tool](https://readme.so/editor)
+- [Tutorials for making Potent Presentations](https://www.eval.org/Education-Programs/Potent-Presentations)
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

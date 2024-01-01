@@ -206,8 +206,8 @@ Department of Computational Mathematics, Science and Engineering (CMSE)
 
 Many of the project community partners will require students to sign an Non-Disclosure Agreement (NDA) and in some rare cases will be asked to sign an Intellectual Property (IP) agreement.  Your instructor will work with you so that you understand your rights and you will not be required to sign either document.    If students are unwilling or unable to sign these document they will be assigned to an alternative project.
 
-- [Standard NDA Template](./Files/CMSE495_MSU_NDA_2023_template.docx)
-- [Standard IP Template](./Files/CMSE495_MSU_IP_Agreement_2023_template.docx)
+- [Standard NDA Template](./Files/CMSE495_MSU_Standard_NDA_template.docx)
+- [Standard IP Template](./Files/CMSE495_MSU_Standard_IP_Agreement_template.docx)
 
 Note: The above are examples of the standard agreements. Slight variations may be made depending on the project community partner's needs and will be given to students to review before project selection.
 

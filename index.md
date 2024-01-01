@@ -31,7 +31,7 @@ When possible, the majority of time outside of class will be dedicated to tasks 
 - [Course Syllabus](Syllabus)
 - [Preliminary Schedule](Schedule)
 - [Course Teams Channel](https://teams.microsoft.com/l/team/19%3aZIr6qxmoN4-aYHTqckkubQlYQU1MifUf9AuLQJSKC5k1%40thread.tacv2/conversations?groupId=0942a9ef-430c-4e60-b188-4d53e2ca22e6&tenantId=22177130-642f-41d9-9211-74237ad5687d)
-- [Requesting Funds](Requesting-Funds)
+- [Requesting Funding](Requesting-Funding)
 - [Weekly 3x3 Team Reflections (Due Mondays)](Weekly-3x3)
 - [CMSE495 Capstone DataTools Tutorial Demo (DTTD) git repository](https://gitlab.msu.edu/CMSE/datatools_tutorial_demo)
 

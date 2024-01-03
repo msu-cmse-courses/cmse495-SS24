@@ -14,7 +14,7 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 01/15 |  [MLK No Class](0115-MLK_No_Class) |
+| Monday | 01/15 | MLK No Class |
 | Wednesday | 01/17 |  [CyberAmbassadors Teaming Up](0117-CyberAmbassadors_Teaming_Up) |
 | Friday | 01/19 |  [Team Meeting](0119-Team_Meeting) |
 | Sunday | 01/21 |  [ASSIGNMENT Project Organization](0121-ASSIGNMENT_Project_Organization) |

@@ -71,7 +71,7 @@
 | Monday | 02/26 | Spring Break |
 | Wednesday | 02/28 | Spring Break |
 | Friday | 03/01 | Spring Break |
-| Sunday | 03/03 |  [ASSIGNMENT Beta Demo Presentation StoryBoard](0303-ASSIGNMENT_Beta_Demo_Presentation_StoryBoard) |
+| Sunday | 03/03 |  [ASSIGNMENT Install Instructions](0303-ASSIGNMENT_Install_Instructions) |
 
 ## Week of March 4
 
@@ -80,7 +80,7 @@
 | Monday | 03/04 | Beta Presentation Slide Review |
 | Wednesday | 03/06 | CyberAmbassadors Its Complicated |
 | Friday | 03/08 | Tutorial Development |
-| Sunday | 03/10 |  [ASSIGNMENT Install Instructions](0310-ASSIGNMENT_Install_Instructions) |
+| Sunday | 03/10 |  [ASSIGNMENT Beta Demo Presentation StoryBoard](0310-ASSIGNMENT_Beta_Demo_Presentation_StoryBoard) |
 
 ## Week of March 11
 

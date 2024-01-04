@@ -48,7 +48,7 @@ The following are a few examples of tools you should be able to get for your hom
 - [Snagit](https://www.techsmith.com/tutorial-snagit.html) Another screen capture program available to Students (or with a free trial). Snagit, is a simple to use video capture program developed by TechSmith (A local company with lots of MSU alumni). A free version of Snagit is available temporarily as long as it is only used for Classwork. [Please see this D2L link for more information and the temporary user agreement](https://d2l.msu.edu/d2l/le/content/1147614/Home).
 - [Camtasia](https://www.techsmith.com/) Another really good capture and editing program by TechSmith. This is their elite editing program with a ton of features.  You may need to give yourself some time to learn how to use the program. A free version of Camtasia is available temporarily as long as it is only used for Classwork. [Here is a workshop that walks you though the basic features of Camtasia](https://colbrydi.github.io/camtasia-studio-tutorial.html).
 - [OpenShot](https://www.openshot.org/) an Open Source video editor.  
-- [FFmpeg](http) Open Source command line video conversion tool. Great for taking a folder of images and combining them into an animated video.  
+- [FFmpeg](https://ffmpeg.org/) Open Source command line video conversion tool. Great for taking a folder of images and combining them into an animated video.  
 - [YouTube](https://YouTube.com/) - You all know this one.  On-line video posting tool.
 - [MediaSpace](https://mediaspace.msu.edu/) Slightly more secure place to post on-line video. Post here if you want to limit video watching to just your instructors and fellow students.   
 

@@ -1,17 +1,14 @@
-# Beta Demo Presentation StoryBoard
+# Beta Demo Presentation Storyboard
 
 <img src="https://live.staticflickr.com/52/141572976_d81ef23726_b.jpg"  alt="Photo of a drawn example storyboard.">
 
 Image courtesy of [Ianus](https://www.flickr.com/photos/ianus/)
 
-For this assignment you and your team will create and submit a 5-6 minute video describing progress on your project and how you have "closed" all of your loops. Tap into your own creativity.  Make something you are proud of and would want to post on-line or include in a presentation. 
+
+
+For this assignment you and your team will "storyboard" your second presentation video for your project beta demo. Tap into your own creativity.  Make something you are proud of and would want to post on-line or include in a presentation. 
 
 We will use time in class to watch the videos, answer questions and provide feedback.
-
-
-
-
-
 
 
 ----
@@ -48,9 +45,12 @@ We really want to see creativity and professionalism.  Think outside of slides a
 
 Let your instructor know what you are thinking, we may be able to show you some easy to use tools to produce your vision. 
 
+---
 # 2. Submission
 
-Include a copy of the storyboard in your teams drive as a PowerPoint file. Give it a reasonable name so the instructor does not need to hunt for it. The title of the email should be "**_GROUP_NAME-CMSE495_Beta_Demo_Storyboard_**".
+Include a copy of the storyboard in your teams drive as a PowerPoint file. Give it a reasonable name so the instructor does not need to hunt for it. 
+
+Send an email to the instructor with a link to the storyboard. The title of the email should be "**_GROUP_NAME-CMSE495_Beta_Demo_Storyboard_**".
 
 
 ---

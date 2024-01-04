@@ -2,7 +2,7 @@
 
 ![Finish Line](https://cdn.pixabay.com/photo/2016/03/31/21/07/checkered-1296203__340.png)
 
-We have been building up to the final project the entire semester.  Make sure you commit any final adjustments to your code, write the final report (A template can be found in the Teams folder), submit your final video and cleaning/organizing your files. 
+We have been building up to the final project the entire semester.  Make sure you commit any final adjustments to your code, write the final report (A template can be found in the Teams folder), submit your final video and clean/organize your files. 
 
 All projects should follow the same basic structure laid out at the beginning of the semester. Team management and organization should go into the Team_folder and any code should be tracked using a git repository. File and folder naming is important but will vary by project.  Use meaningful names as described in prior assignments. Here is an example:
 
@@ -80,8 +80,7 @@ The ```README``` files are extremely important and should be the first "touch po
 <a name="Posting_your_video"></a>
 
 # Posting your video
-
-You may post your video someplace accessible by your instructor and other students.  Probably the easiest place to post is on [YouTube](http://youtube.com/) using a personal Google Account. However, students can also post on the [MSU Mediaspace](http://mediaspace.msu.edu/) or just upload the file to your video file to a Google drive folder. Once up on MediaSpace you can limit access to only MSU people logged in that have access to the URL.  
+You may post your video someplace accessible by your instructor and other students.  Only do this if you are comfortable sharing the video publically. Probably the easiest place to post is on [YouTube](http://youtube.com/) using a personal Google Account. However, students can also post on the [MSU Mediaspace](http://mediaspace.msu.edu/). Once up on MediaSpace you can limit access to only MSU people logged in that have access to the URL.  
 
 Include a link to the URL in your git repository.  A good place would be to embed the video in your ```README.md``` file but you can also embed YouTube videos in a Jupyter notebook.
 
@@ -95,7 +94,7 @@ Make sure you also include the link in your team git repository and the team fin
 
 ----
 
-# Submission
+# Final Submission
 
 Compose a final professional email to your project community partners. Include a pdf of your final report, a zip file of the team "Project_Deliverables" folder and a second zip file of your code repository (a link to git is sufficient if it is public).  Carbon Copy (CC) all members of your team (including yourself) and CC the course instructors.  
 

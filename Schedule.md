@@ -41,7 +41,7 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 02/05 | Proposal Presentation Slide Review |
+| Monday | 02/05 | Proposal Presentation Storyboard Review |
 | Wednesday | 02/07 | Community Engaged Learning II |
 | Friday | 02/09 | DTTD Presentations |
 | Sunday | 02/11 |  [ASSIGNMENT Plan Video](0211-ASSIGNMENT_Plan_Video) |
@@ -80,13 +80,13 @@
 | Monday | 03/04 | Beta Presentation Slide Review |
 | Wednesday | 03/06 | CyberAmbassadors Its Complicated |
 | Friday | 03/08 | Tutorial Development |
-| Sunday | 03/10 |  [ASSIGNMENT Beta Demo Presentation StoryBoard](0310-ASSIGNMENT_Beta_Demo_Presentation_StoryBoard) |
+| Sunday | 03/10 |  [ASSIGNMENT Beta Demo Presentation Storyboard](0310-ASSIGNMENT_Beta_Demo_Presentation_Storyboard) |
 
 ## Week of March 11
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 03/11 | Final Presentation Slide Review |
+| Monday | 03/11 | Final Presentation Storyboard Review |
 | Wednesday | 03/13 | Project Day |
 | Friday | 03/15 | Tutorial Pull Requests |
 | Sunday | 03/17 |  [ASSIGNMENT Beta Demo Video](0317-ASSIGNMENT_Beta_Demo_Video) |
@@ -116,7 +116,7 @@
 | Monday | 04/01 | Full Project Review |
 | Wednesday | 04/03 | CyberAmbassadors Leading the Change |
 | Friday | 04/05 | Project Workday |
-| Sunday | 04/07 |  [ASSIGNMENT Future Work](0407-ASSIGNMENT_Future_Work) |
+| Sunday | 04/07 |  [ASSIGNMENT Final Presentation Storyboard](0407-ASSIGNMENT_Final_Presentation_Storyboard) |
 
 ## Week of April 8
 

@@ -50,7 +50,9 @@ Let your instructor know what you are thinking, we may be able to show you some 
 ---
 # 2. Submission
 
-Include a copy of the storyboard in your teams drive as a PowerPoint file. Give it a reasonable name so the instructor does not need to hunt for it. The title of the email should be "**_GROUP_NAME-CMSE495_Plan_Storyboard_**".
+Include a copy of the storyboard in your teams drive as a PowerPoint file. 
+
+Send an email to the instructor with a link to the storyboard. Give it a reasonable name so the instructor does not need to hunt for it. The title of the email should be "**_GROUP_NAME-CMSE495_Plan_Storyboard_**".
 
 Plan to share a copy of your storyboard with another team during class on Monday.
 

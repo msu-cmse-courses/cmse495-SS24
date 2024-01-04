@@ -125,10 +125,5 @@ Make sure you also include the link in your team git repository and the team fin
 
 Videos will be graded for professionalism and completeness.  Instructors will count off points for poor quality sound or visualizations. This video will specifically want to see an end-to-end demo of the the entire workflow.  Show everything from inputs, to how the data is processed to outputs.
 
----
-# Post-Submission
-
-Put a copy of your video in the Project_Deliverables folder in your team drive.  
-
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

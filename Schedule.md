@@ -24,7 +24,7 @@
 | Day | Date | Assignment |
 |------|---------|------------|
 | Monday | 01/22 | Anticpating Challenges |
-| Wednesday | 01/24 | Community Engaged Learning I |
+| Wednesday | 01/24 | CyberAmbassadors Speaking up |
 | Friday | 01/26 | DTTD Review |
 | Sunday | 01/28 |  [ASSIGNMENT Plan](0128-ASSIGNMENT_Plan) |
 
@@ -33,7 +33,7 @@
 | Day | Date | Assignment |
 |------|---------|------------|
 | Monday | 01/29 | Project Plan |
-| Wednesday | 01/31 | CyberAmbassadors Speaking up |
+| Wednesday | 01/31 | Community Engaged Learning I |
 | Friday | 02/02 | DTTD Pull request |
 | Sunday | 02/04 |  [ASSIGNMENT Plan Video Storyboard](0204-ASSIGNMENT_Plan_Video_Storyboard) |
 

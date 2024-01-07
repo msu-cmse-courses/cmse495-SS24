@@ -18,7 +18,7 @@ By now you should have received an email from your instructor with your assigned
 * You all should now have access to a private channel for your team.  Please verify that all team members have access to the channel as well as the instructors.   
 * Teams are expected to sit together in class.  Since our classroom has monitors at each table, at the beginning of each class each team will be expected to put up a slide on their screen with as a "team name tag". This slide will include the team name, the community partner logo (if there is one) and a list of all members of the team.  
 
-Reminder, the [Project Orginization assignment](0117-ASSIGNMENT_Project_Organization) is due on Sunday
+Reminder, the [Project Orginization assignment](0121-ASSIGNMENT_Project_Organization) is due on Sunday
 
 ---
 

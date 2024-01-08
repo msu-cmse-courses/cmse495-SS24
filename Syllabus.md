@@ -14,7 +14,7 @@ The capstone course has three major goals:
 
 ## Course Format and Activities
 
-The class will meet three times a week during the 15-week semester and will be delivered **_synchronously_**.  Students are expected to attend class during the designated class period (MWF 2:40-4:00pm). Classroom time will be divided across three broad activity categories:
+The class will meet three times a week during the 15-week semester and will be delivered **_synchronously_**.  Students are expected to attend class during the designated class period (MWF 3:00-4:20pm). Classroom time will be divided across three broad activity categories:
 
 - Project planning, team meetings, milestones and reports (Mondays)
 - Professional skills training and practice (Wednesdays)
@@ -154,7 +154,7 @@ Accompanying course information, including the official course calendar, can be 
 ## Course Meeting Time and Location
 
 
-Classes will meet weekly on **_Monday, Wednesday and Friday 2:40-4:00pm in Union 55_**.
+Classes will meet weekly on **_Monday, Wednesday and Friday 3:00-4:20pm in Union 55_**.
 
 If, during the semester there is a need, we have set aside the following zoom room for this course. Teams must notify the instructor before class if one of their members needs to connect to class remotely (ex. due to illness or travel).  
 
@@ -186,7 +186,7 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 **_Web_**:  <http://www.dirk.colbry.com>  
 **_Office_**: [EB 1516](https://cmse.msu.edu/about/directions/)  
 **_Virtual Office_**:  [Dirk's Zoom Office](https://msu.zoom.us/my/colbrydi)  
-**_Office Hours_**:  Mondays 1:00-2:40pm Outside the Classroom (Union 55)  
+**_Office Hours_**:  Mondays 1:00-3:00pm Outside the Classroom (Union 55)  
 
 * Please visit <http://bookdirk.colbry.com/> to schedule an appointment.
 

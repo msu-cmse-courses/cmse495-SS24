@@ -70,6 +70,11 @@ Students will learn professional skills training in communication, teamwork and 
 
 Completion of the entire CyberAmbassador curriculum will result in the students earning a Professional Skills Certificate.
 
+Students who participate in all 9 of the CyberAmbassadors modules will earn the certificate of completion for that program. Earning this certificate is not a requirement to pass this class. 
+
+If a student misses one or more of the modules due to an excused absence, they still can choose to earn the certificate by attending the missing module through the CyberAmbassador program.  Information about times for upcoming virtual workshops can be found here: 
+
+- [CyberAmbassador Website](https://sites.google.com/msu.edu/cyberambassadors/home/certificate)
 
 ### DataTools (Typically on Fridays)
 

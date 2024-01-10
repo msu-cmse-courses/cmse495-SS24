@@ -192,12 +192,14 @@ Institute for Cyber Enabled Research (ICER) and Department of Computational Math
 
 ---
 
-**_Graduate Teaching Assistant_**: 
-
+**_Graduate Teaching Assistant_**:
+ 
 Henry Fessler  
 Department of Computational Mathematics, Science and Engineering (CMSE)    
 **_Email_**: fesslerl@msu.edu  
-**_Office Hours_**:  TBD
+**_Virtual Office_**:  [Henry's Zoom Office](https://msu.zoom.us/j/94906530052)  
+**_Office Hours_**:  Tuesdays 9:00-10:00am, Thursdays 10:00-11:00am on Zoom. Alternate times and in person options on request.
+ 
 
 
 # Course Policies and Expectations

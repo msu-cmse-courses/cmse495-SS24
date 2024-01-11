@@ -1,4 +1,4 @@
-# Preliminary Course Schedule  
+# Course Schedule  
 
 
 ## Week of January 8
@@ -23,9 +23,9 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 01/22 | Anticpating Challenges |
-| Wednesday | 01/24 | CyberAmbassadors Speaking up |
-| Friday | 01/26 | DTTD Review |
+| Monday | 01/22 |  [Anticpating Challenges](0122-Anticpating_Challenges) |
+| Wednesday | 01/24 |  [CyberAmbassadors Speaking up](0124-CyberAmbassadors_Speaking_up) |
+| Friday | 01/26 |  [DTTD Review](0126-DTTD_Review) |
 | Sunday | 01/28 |  [ASSIGNMENT Plan](0128-ASSIGNMENT_Plan) |
 
 ## Week of January 29

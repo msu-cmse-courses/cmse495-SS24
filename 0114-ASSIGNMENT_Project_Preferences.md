@@ -12,7 +12,7 @@ During the first week of class you are expected to review project proposals and 
 3. **_Specify your project preferences_** Fill out the following survey document to specify your preferences. 
     - [Project Survey](https://docs.google.com/forms/d/e/1FAIpQLSeQg_qLqtQFSC2sVHXNskBQgHn54xxf5N5XeDcCaI1NyMPebg/viewform)
 
-You must complete steps 2 & 3 by Friday January 14 in order to get credit for this assignment.  Your instructor will try to arrange the teams by class on Wednesday.  (Reminder that there is no class on Monday due to MLK).
+You must complete steps 2 & 3 by Sunday January 14 in order to get credit for this assignment.  Your instructor will try to arrange the teams by class on Wednesday.  (Reminder that there is no class on Monday due to MLK).
 
 Written by Dr. Dirk Colbry, Michigan State University
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.

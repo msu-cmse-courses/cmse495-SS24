@@ -32,9 +32,9 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 01/29 | Project Plan |
-| Wednesday | 01/31 | Community Engaged Learning I |
-| Friday | 02/02 | DTTD Pull request |
+| Monday | 01/29 |  [Project Plan](0129-Project_Plan) |
+| Wednesday | 01/31 |  [Community Engaged Learning I](0131-Community_Engaged_Learning_I) |
+| Friday | 02/02 |  [DTTD Pull request](0202-DTTD_Pull_request) |
 | Sunday | 02/04 |  [ASSIGNMENT Plan Video Storyboard](0204-ASSIGNMENT_Plan_Video_Storyboard) |
 
 ## Week of February 5

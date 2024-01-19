@@ -83,9 +83,9 @@ When you are done writing up your feedback, share your notes with the other team
 
 # Proposal Presentation
 
-In two weeks, teams will be be giving their first presentation.  Your next deadline will be a full draft of the presentation slides (Due Sunday February 6th). 
+In two weeks, teams will be be giving their first presentation.  Your next deadline will be a full storyboard for the presentation (Due Sunday February 4th). 
 
-- [Link to proposal presentation slide assignment](0205-ASSIGNMENT_Proposal_Presentation_Slides)
+- [Link to plan presentation storyboard assignment](0204-ASSIGNMENT_Plan_Video_Storyboard)
 
 Presentations will be recorded so that they can be shared with the project community partners.  
 

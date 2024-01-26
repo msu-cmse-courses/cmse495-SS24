@@ -42,7 +42,7 @@ The following is a list of teams and the an assigned tutorial form previous seme
 
 Your group is expected to review all of the tutorials. However, today we will start with just this small set.  As a group do the following:
 
-1. Clone the [DTTD](https://github.com/colbrydi/DataTools_Tutorial_Demo) repository.
+1. Clone the [DTTD](https://gitlab.msu.edu/CMSE/datatools_tutorial_demo) repository.
 2. Follow the directions and get your tutorial "working". 
 3. Add "issues" to the git issue list for all things that need to be improved in the tutorial. Make sure the issue is well written and clearly states the file/tutorial that needs fixing.  Every student should add an issue.
 

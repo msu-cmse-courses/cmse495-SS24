@@ -41,9 +41,9 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 02/05 | Proposal Presentation Storyboard Review |
-| Wednesday | 02/07 | Community Engaged Learning II |
-| Friday | 02/09 | DTTD Presentations |
+| Monday | 02/05 |  [Proposal Presentation Storyboard Review](0205-Proposal_Presentation_Storyboard_Review) |
+| Wednesday | 02/07 |  [Community Engaged Learning II](0207-Community_Engaged_Learning_II) |
+| Friday | 02/09 |  [DTTD Presentations](0209-DTTD_Presentations) |
 | Sunday | 02/11 |  [ASSIGNMENT Plan Video](0211-ASSIGNMENT_Plan_Video) |
 
 ## Week of February 12

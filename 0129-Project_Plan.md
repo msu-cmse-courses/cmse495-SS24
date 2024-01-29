@@ -53,7 +53,7 @@ I would like to use this as an opportunity to do some shout outs.  Please think 
 
 # Project Plan Reviews
 
-Exchange proposals with another team (figure out how to connect with them and send the document, a pdf is fine):
+Exchange project plans with another team (figure out how to connect with them and send the document, a pdf is fine):
 
 | Team A | Team B | 
 |--------|--------|

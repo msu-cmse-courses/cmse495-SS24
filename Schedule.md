@@ -50,9 +50,9 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 02/12 | Proposal Presentations |
-| Wednesday | 02/14 | CyberAmbassadors Lets talk |
-| Friday | 02/16 | Selection Matrix |
+| Monday | 02/12 |  [Proposal Presentations](0212-Proposal_Presentations) |
+| Wednesday | 02/14 |  [CyberAmbassadors Lets talk](0214-CyberAmbassadors_Lets_talk) |
+| Friday | 02/16 |  [Selection Matrix](0216-Selection_Matrix) |
 | Sunday | 02/18 |  [ASSIGNMENT Outreach](0218-ASSIGNMENT_Outreach) |
 
 ## Week of February 19

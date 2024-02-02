@@ -1,12 +1,11 @@
 # In-Class Assignment: Pull Request
 
-This week we will practice issueing a "pull request" from a git repository. 
+This week we will practice issuing a "pull request" from a git repository. 
 
 
 ## Agenda (80 Minutes)
 
-- (5 minutes) Fix Instructor's Issue Mistake
-- (55 minutes) Group Review of the Data Tools Tutorial Demo (DTTD)
+- (60 minutes) Group Review of the Data Tools Tutorial Demo (DTTD)
 - (20 minutes) Group co-work time
 
 

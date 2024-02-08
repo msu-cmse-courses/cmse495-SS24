@@ -59,9 +59,9 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 02/19 | Installation Code Review |
-| Wednesday | 02/21 | CyberAmbassadors Leveling Up |
-| Friday | 02/23 | Tutorial Selection |
+| Monday | 02/19 |  [Outreach Review](0219-Outreach_Review) |
+| Wednesday | 02/21 |  [CyberAmbassadors Leveling Up](0221-CyberAmbassadors_Leveling_Up) |
+| Friday | 02/23 |  [Tutorial Selection](0223-Tutorial_Selection) |
 | Sunday | 02/25 | Nothing Due (Spring Break) |
 
 ## Week of February 26
@@ -77,7 +77,7 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 03/04 | Beta Presentation Slide Review |
+| Monday | 03/04 | Install Instruction Review |
 | Wednesday | 03/06 | CyberAmbassadors Its Complicated |
 | Friday | 03/08 | Tutorial Development |
 | Sunday | 03/10 |  [ASSIGNMENT Beta Demo Presentation Storyboard](0310-ASSIGNMENT_Beta_Demo_Presentation_Storyboard) |
@@ -122,7 +122,7 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 04/08 | Future Project Proposal Reviews |
+| Monday | 04/08 | Final presentation Storyboard Feedback |
 | Wednesday | 04/10 | CyberAmbassadors Leading with Principles |
 | Friday | 04/12 | Project Workday |
 | Sunday | 04/14 |  [ASSIGNMENT Final Project](0414-ASSIGNMENT_Final_Project) |

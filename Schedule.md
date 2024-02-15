@@ -77,9 +77,9 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 03/04 | Install Instruction Review |
-| Wednesday | 03/06 | CyberAmbassadors Its Complicated |
-| Friday | 03/08 | Tutorial Development |
+| Monday | 03/04 |  [Install Instruction Review](0304-Install_Instruction_Review) |
+| Wednesday | 03/06 |  [CyberAmbassadors Its Complicated](0306-CyberAmbassadors_Its_Complicated) |
+| Friday | 03/08 |  [Tutorial Development](0308-Tutorial_Development) |
 | Sunday | 03/10 |  [ASSIGNMENT Beta Demo Presentation Storyboard](0310-ASSIGNMENT_Beta_Demo_Presentation_Storyboard) |
 
 ## Week of March 11

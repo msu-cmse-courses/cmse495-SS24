@@ -86,9 +86,9 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 03/11 | Final Presentation Storyboard Review |
-| Wednesday | 03/13 | Project Day |
-| Friday | 03/15 | Tutorial Pull Requests |
+| Monday | 03/11 |  [Final Presentation Storyboard Review](0311-Final_Presentation_Storyboard_Review) |
+| Wednesday | 03/13 |  [CyberAmbassadors Leading the Team](0313-CyberAmbassadors_Leading_the_Team) |
+| Friday | 03/15 |  [Tutorial Pull Requests](0315-Tutorial_Pull_Requests) |
 | Sunday | 03/17 |  [ASSIGNMENT Beta Demo Video](0317-ASSIGNMENT_Beta_Demo_Video) |
 
 ## Week of March 18
@@ -96,7 +96,7 @@
 | Day | Date | Assignment |
 |------|---------|------------|
 | Monday | 03/18 | Beta Presentations |
-| Wednesday | 03/20 | CyberAmbassadors Leading the Team |
+| Wednesday | 03/20 | Project Day |
 | Friday | 03/22 | Deep Tutorial Review |
 | Sunday | 03/24 |  [ASSIGNMENT Reproducability](0324-ASSIGNMENT_Reproducability) |
 

@@ -95,9 +95,9 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 03/18 | Beta Presentations |
-| Wednesday | 03/20 | Project Day |
-| Friday | 03/22 | Deep Tutorial Review |
+| Monday | 03/18 |  [Beta Presentations](0318-Beta_Presentations) |
+| Wednesday | 03/20 |  [CyberAmbassadors Leading the Change](0320-CyberAmbassadors_Leading_the_Change) |
+| Friday | 03/22 |  [Deep Tutorial Review](0322-Deep_Tutorial_Review) |
 | Sunday | 03/24 |  [ASSIGNMENT Reproducability](0324-ASSIGNMENT_Reproducability) |
 
 ## Week of March 25
@@ -114,7 +114,7 @@
 | Day | Date | Assignment |
 |------|---------|------------|
 | Monday | 04/01 | Full Project Review |
-| Wednesday | 04/03 | CyberAmbassadors Leading the Change |
+| Wednesday | 04/03 | Project Day |
 | Friday | 04/05 | Project Workday |
 | Sunday | 04/07 |  [ASSIGNMENT Final Presentation Storyboard](0407-ASSIGNMENT_Final_Presentation_Storyboard) |
 

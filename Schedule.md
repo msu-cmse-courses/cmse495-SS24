@@ -105,7 +105,7 @@
 | Day | Date | Assignment |
 |------|---------|------------|
 | Monday | 03/25 |  [Figure Reproducibility Review](0325-Figure_Reproducibility_Review) |
-| Wednesday | 03/27 |  [Project CoWork](0327-Project_CoWork) |
+| Wednesday | 03/27 |  [CyberAmbassadors Leading with Principles](0327-CyberAmbassadors_Leading_with_Principles) |
 | Friday | 03/29 |  [Tutorial Presentations](0329-Tutorial_Presentations) |
 | Sunday | 03/31 |  [ASSIGNMENT Full Project Draft](0331-ASSIGNMENT_Full_Project_Draft) |
 
@@ -123,7 +123,7 @@
 | Day | Date | Assignment |
 |------|---------|------------|
 | Monday | 04/08 | Final presentation Storyboard Feedback |
-| Wednesday | 04/10 | CyberAmbassadors Leading with Principles |
+| Wednesday | 04/10 |  [Project CoWork](0410-Project_CoWork) |
 | Friday | 04/12 | Project Workday |
 | Sunday | 04/14 |  [ASSIGNMENT Final Project](0414-ASSIGNMENT_Final_Project) |
 

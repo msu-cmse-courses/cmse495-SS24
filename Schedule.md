@@ -104,9 +104,9 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 03/25 | Figure Reproducibility Review |
-| Wednesday | 03/27 | Project Day |
-| Friday | 03/29 | Tutorial Presentations |
+| Monday | 03/25 |  [Figure Reproducibility Review](0325-Figure_Reproducibility_Review) |
+| Wednesday | 03/27 |  [Project CoWork](0327-Project_CoWork) |
+| Friday | 03/29 |  [Tutorial Presentations](0329-Tutorial_Presentations) |
 | Sunday | 03/31 |  [ASSIGNMENT Full Project Draft](0331-ASSIGNMENT_Full_Project_Draft) |
 
 ## Week of April 1

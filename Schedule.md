@@ -123,7 +123,7 @@
 | Day | Date | Assignment |
 |------|---------|------------|
 | Monday | 04/08 | Final presentation Storyboard Feedback |
-| Wednesday | 04/10 |  [Project CoWork](0410-Project_CoWork) |
+| Wednesday | 04/10 | Project CoWork |
 | Friday | 04/12 | Project Workday |
 | Sunday | 04/14 |  [ASSIGNMENT Final Project](0414-ASSIGNMENT_Final_Project) |
 

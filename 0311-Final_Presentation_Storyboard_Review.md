@@ -1,11 +1,9 @@
 # Final Presentation Storyboard Review
 
-
-
 ## Agenda (80 Minutes)
 
-- (?? minutes) Storyboard Review
-- (?? minutes) Group meeting
+- (50 minutes) Storyboard Review
+- (30 minutes) Group meeting
 
 # Storyboard Review
 
@@ -16,9 +14,18 @@ This is a team paring exercise.  Your team will work with another team to review
 
 Make sure you title the email and make it clear your group name and the group you are reviewing).  Email the group and the instructors to get credit. 
 
+| Host Team | Guest Team |
+|-----------|------------|
+| ICER - User Data Analytics  | HFH - Revenue Cycle Prediction | 
+| TwoSix - LLM to Graphs  | City of Grand Rapids - Social Impact | 
+| Kellanova - Point of Sale Analysis  | Tribal Start Program - Tribal Early Childhood Research Data | 
+| CEPI - Anomaly Detection  | Intramotev - Automated Video Data Labeling for Autonomous Trains | 
+| HAP - Synthetic Data Generation  | QSIDE - SToPA: MultiTown Data Analysis | 
+| Ford - Defect Prediction  | Techsmith - Healthy and Engaged User Data Exploration | 
+
 # Next Week! Final Presentations
 
-Next you will turn in your final video presentations.  This presentation will be played in the class and your group will be asked questions about your project. This is the last of three major presentations this semester.  Make sure you practice! You will be given 5-10 minutes for your video. Use the time wisely.
+Next you will turn in your minimal final product video presentations.  This presentation will be played in the class and your group will be asked questions about your project. This is the second of three major presentations this semester.  Make sure you practice! You will be given 5-10 minutes for your video. Use the time wisely.
 
 You must record and edit your presentation ahead of time.  
 

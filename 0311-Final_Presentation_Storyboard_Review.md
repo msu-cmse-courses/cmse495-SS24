@@ -23,7 +23,7 @@ Make sure you title the email and make it clear your group name and the group yo
 | HAP - Synthetic Data Generation  | QSIDE - SToPA: MultiTown Data Analysis | 
 | Ford - Defect Prediction  | Techsmith - Healthy and Engaged User Data Exploration | 
 
-# Next Week! Final Presentations
+# Next Week! Minimum Viable Product Videos
 
 Next you will turn in your minimal final product video presentations.  This presentation will be played in the class and your group will be asked questions about your project. This is the second of three major presentations this semester.  Make sure you practice! You will be given 5-10 minutes for your video. Use the time wisely.
 

@@ -3,8 +3,7 @@
 
 ## Agenda (80 Minutes)
 
-- (20 minutes) Finish off videos
-- (60 minutes) Leading the Team
+- (80 minutes) Leading the Team
 
 
 # Leading the Team

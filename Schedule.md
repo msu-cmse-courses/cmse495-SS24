@@ -113,9 +113,9 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 04/01 | Full Project Review |
-| Wednesday | 04/03 | Project Day |
-| Friday | 04/05 | Project Workday |
+| Monday | 04/01 |  [Full Project Review](0401-Full_Project_Review) |
+| Wednesday | 04/03 |  [Project CoWork](0403-Project_CoWork) |
+| Friday | 04/05 |  [Project CoWork](0405-Project_CoWork) |
 | Sunday | 04/07 |  [ASSIGNMENT Final Presentation Storyboard](0407-ASSIGNMENT_Final_Presentation_Storyboard) |
 
 ## Week of April 8
@@ -123,8 +123,8 @@
 | Day | Date | Assignment |
 |------|---------|------------|
 | Monday | 04/08 | Final presentation Storyboard Feedback |
-| Wednesday | 04/10 | Project CoWork |
-| Friday | 04/12 | Project Workday |
+| Wednesday | 04/10 |  [Project CoWork](0410-Project_CoWork) |
+| Friday | 04/12 |  [Project CoWork](0412-Project_CoWork) |
 | Sunday | 04/14 |  [ASSIGNMENT Final Project](0414-ASSIGNMENT_Final_Project) |
 
 ## Week of April 15

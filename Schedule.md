@@ -133,6 +133,6 @@
 |------|---------|------------|
 | Monday | 04/15 | Course Review and Reflection |
 | Wednesday | 04/17 | Showcase |
-| Friday | 04/19 | No Class Due to Engeering Design |
+| Friday | 04/19 | No Class Due to Engeering Design Day |
 | Sunday | 04/21 | Final Extended Deadline |
 

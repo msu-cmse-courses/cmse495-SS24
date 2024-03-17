@@ -1,8 +1,8 @@
-# Beta Demo Video (aka Closed Loop Presentation)
+# Minimum Viable Product Video
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Movie_-_The_Noun_Project.svg/1024px-Movie_-_The_Noun_Project.svg.png"  width="50%" alt="Logo representing video recording">
 
-For this assignment you and your team will create and submit a 5-6 minute video demo of your project. Tap into your own creativity. This video will be given to your community partners.  Make something you are proud of and would want to post on-line or include in a presentation. 
+For this assignment you and your team will create and submit a 5-6 minute video demo of an end-to-end fully working minimal viable product. Tap into your own creativity. This video will be given to your community partners.  Make something you are proud of and would want to post on-line or include in a presentation. 
 
 We will use time in class to watch the videos, answer questions and provide feedback.
 
@@ -49,7 +49,7 @@ Include a link to the URL in your git repository.  A good place would be to embe
 
 Put a copy of your video in your team drive. 
 
-Have one on your team email a link to the video (or file) to the community partners. Carbon Copy (CC) all members of your team (including yourself) and CC your instructors. The title of the email should be "**_GROUP_NAME-CMSE495_Beta_Demo_Presentation_Video_**".
+Have one on your team email a link to the video (or file) to the community partners. Carbon Copy (CC) all members of your team (including yourself) and CC your instructors. The title of the email should be "**_GROUP_NAME-CMSE495_MVP_Presentation_Video_**".
 
 Make sure you also include the link in your team git repository and the team final report. 
 

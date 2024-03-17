@@ -1,6 +1,6 @@
 # Project Draft
 
-In this assignment you will clean finish up the git structure to make it as easy as possible for others to use.  Since we are past our Beta presentation it is reasonable to assume that you can provide everything needed for someone else to review your project.  We have been doing pieces of this all semester but here we will add a few finishing touches to make the project complete. Specifically we need to put in enough structure such that someone else taking the course can get it up and running. This includes: 
+In this assignment you will clean finish up the git structure to make it as easy as possible for others to use.  Since we are past our MVP presentation it is reasonable to assume that you can provide everything needed for someone else to review your project.  We have been doing pieces of this all semester but here we will add a few finishing touches to make the project complete. Specifically we need to put in enough structure such that someone else taking the course can get it up and running. This includes: 
 
 1. Final Report outline and draft - This doesn't have to be complete but it also should have something written for most sections. 
 2. Installation Instructions

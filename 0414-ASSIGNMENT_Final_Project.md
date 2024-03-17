@@ -25,8 +25,8 @@ All projects should follow the same basic structure laid out at the beginning of
             Propoal.docx
             Proposal_Storyboard.ppt
             Proposal_Video.mp4
-            Beta_Storyboard.ppt
-            Beta_Video.mp4
+            MVP_Storyboard.ppt
+            MVP_Video.mp4
             Final_presntation_Storyboard.ppt
             Final_presentation_video.mp4
             Media_Release.docx

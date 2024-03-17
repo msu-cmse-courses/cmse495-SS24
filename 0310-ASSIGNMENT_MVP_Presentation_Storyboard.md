@@ -1,4 +1,4 @@
-# Beta Demo Presentation Storyboard
+# Minimum Viable Product Presentation Storyboard
 
 <img src="https://live.staticflickr.com/52/141572976_d81ef23726_b.jpg"  alt="Photo of a drawn example storyboard.">
 
@@ -6,7 +6,7 @@ Image courtesy of [Ianus](https://www.flickr.com/photos/ianus/)
 
 
 
-For this assignment you and your team will "storyboard" your second presentation video for your project beta demo. Tap into your own creativity.  Make something you are proud of and would want to post on-line or include in a presentation. 
+For this assignment you and your team will "storyboard" your second presentation video to demo your Minimum Viable Product (MVP). Tap into your own creativity.  Make something you are proud of and would want to post on-line or include in a presentation. 
 
 We will use time in class to watch the videos, answer questions and provide feedback.
 
@@ -16,7 +16,7 @@ We will use time in class to watch the videos, answer questions and provide feed
 
 # 1. Storyboarding
 
-For this project milestone you will make a "[storyboard](https://en.wikipedia.org/wiki/Storyboard)" for your second video that will provide a beta demo of your project.  This video will be shared with your project sponsor so we would like it to look professional and polished.  Feel free to make a copy of your previous storyboard and build off it. Cleaver teams can even reuse some of the video components. 
+For this project milestone you will make a "[storyboard](https://en.wikipedia.org/wiki/Storyboard)" for your second video that will provide a Minimum Viable Product Demo of your project.  This video will be shared with your project sponsor so we would like it to look professional and polished.  Feel free to make a copy of your previous storyboard and build off it. Cleaver teams can even reuse some of the video components. 
 
 A storyboard helps in planning a video and makes sure you keep in your time frame.  Typically a storyboard is a series of images or drawings which include the following components: 
 
@@ -50,7 +50,7 @@ Let your instructor know what you are thinking, we may be able to show you some 
 
 Include a copy of the storyboard in your teams drive as a PowerPoint file. Give it a reasonable name so the instructor does not need to hunt for it. 
 
-Send an email to the instructor with a link to the storyboard. The title of the email should be "**_GROUP_NAME-CMSE495_Beta_Demo_Storyboard_**".
+Send an email to the instructor with a link to the storyboard. The title of the email should be "**_GROUP_NAME-CMSE495_MVP_Storyboard_**".
 
 
 ---

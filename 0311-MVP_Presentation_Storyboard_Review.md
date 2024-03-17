@@ -1,4 +1,4 @@
-# Final Presentation Storyboard Review
+# Minimum Viable Product Storyboard Review
 
 ## Agenda (80 Minutes)
 
@@ -7,7 +7,7 @@
 
 # Storyboard Review
 
-This is a team paring exercise.  Your team will work with another team to review your final video storyboards.   As a group, write an email report for the instructor and the other team. This report should provide the following:
+This is a team paring exercise.  Your team will work with another team to review your MVP video storyboards.   As a group, write an email report for the instructor and the other team. This report should provide the following:
 
 - List the proposal team name and the evaluator team name.
 - Ideas for making the video better.
@@ -25,7 +25,7 @@ Make sure you title the email and make it clear your group name and the group yo
 
 # Next Week! Minimum Viable Product Videos
 
-Next you will turn in your minimal final product video presentations.  This presentation will be played in the class and your group will be asked questions about your project. This is the second of three major presentations this semester.  Make sure you practice! You will be given 5-10 minutes for your video. Use the time wisely.
+Next you will turn in your minimal MVP product video presentations.  This presentation will be played in the class and your group will be asked questions about your project. This is the second of three major presentations this semester.  Make sure you practice! You will be given 5-10 minutes for your video. Use the time wisely.
 
 You must record and edit your presentation ahead of time.  
 

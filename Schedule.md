@@ -80,22 +80,22 @@
 | Monday | 03/04 |  [Install Instruction Review](0304-Install_Instruction_Review) |
 | Wednesday | 03/06 |  [CyberAmbassadors Its Complicated](0306-CyberAmbassadors_Its_Complicated) |
 | Friday | 03/08 |  [Tutorial Development](0308-Tutorial_Development) |
-| Sunday | 03/10 |  [ASSIGNMENT Beta Demo Presentation Storyboard](0310-ASSIGNMENT_Beta_Demo_Presentation_Storyboard) |
+| Sunday | 03/10 |  [ASSIGNMENT MVP Presentation Storyboard](0310-ASSIGNMENT_MVP_Presentation_Storyboard) |
 
 ## Week of March 11
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 03/11 |  [Final Presentation Storyboard Review](0311-Final_Presentation_Storyboard_Review) |
+| Monday | 03/11 |  [MVP Presentation Storyboard Review](0311-MVP_Presentation_Storyboard_Review) |
 | Wednesday | 03/13 |  [CyberAmbassadors Leading the Team](0313-CyberAmbassadors_Leading_the_Team) |
 | Friday | 03/15 |  [Tutorial Pull Requests](0315-Tutorial_Pull_Requests) |
-| Sunday | 03/17 |  [ASSIGNMENT Beta Demo Video](0317-ASSIGNMENT_Beta_Demo_Video) |
+| Sunday | 03/17 |  [ASSIGNMENT MVP Video](0317-ASSIGNMENT_MVP_Video) |
 
 ## Week of March 18
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 03/18 |  [Beta Presentations](0318-Beta_Presentations) |
+| Monday | 03/18 |  [MVP Presentations](0318-MVP_Presentations) |
 | Wednesday | 03/20 |  [CyberAmbassadors Leading the Change](0320-CyberAmbassadors_Leading_the_Change) |
 | Friday | 03/22 |  [Deep Tutorial Review](0322-Deep_Tutorial_Review) |
 | Sunday | 03/24 |  [ASSIGNMENT Reproducability](0324-ASSIGNMENT_Reproducability) |

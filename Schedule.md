@@ -131,8 +131,8 @@
 
 | Day | Date | Assignment |
 |------|---------|------------|
-| Monday | 04/15 | Course Review and Reflection |
-| Wednesday | 04/17 | Showcase |
+| Monday | 04/15 |  [Course Review and Reflection](0415-Course_Review_and_Reflection) |
+| Wednesday | 04/17 |  [Showcase](0417-Showcase) |
 | Friday | 04/19 | No Class Due to Engeering Design Day |
 | Sunday | 04/21 | Final Extended Deadline |
 

@@ -18,7 +18,7 @@ Presentations in the "Digital Poster" format are expected to be flexible and dyn
 - (30 minutes) Group 2 Presentations
 
 
- TV | Group 1 - 3:00-3:30pm| Group 2 - 3:30-4:00pm |
+ TV | Group 1 - 3:00-3:30pm | Group 2 - 3:30-4:00pm |
 |-----|-----------|------------|
 | 1 | City of Grand Rapids - Social Impact  | ICER - User Data Analytics | 
 | 2 | QSIDE - SToPA: MultiTown Data Analysis  | TwoSix - LLM to Graphs | 
@@ -29,7 +29,9 @@ Presentations in the "Digital Poster" format are expected to be flexible and dyn
 
 # Feedback form
 
+* [Direct Link to Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScssYA_K3ewNXkl96ABiNv1bkt_UBRh7FomSZ7KvpaWE8xVuA/viewform)
 
+![QR Link to feedback form](https://lh3.googleusercontent.com/i7-FpvZVQi61iH2h3CNGsrUOLo6QZmHExa5v9Lp6ZvIqW8BigsmridpEuLxGzjKMxvazsy6UFnLDdua7VV6nrPFm5-9HyZkPcXMZ1SOodZ-uJXIiK8fBlOZ-gXknUNeelA=w490)
 
 
 ---

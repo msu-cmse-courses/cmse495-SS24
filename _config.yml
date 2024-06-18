@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: "CMSE 495"
 description: "Michigan State University Data Science Capstone." 
 logo: /assets/img/logo.png
-permalink: /cmse495-SS24/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title

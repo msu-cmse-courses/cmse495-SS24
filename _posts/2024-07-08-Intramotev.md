@@ -5,7 +5,7 @@ author: "Aryan Dhar, Joseph Dougherty, Colin Fairbourn, James Fletcher, Matthew 
 tags: [ "Intramotev", "MSUDataScience", "DataScience", "CapstoneProjects", "IndustryCollaboration" ]
 ---
 
-![Intramotev Object Detection example of a perosn on train tracks](../../../../assets/img/Intramotev_Object_Detection.jpg)
+![Intramotev Object Detection example of a perosn on train tracks](https://msu-cmse-courses.github.io/cmse495-SS24/assets/img/Intramotev_Object_Detection.jpg)
 
 In the Spring 2024 Semester Data Science Capstone course (CMSE 495), our team, comprising Aryan Dhar, Colin Fairbourn, James Fletcher, Joseph Dougherty, and Matthew Roberts, partnered with [Intramotev](https://intramotev.com/), an autonomous train company based in St. Louis, Missouri. 
 
